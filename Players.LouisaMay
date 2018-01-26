@@ -1,0 +1,15 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+author=MichelleC
+charset=ISO-8859-1
+csum=
+ctime=1516729299
+host=173.2.218.48
+name=Players.LouisaMay
+rev=1
+targets=
+text=!!Dossier %25rfloat text-align=center border='2px solid #6e68a3' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=450px height=500px%25 https://i.imgur.com/2DnmzSH.jpg%0a:Manifestations: Twilight Form, Materialize, Image, Possess%0a:Profession: NA%0a:Concept: Ghost%0a:Age: Unknown%0a:Player: NPC%0a!!Description%0aWhen she chooses to show herself, the ghostly figure appears to be a woman in her 20's dressed in leather accented by heavy straps. It is unknown how she entered into the service of Dr. Frank, but is loyal to a fault. The urban legends of hauntings at the Bradley mental hospital's abandoned wing are largely attributed to Louisa and have been going on for nearly one hundred years. It's rumored she was a nurse at the Bradley when it first opened. But she's been largely forgotten.
+time=1516729299
+author:1516729299=MichelleC
+diff:1516729299:1516729299:=1,8d0%0a%3c !!Dossier %25rfloat text-align=center border='2px solid #6e68a3' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=450px height=500px%25 https://i.imgur.com/2DnmzSH.jpg%0a%3c :Manifestations: Twilight Form, Materialize, Image, Possess%0a%3c :Profession: NA%0a%3c :Concept: Ghost%0a%3c :Age: Unknown%0a%3c :Player: NPC%0a%3c !!Description%0a%3c When she chooses to show herself, the ghostly figure appears to be a woman in her 20's dressed in leather accented by heavy straps. It is unknown how she entered into the service of Dr. Frank, but is loyal to a fault. The urban legends of hauntings at the Bradley mental hospital's abandoned wing are largely attributed to Louisa and have been going on for nearly one hundred years. It's rumored she was a nurse at the Bradley when it first opened. But she's been largely forgotten.%0a\ No newline at end of file%0a
+host:1516729299=173.2.218.48

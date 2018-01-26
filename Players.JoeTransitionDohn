@@ -1,0 +1,15 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0
+author=
+charset=ISO-8859-1
+csum=
+ctime=1516848829
+host=73.181.92.174
+name=Players.JoeTransitionDohn
+rev=1
+targets=
+text=%25rfloat text-align=center border='2px solid #008000' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=450px height=500px%25 https://static1.squarespace.com/static/53d94863e4b0d0fb116dc0a7/53f3b3c0e4b0ff75186e8f36/53f3b400e4b0ff75186e8fa2/1408480266121/5OrpQXN.gif%0a%0a!!Dossier%0a:Aliases: Transition%0a:Seeming: Darkling%0a:Kith: Mirrorskin%0a:Mantle: TBD%0a:Court: The Court of Forteans%0a:Motley:  None%0a:Masque/Mein: Nomad/Guru%0a:Public Effects: None%0a:Profession: Unknown%0a:Age: Unknown (Does Age even matter?)%0a:Player: NPC%0a%0a!!Description%0a%0aHe looks old and worn, like leather that hadn’t been cared for in decades, utterly forgotten and left to the elements. His clothes are serviceable, bordering on threadbare with many stitches – it is obvious that he repairs them until they fall apart. Calling him a bum lends to a squint of the eyes and a pointed discussion on what the differences are between the various types of vagabonds – Hobos travel and they work for a living, tramps travel and do not work, and bums neither travel nor do they work… and he is a hobo, thank you very fucking much, not one of those shitty drugged out kids with the facial tattoos, a dog, and body odor that boils asphalt.%0a%0a!!Roleplay Hooks%0a%0a*Hook%0a*Hook%0a*Hook
+time=1516848829
+author:1516848829=
+diff:1516848829:1516848829:=1,24d0%0a%3c %25rfloat text-align=center border='2px solid #008000' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=450px height=500px%25 https://static1.squarespace.com/static/53d94863e4b0d0fb116dc0a7/53f3b3c0e4b0ff75186e8f36/53f3b400e4b0ff75186e8fa2/1408480266121/5OrpQXN.gif%0a%3c %0a%3c !!Dossier%0a%3c :Aliases: Transition%0a%3c :Seeming: Darkling%0a%3c :Kith: Mirrorskin%0a%3c :Mantle: TBD%0a%3c :Court: The Court of Forteans%0a%3c :Motley:  None%0a%3c :Masque/Mein: Nomad/Guru%0a%3c :Public Effects: None%0a%3c :Profession: Unknown%0a%3c :Age: Unknown (Does Age even matter?)%0a%3c :Player: NPC%0a%3c %0a%3c !!Description%0a%3c %0a%3c He looks old and worn, like leather that hadn’t been cared for in decades, utterly forgotten and left to the elements. His clothes are serviceable, bordering on threadbare with many stitches – it is obvious that he repairs them until they fall apart. Calling him a bum lends to a squint of the eyes and a pointed discussion on what the differences are between the various types of vagabonds – Hobos travel and they work for a living, tramps travel and do not work, and bums neither travel nor do they work… and he is a hobo, thank you very fucking much, not one of those shitty drugged out kids with the facial tattoos, a dog, and body odor that boils asphalt.%0a%3c %0a%3c !!Roleplay Hooks%0a%3c %0a%3c *Hook%0a%3c *Hook%0a%3c *Hook%0a\ No newline at end of file%0a
+host:1516848829=73.181.92.174

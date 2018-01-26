@@ -1,0 +1,48 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299
+author=Bambi
+charset=ISO-8859-1
+csum=
+ctime=1516801648
+host=73.144.72.251
+name=Players.SashathequietKillios
+rev=12
+targets=Players.PictureOfUs
+text=http://bloodwyne.weebly.com/uploads/3/7/7/5/3775865/7f9acf6578ba0313218ee33986a68faf_orig.jpg)\%0ahttp://bloodwyne.weebly.com/uploads/3/7/7/5/3775865/th_orig.jpg\%0a\\%0a\\%0aSasha is a quiet person at first, but the more you are around her she opens up and talks softly.  She has a love for animals as is often found with her puppies or her brother Seth.  Sasha has platinum blonde hair and blue eyes that change color with her mood.  She likes to run which helps maintain her athletic appearance. \\%0a\\%0aName: Sasha Killios\\%0a\\%0aAlias: Zaza\\%0a\\%0aDeed Name: The Quiet\\%0a\\%0aAge: 25\\%0a\\%0aAuspice: Cahalith\\%0a\\%0aTribe: Hunters in Darkness\\%0a\\%0aRENOWN:\\%0aPurity 1\\%0aGlory 2\\%0a\\%0aHeight: 5'10"\\%0a\\%0aBuild: Athletic\\%0a\\%0aEducation: High school and Cosmetology\\%0a\\%0aProfession: Cosmetologist and helper at Killios Clinic and Kennel\\%0a\\%0a\\%0aPUBLIC EFFECTS:\\%0aStriking looks 2 (athletic girl next door)\\%0aStatus 1 (entertainment)\\%0a\\%0aPlayer: Bambi\\%0a\\%0a\\%0aHOOKS:\\%0aCosmetologist (all): Sasha is known for her work as a cosmetologist.\\%0aFairly new (all): Sasha and her brother are fairly new, stop by and say hi or bring your furry loved one to Killios Clinic to get your furry companion in tip top shape.\\%0a\\%0aMUSIC:\\%0a[[https://youtu.be/IaXzcTrY0Vg?list=LLCG-2npsKBmVBDyDmgw5_GQ | Warriors of the World by Manowar]]%0a\\%0a\\%0a\\%0aQUOTES:\\%0a*"Just because she is quiet doesn't mean she lacks depth. Still waters run deep, after all." - Frankie Hayes %0a\\%0a*"I have seen pain in many, from wounds, from fear, from hunger, from need. In her I saw pain from want, from a desperate want to find home. It is not a look I will abide from her, not one I will allow to persist." - Silver %0a\\%0a\\%0a[[Picture of us]]%0a\\%0a\\%0ahttp://bloodwyne.weebly.com/uploads/3/7/7/5/3775865/white-wolf-wolves-33748411-737-552_orig.jpg%0a
+time=1516840816
+author:1516840816=Bambi
+diff:1516840816:1516831999:=49c49%0a%3c *"Just because she is quiet doesn't mean she lacks depth. Still waters run deep, after all." - Frankie Hayes %0a---%0a> *"Just because she ïs quiet doesn't mean she lacks depth. Still waters run deep, after all." - Frankie Hayes %0a
+host:1516840816=73.144.72.251
+author:1516831999=Bambi
+diff:1516831999:1516831433:=54d53%0a%3c [[Picture of us]]%0a
+host:1516831999=73.144.72.251
+author:1516831433=Bambi
+diff:1516831433:1516831255:=35d34%0a%3c \\%0a42c41%0a%3c \\%0a---%0a> %0a
+host:1516831433=73.144.72.251
+author:1516831255=Bambi
+diff:1516831255:1516829519:=43d42%0a%3c [[https://youtu.be/IaXzcTrY0Vg?list=LLCG-2npsKBmVBDyDmgw5_GQ | Warriors of the World by Manowar]]%0a
+host:1516831255=73.144.72.251
+author:1516829519=Bambi
+diff:1516829519:1516828783:=42a43%0a> %0a45d45%0a%3c \\%0a47c47%0a%3c *"Just because she ïs quiet doesn't mean she lacks depth. Still waters run deep, after all." - Frankie Hayes %0a---%0a> *“Just because she’s quiet doesn’t mean she lacks depth. Still waters run deep, after all.” - Frankie Hayes %0a49,51c49%0a%3c *"I have seen pain in many, from wounds, from fear, from hunger, from need. In her I saw pain from want, from a desperate want to find home. It is not a look I will abide from her, not one I will allow to persist." - Silver %0a%3c \\%0a%3c \\%0a---%0a> *”I have seen pain in many, from wounds, from fear, from hunger, from need. In her I saw pain from want, from a desperate want to find home. It is not a look I will abide from her, not one I will allow to persist." - Silver %0a
+host:1516829519=73.144.72.251
+author:1516828783=Bambi
+diff:1516828783:1516808298:=9,10d8%0a%3c Alias: Zaza\\%0a%3c \\%0a19,22d16%0a%3c RENOWN:\\%0a%3c Purity 1\\%0a%3c Glory 2\\%0a%3c \\%0a32d25%0a%3c PUBLIC EFFECTS:\\%0a35d27%0a%3c Player: Bambi\\%0a43d34%0a%3c %0a47,49d37%0a%3c *“Just because she’s quiet doesn’t mean she lacks depth. Still waters run deep, after all.” - Frankie Hayes %0a%3c \\%0a%3c *”I have seen pain in many, from wounds, from fear, from hunger, from need. In her I saw pain from want, from a desperate want to find home. It is not a look I will abide from her, not one I will allow to persist." - Silver %0a
+host:1516828783=73.144.72.251
+author:1516808298=Bambi
+diff:1516808298:1516807488:=40c40%0a%3c http://bloodwyne.weebly.com/uploads/3/7/7/5/3775865/white-wolf-wolves-33748411-737-552_orig.jpg%0a---%0a> %0a
+host:1516808298=108.228.214.73
+author:1516807488=Bambi
+diff:1516807488:1516807456:=6a7%0a> \\ %0a
+host:1516807488=108.228.214.73
+author:1516807456=Bambi
+diff:1516807456:1516806038:=5,7c5%0a%3c Sasha is a quiet person at first, but the more you are around her she opens up and talks softly.  She has a love for animals as is often found with her puppies or her brother Seth.  Sasha has platinum blonde hair and blue eyes that change color with her mood.  She likes to run which helps maintain her athletic appearance. \\%0a%3c \\%0a%3c \\ %0a---%0a> Sasha is a quiet person at first, but the more you are around her she opens up and talks softly.  She has a love for animals as is often found with her puppies or her brother Seth.  Sasha has platinum blonde hair and blue eyes that change color with her mood.  She likes to run which helps maintain her athletic appearance.  %0a
+host:1516807456=108.228.214.73
+author:1516806038=Bambi
+diff:1516806038:1516805477:=25,32d24%0a%3c Striking looks 2 (athletic girl next door)\\%0a%3c Status 1 (entertainment)\\%0a%3c \\%0a%3c \\%0a%3c HOOKS:\\%0a%3c Cosmetologist (all): Sasha is known for her work as a cosmetologist.\\%0a%3c Fairly new (all): Sasha and her brother are fairly new, stop by and say hi or bring your furry loved one to Killios Clinic to get your furry companion in tip top shape.\\%0a%3c %0a
+host:1516806038=108.228.214.73
+author:1516805477=Bambi
+diff:1516805477:1516801648:=1,31c1%0a%3c http://bloodwyne.weebly.com/uploads/3/7/7/5/3775865/7f9acf6578ba0313218ee33986a68faf_orig.jpg)\%0a%3c http://bloodwyne.weebly.com/uploads/3/7/7/5/3775865/th_orig.jpg\%0a%3c \\%0a%3c \\%0a%3c Sasha is a quiet person at first, but the more you are around her she opens up and talks softly.  She has a love for animals as is often found with her puppies or her brother Seth.  Sasha has platinum blonde hair and blue eyes that change color with her mood.  She likes to run which helps maintain her athletic appearance.  %0a%3c Name: Sasha Killios\\%0a%3c \\%0a%3c Deed Name: The Quiet\\%0a%3c \\%0a%3c Age: 25\\%0a%3c \\%0a%3c Auspice: Cahalith\\%0a%3c \\%0a%3c Tribe: Hunters in Darkness\\%0a%3c \\%0a%3c Height: 5'10"\\%0a%3c \\%0a%3c Build: Athletic\\%0a%3c \\%0a%3c Education: High school and Cosmetology\\%0a%3c \\%0a%3c Profession: Cosmetologist and helper at Killios Clinic and Kennel\\%0a%3c \\%0a%3c \\%0a%3c MUSIC:\\%0a%3c \\%0a%3c \\%0a%3c QUOTES:\\%0a%3c \\%0a%3c \\%0a%3c %0a---%0a>  style='background-image:url([=https://wallpapercave.com/wp/ZdawTQ7.jpg=])%0a\ No newline at end of file%0a
+host:1516805477=108.228.214.73
+author:1516801648=Bambi
+diff:1516801648:1516801648:=1d0%0a%3c  style='background-image:url([=https://wallpapercave.com/wp/ZdawTQ7.jpg=])%0a\ No newline at end of file%0a
+host:1516801648=108.228.214.73

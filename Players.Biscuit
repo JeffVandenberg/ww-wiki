@@ -1,0 +1,15 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0
+author=
+charset=ISO-8859-1
+csum=
+ctime=1516764078
+host=73.181.92.174
+name=Players.Biscuit
+rev=1
+targets=
+text=%25rfloat text-align=center border='2px solid #0000FF' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=450px height=500px%25 http://i.imgur.com/1KwHx8e.jpg%0a%0a!!Dossier%0a:Aliases: -Biscuit-%0a:Path: Acanthus%0a:Order: Adamantine Arrow%0a:Nimbus:  Long Term: Things come to an end, and avoiding that end brings tragedy. People. Causes. Marriages. Everything is destined to be, but only for a time.%0a%0aImmediate: It&rsquo;s the end of the road. Oblivion awaits. His aura is the pitch black at the end of a dark tunnel. &minus;3 Stamina.%0a%0a %0aSignature: The overwhelming sense that something you&rsquo;ve forgotton is catching up with you.%0a%0a:Arcana: Time 5, Life 3, Fate 3%0a:Cabal:%0a:Virtue/Vice:  Patient/Short Tempered%0a:Public: EffectsStatus (Adamantine Arrow) 4%0a:Profession: ?%0a:Age: ?%0a%0a!!Known History%0a %0aAfter the tragic loss of his wife and several of his awakened comrades, -Biscuit- fled %3cs>Savannah%3c/s> the South and made his way up to Portland. Once a Libertine, he felt it unjust to stay with a group of Mediators and flagrant outspoken civil rights groups. Humanity is Magical, except when it kills everyone you love. He took up the fight, the arrow of his crossbow and joined the Adamantine Arrows.%0a%0a%0a!!Role Play Hooks%0a %0a* Hook%0a* Hook%0a* Hook
+time=1516764078
+author:1516764078=
+diff:1516764078:1516764078:=1,30d0%0a%3c %25rfloat text-align=center border='2px solid #0000FF' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=450px height=500px%25 http://i.imgur.com/1KwHx8e.jpg%0a%3c %0a%3c !!Dossier%0a%3c :Aliases: -Biscuit-%0a%3c :Path: Acanthus%0a%3c :Order: Adamantine Arrow%0a%3c :Nimbus:  Long Term: Things come to an end, and avoiding that end brings tragedy. People. Causes. Marriages. Everything is destined to be, but only for a time.%0a%3c %0a%3c Immediate: It&rsquo;s the end of the road. Oblivion awaits. His aura is the pitch black at the end of a dark tunnel. &minus;3 Stamina.%0a%3c %0a%3c  %0a%3c Signature: The overwhelming sense that something you&rsquo;ve forgotton is catching up with you.%0a%3c %0a%3c :Arcana: Time 5, Life 3, Fate 3%0a%3c :Cabal:%0a%3c :Virtue/Vice:  Patient/Short Tempered%0a%3c :Public: EffectsStatus (Adamantine Arrow) 4%0a%3c :Profession: ?%0a%3c :Age: ?%0a%3c %0a%3c !!Known History%0a%3c  %0a%3c After the tragic loss of his wife and several of his awakened comrades, -Biscuit- fled %3cs>Savannah%3c/s> the South and made his way up to Portland. Once a Libertine, he felt it unjust to stay with a group of Mediators and flagrant outspoken civil rights groups. Humanity is Magical, except when it kills everyone you love. He took up the fight, the arrow of his crossbow and joined the Adamantine Arrows.%0a%3c %0a%3c %0a%3c !!Role Play Hooks%0a%3c  %0a%3c * Hook%0a%3c * Hook%0a%3c * Hook%0a\ No newline at end of file%0a
+host:1516764078=73.181.92.174
