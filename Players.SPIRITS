@@ -1,0 +1,15 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+author=Weeping Willow
+charset=ISO-8859-1
+csum=
+ctime=1517105027
+host=50.46.191.176
+name=Players.SPIRITS
+rev=1
+targets=
+text=! %25werewolf%25SPIRITS%0a----%0a!!%25werewolf%25*Korn -%0a%25werewolf%25A clear grain spirit. A good neutral liquor similar to a vodka and ideal served as a beer chaser.%0a!!%25werewolf%25*Obstwasser (fruit brandy) -%0a%25werewolf%25A distilled spirits produced exclusively from fruit juices.%0a!!%25werewolf%25*Jägermeister -%0a%25werewolf%25a distilled spirit made from dozens of herbs.%0a!!%25werewolf%25*Verpoorten  -%0a%25werewolf%25an iconic bottle with egg nogg and brandy.%0a!!%25werewolf%25*Asbach -%0a%25werewolf%25a cognac-style wine brandy usually made from Riesling grapes%0a----%0a%0a
+time=1517105027
+author:1517105027=Weeping Willow
+diff:1517105027:1517105027:=1,14d0%0a%3c ! %25werewolf%25SPIRITS%0a%3c ----%0a%3c !!%25werewolf%25*Korn -%0a%3c %25werewolf%25A clear grain spirit. A good neutral liquor similar to a vodka and ideal served as a beer chaser.%0a%3c !!%25werewolf%25*Obstwasser (fruit brandy) -%0a%3c %25werewolf%25A distilled spirits produced exclusively from fruit juices.%0a%3c !!%25werewolf%25*Jägermeister -%0a%3c %25werewolf%25a distilled spirit made from dozens of herbs.%0a%3c !!%25werewolf%25*Verpoorten  -%0a%3c %25werewolf%25an iconic bottle with egg nogg and brandy.%0a%3c !!%25werewolf%25*Asbach -%0a%3c %25werewolf%25a cognac-style wine brandy usually made from Riesling grapes%0a%3c ----%0a%3c %0a
+host:1517105027=50.46.191.176

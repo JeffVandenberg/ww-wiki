@@ -1,0 +1,21 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+author=Weeping Willow
+charset=ISO-8859-1
+csum=
+ctime=1517103519
+host=50.46.191.176
+name=Players.WINELIST
+rev=3
+targets=
+text=! %25center%25%25werewolf%25THE WINE LIST%0a!! %25werewolf%25WHITE%0a*Riesling %0a*Müller-Thurgau%0a*Silvaner%0a*Grauburgunder%0a*Weißburgunder%0a*Kerner%0a*Bacchus%0a*Scheurebe%0a*Chardonnay%0a*Gutedel%0a*Traminer%0a*Huxelrebe%0a*Ortega%0a*Faberrebe%0a*Elbling%0a*Morio-Muskat%0a*Sauvignon blanc%0a!! %25werewolf%25RED%0a*Spätburgunder%0a*Dornfelder%0a*Blauer Portugieser%0a*Trollinger%0a*Schwarzriesling%0a*Regent%0a*Lemberger%0a*St. Laurent%0a*Acolon%0a*Merlot%0a*Domina%0a*Dunkelfelder%0a*Cabernet Mitos%0a*Cabernet Sauvignon%0a*Frühburgunder
+time=1517116551
+author:1517116551=Weeping Willow
+diff:1517116551:1517104302:=1c1%0a%3c ! %25center%25%25werewolf%25THE WINE LIST%0a---%0a> ! %25werewolf%25THE WINE LIST%0a
+host:1517116551=50.46.191.176
+author:1517104302=Weeping Willow
+diff:1517104302:1517103519:=3,19c3,19%0a%3c *Riesling %0a%3c *Müller-Thurgau%0a%3c *Silvaner%0a%3c *Grauburgunder%0a%3c *Weißburgunder%0a%3c *Kerner%0a%3c *Bacchus%0a%3c *Scheurebe%0a%3c *Chardonnay%0a%3c *Gutedel%0a%3c *Traminer%0a%3c *Huxelrebe%0a%3c *Ortega%0a%3c *Faberrebe%0a%3c *Elbling%0a%3c *Morio-Muskat%0a%3c *Sauvignon blanc%0a---%0a> Riesling %0a> Müller-Thurgau%0a> Silvaner%0a> Grauburgunder%0a> Weißburgunder%0a> Kerner%0a> Bacchus%0a> Scheurebe%0a> Chardonnay%0a> Gutedel%0a> Traminer%0a> Huxelrebe%0a> Ortega%0a> Faberrebe%0a> Elbling%0a> Morio-Muskat%0a> Sauvignon blanc%0a21,35c21,35%0a%3c *Spätburgunder%0a%3c *Dornfelder%0a%3c *Blauer Portugieser%0a%3c *Trollinger%0a%3c *Schwarzriesling%0a%3c *Regent%0a%3c *Lemberger%0a%3c *St. Laurent%0a%3c *Acolon%0a%3c *Merlot%0a%3c *Domina%0a%3c *Dunkelfelder%0a%3c *Cabernet Mitos%0a%3c *Cabernet Sauvignon%0a%3c *Frühburgunder%0a\ No newline at end of file%0a---%0a> Spätburgunder%0a> Dornfelder%0a> Blauer Portugieser%0a> Trollinger%0a> Schwarzriesling%0a> Regent%0a> Lemberger%0a> St. Laurent%0a> Acolon%0a> Merlot%0a> Domina%0a> Dunkelfelder%0a> Cabernet Mitos%0a> Cabernet Sauvignon%0a> Frühburgunder%0a\ No newline at end of file%0a
+host:1517104302=50.46.191.176
+author:1517103519=Weeping Willow
+diff:1517103519:1517103519:=1,35d0%0a%3c ! %25werewolf%25THE WINE LIST%0a%3c !! %25werewolf%25WHITE%0a%3c Riesling %0a%3c Müller-Thurgau%0a%3c Silvaner%0a%3c Grauburgunder%0a%3c Weißburgunder%0a%3c Kerner%0a%3c Bacchus%0a%3c Scheurebe%0a%3c Chardonnay%0a%3c Gutedel%0a%3c Traminer%0a%3c Huxelrebe%0a%3c Ortega%0a%3c Faberrebe%0a%3c Elbling%0a%3c Morio-Muskat%0a%3c Sauvignon blanc%0a%3c !! %25werewolf%25RED%0a%3c Spätburgunder%0a%3c Dornfelder%0a%3c Blauer Portugieser%0a%3c Trollinger%0a%3c Schwarzriesling%0a%3c Regent%0a%3c Lemberger%0a%3c St. Laurent%0a%3c Acolon%0a%3c Merlot%0a%3c Domina%0a%3c Dunkelfelder%0a%3c Cabernet Mitos%0a%3c Cabernet Sauvignon%0a%3c Frühburgunder%0a\ No newline at end of file%0a
+host:1517103519=50.46.191.176
