@@ -1,0 +1,18 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+author=darthadamus
+charset=ISO-8859-1
+csum=
+ctime=1517187473
+host=96.242.34.227
+name=Players.DustinMythWard
+rev=2
+targets=
+text=https://i.warosu.org/data/g/img/0585/48/1484826403041.jpg
+time=1517187702
+author:1517187702=darthadamus
+diff:1517187702:1517187473:=1c1%0a%3c https://i.warosu.org/data/g/img/0585/48/1484826403041.jpg%0a\ No newline at end of file%0a---%0a> http://cc.bingj.com/cache.aspx?q=wanton+wicked+elizabeth+ward&d=4967397683889219&mkt=en-US&setlang=en-US&w=yXR-Al5rtODS6Qm4Ia4u4qNE55hk34RK%0a\ No newline at end of file%0a
+host:1517187702=96.242.34.227
+author:1517187473=darthadamus
+diff:1517187473:1517187473:=1d0%0a%3c http://cc.bingj.com/cache.aspx?q=wanton+wicked+elizabeth+ward&d=4967397683889219&mkt=en-US&setlang=en-US&w=yXR-Al5rtODS6Qm4Ia4u4qNE55hk34RK%0a\ No newline at end of file%0a
+host:1517187473=96.242.34.227

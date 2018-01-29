@@ -1,0 +1,18 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+author=Starcrossed
+charset=ISO-8859-1
+csum=
+ctime=1517152547
+host=82.43.58.45
+name=Players.AmaliaDeacon
+rev=2
+targets=
+text=!! The Bare Essentials%0a%0a%0ahttps://images2.imgbox.com/16/d0/Rb3dOwkt_o.jpg"Amalia"%0a%0aAliases%0a%0aNone that are polite enough to repeat%0a%0aSeeming%0a%0aFairest%0a%0aKith%0a%0aDearheart%0a%0aMasque/Mein%0a%0aBelle / Romantic%0a%0a!! For Public Consumption%0a%0aProfession%0a%0aGirlfriend Experience%0a%0aAge%0a%0a20's%0a%0aPlayer%0a%0aStarcrossed%0a%0ahttps://images2.imgbox.com/5a/65/wighrihR_o.jpg%0aDescription%0aAs pale as pale as pale can be, Amalia was less than five feet tall and as dainty as the delicate little snowflake that she appeared to be. Alabaster skin was highlighted by hair that was usually stark white, although a myriad of wigs and dyes were in use most days. Inquisitive eyes darted to and fro, and her lips were almost always curved into a scarlet painted smirk.%0a%0aRole Play Hooks%0a%0aHave I seen you somewhere before?%0a%0aAmalia does appear in the most unusual of places, whether this is the classiest of restaurants or the dingiest of dives%0a%0a%0aWhen the doves cry%0a%0aNo, she’s not a Prince fan. But she does have an interest in a women’s shelter named “The Dove Project” which has been set up in the city recently%0a%0a%0aQuotes %0a“Virtue, let sleep thy passions. What old times held as crimes are now but fashions.” - %0a
+time=1517152577
+author:1517152577=Starcrossed
+diff:1517152577:1517152547:=22c22%0a%3c !! For Public Consumption%0a---%0a> For Public Consumption%0a
+host:1517152577=82.43.58.45
+author:1517152547=Starcrossed
+diff:1517152547:1517152547:=1,53d0%0a%3c !! The Bare Essentials%0a%3c %0a%3c %0a%3c https://images2.imgbox.com/16/d0/Rb3dOwkt_o.jpg"Amalia"%0a%3c %0a%3c Aliases%0a%3c %0a%3c None that are polite enough to repeat%0a%3c %0a%3c Seeming%0a%3c %0a%3c Fairest%0a%3c %0a%3c Kith%0a%3c %0a%3c Dearheart%0a%3c %0a%3c Masque/Mein%0a%3c %0a%3c Belle / Romantic%0a%3c %0a%3c For Public Consumption%0a%3c %0a%3c Profession%0a%3c %0a%3c Girlfriend Experience%0a%3c %0a%3c Age%0a%3c %0a%3c 20's%0a%3c %0a%3c Player%0a%3c %0a%3c Starcrossed%0a%3c %0a%3c https://images2.imgbox.com/5a/65/wighrihR_o.jpg%0a%3c Description%0a%3c As pale as pale as pale can be, Amalia was less than five feet tall and as dainty as the delicate little snowflake that she appeared to be. Alabaster skin was highlighted by hair that was usually stark white, although a myriad of wigs and dyes were in use most days. Inquisitive eyes darted to and fro, and her lips were almost always curved into a scarlet painted smirk.%0a%3c %0a%3c Role Play Hooks%0a%3c %0a%3c Have I seen you somewhere before?%0a%3c %0a%3c Amalia does appear in the most unusual of places, whether this is the classiest of restaurants or the dingiest of dives%0a%3c %0a%3c %0a%3c When the doves cry%0a%3c %0a%3c No, she’s not a Prince fan. But she does have an interest in a women’s shelter named “The Dove Project” which has been set up in the city recently%0a%3c %0a%3c %0a%3c Quotes %0a%3c “Virtue, let sleep thy passions. What old times held as crimes are now but fashions.” - %0a
+host:1517152547=82.43.58.45
