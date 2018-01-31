@@ -1,0 +1,15 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.119 Safari/537.36
+author=snowcrane
+charset=ISO-8859-1
+csum=
+ctime=1517373391
+host=76.104.140.121
+name=Players.FrankieHayes
+rev=1
+targets=
+text=This is Frankie Hayes' wiki. 
+time=1517373391
+author:1517373391=snowcrane
+diff:1517373391:1517373391:=1d0%0a%3c This is Frankie Hayes' wiki. %0a\ No newline at end of file%0a
+host:1517373391=76.104.140.121
