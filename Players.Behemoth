@@ -1,0 +1,16 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0
+author=Behemoth
+charset=ISO-8859-1
+csum=Just something while I wait.
+ctime=1517631708
+host=99.57.16.133
+name=Players.Behemoth
+rev=1
+targets=
+text=Hello. I'm just interested in the game, but not a player. A duskgazer of sorts, feel free to message me through the forum if you can't get me online for some reason.
+time=1517631708
+author:1517631708=Behemoth
+csum:1517631708=Just something while I wait.
+diff:1517631708:1517631708:minor=1d0%0a%3c Hello. I'm just interested in the game, but not a player. A duskgazer of sorts, feel free to message me through the forum if you can't get me online for some reason.%0a\ No newline at end of file%0a
+host:1517631708=99.57.16.133
