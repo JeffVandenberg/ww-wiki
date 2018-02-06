@@ -1,0 +1,15 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+author=PapaSpit
+charset=ISO-8859-1
+csum=
+ctime=1517851218
+host=76.20.240.255
+name=Players.TheSummit
+rev=1
+targets=Players.Apotheosis
+text=(:table valign=top:)%0a [[%3c%3c]]%0a(:cellnr colspan=3 width=970 bgcolor=#808080 align=center:) &nbsp;%0a(:cellnr rowspan=21 width=400 align=center:)%0a%25newwin%25http://pile.randimg.net/1/226/119144/Erinnmain.png\%0a%0a%25mage%25Magical effects [[%3c%3c]]%0a%0a(:cellnr width=700 colspan=2 align=left:)%0a!%25mage%25 %0a%0a(:cellnr width=130 align=left:)''' %25mage%25 Name:'''%0a(:cell width=440:) The Summt%0a(:cellnr width=130 align=left:)''' %25mage%25 Nicknames:'''%0a(:cell width=440:) %0a(:cellnr width=130 align=left:)''' %25mage%25 Cabal:'''%0a(:cell width=440:) [[Apotheosis]]%0a(:cellnr width=130 align=left:)''' %25mage%25 Age:'''%0a(:cell width=440:) Newly Built%0a(:cellnr width=130 align=left:)''' %25mage%25 Public Effects:'''%0a(:cell width=440:)%0a*Safe place 1%0a%0a(:tableend:)   
+time=1517851218
+author:1517851218=PapaSpit
+diff:1517851218:1517851218:=1,24d0%0a%3c (:table valign=top:)%0a%3c  [[%3c%3c]]%0a%3c (:cellnr colspan=3 width=970 bgcolor=#808080 align=center:) &nbsp;%0a%3c (:cellnr rowspan=21 width=400 align=center:)%0a%3c %25newwin%25http://pile.randimg.net/1/226/119144/Erinnmain.png\%0a%3c %0a%3c %25mage%25Magical effects [[%3c%3c]]%0a%3c %0a%3c (:cellnr width=700 colspan=2 align=left:)%0a%3c !%25mage%25 %0a%3c %0a%3c (:cellnr width=130 align=left:)''' %25mage%25 Name:'''%0a%3c (:cell width=440:) The Summt%0a%3c (:cellnr width=130 align=left:)''' %25mage%25 Nicknames:'''%0a%3c (:cell width=440:) %0a%3c (:cellnr width=130 align=left:)''' %25mage%25 Cabal:'''%0a%3c (:cell width=440:) [[Apotheosis]]%0a%3c (:cellnr width=130 align=left:)''' %25mage%25 Age:'''%0a%3c (:cell width=440:) Newly Built%0a%3c (:cellnr width=130 align=left:)''' %25mage%25 Public Effects:'''%0a%3c (:cell width=440:)%0a%3c *Safe place 1%0a%3c %0a%3c (:tableend:)   %0a\ No newline at end of file%0a
+host:1517851218=76.20.240.255
