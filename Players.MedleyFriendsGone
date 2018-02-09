@@ -1,0 +1,15 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+author=freedominflight
+charset=ISO-8859-1
+csum=
+ctime=1518138283
+host=98.118.6.45
+name=Players.MedleyFriendsGone
+rev=1
+targets=Players.NorwoodDaraSterling,Players.GiovanniScutari
+text=(:cellnr width=360px:)%25lfloat width=150%25https://i.imgur.com/UKMuWMX.jpg%0a%25color=#3fcfff%25[[NorwoodDaraSterling|Woody]]\\%0a%25white%25It all took an unexpected turn. I don't know how to explain it. I don't understand it, but, now we're kinda in it to win it, right?%0a(:cell width=360px:)%25lfloat width=150%25https://i.imgur.com/YE4NiCB.jpg%0a%25color=#3fcfff%25[[Giovanni Scutari|Gio]]\\%0a%25white%25So this guy makes the best pasta and meatballs ever! Best part! He gave me a job. This is a strange day.
+time=1518138283
+author:1518138283=freedominflight
+diff:1518138283:1518138283:=1,6d0%0a%3c (:cellnr width=360px:)%25lfloat width=150%25https://i.imgur.com/UKMuWMX.jpg%0a%3c %25color=#3fcfff%25[[NorwoodDaraSterling|Woody]]\\%0a%3c %25white%25It all took an unexpected turn. I don't know how to explain it. I don't understand it, but, now we're kinda in it to win it, right?%0a%3c (:cell width=360px:)%25lfloat width=150%25https://i.imgur.com/YE4NiCB.jpg%0a%3c %25color=#3fcfff%25[[Giovanni Scutari|Gio]]\\%0a%3c %25white%25So this guy makes the best pasta and meatballs ever! Best part! He gave me a job. This is a strange day.%0a\ No newline at end of file%0a
+host:1518138283=98.118.6.45
