@@ -1,16 +1,22 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
-author=
+author=Ebram
 charset=ISO-8859-1
 csum=
 ctime=1516755337
 host=71.61.98.194
 keywords=werewolf, PC
 name=Players.ZaneGirruFoster
-rev=2
+rev=4
 targets=
-text=!!Dossier %25rfloat text-align=center border='2px solid #74483f' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=450px height=500px%25 https://vignette.wikia.nocookie.net/marveldatabase/images/d/d3/Victor_Creed_%2528Earth-10005%2529_002.jpg%0a:Aliases: %0a:Auspice: Rahu%0a:Tribe: Blood Talons%0a:Renown:%0a*Cunning: 0%0a*Glory: 2%0a*Honor: 1%0a*Purity: 4%0a*Wisdom: 1%0a:Pack: %0a:Blood/Bone: Alpha/Guru%0a:Public Effects: Embodiment of the First Born, Giant%0a:Profession: Bouncer%0a:Age: 25%0a:Player: Ebram%0a!!Description%0a''Standing at six feet, eight inches tall, Zane doesn't look very approachable in general.  Thick muscles, and a face that's often set in a scowl don't help.''%0a!!Role Play Hooks%0a*Fenris-Ur's own- Zane is the embodiment of his tribal patron, and it shows in the spiritual landsape around him.  Some spirits bow and scrape, others rail at their ancient enemy standing before them once again.%0a*Will work for food- New to the city, and living off his family's charity, Zane is currently looking for ways to get a few bucks.%0a*Hook%0a(:keywords werewolf, PC:)%0a(:include Werewolf.Directory:)
-time=1516755359
+text=!!Dossier %25rfloat text-align=center border='2px solid #74483f' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=450px height=500px%25 https://vignette.wikia.nocookie.net/swrpg/images/b/be/Liev-schreiber-sabretooth.jpg%0a:Aliases: %0a:Auspice: Rahu%0a:Tribe: Blood Talons%0a:Renown:%0a*Cunning: 0%0a*Glory: 2%0a*Honor: 1%0a*Purity: 4%0a*Wisdom: 1%0a:Pack: %0a:Blood/Bone: Alpha/Guru%0a:Public Effects: Embodiment of the First Born, Giant%0a:Profession: Bouncer%0a:Age: 25%0a:Player: Ebram%0a!!Description%0a''Standing at six feet, eight inches tall, Zane doesn't look very approachable in general.  Thick muscles, and a face that's often set in a scowl don't help.''%0a!!Role Play Hooks%0a*Fenris-Ur's own- Zane is the embodiment of his tribal patron, and it shows in the spiritual landsape around him.  Some spirits bow and scrape, others rail at their ancient enemy standing before them once again.%0a*Will work for food- New to the city, and living off his family's charity, Zane is currently looking for ways to get a few bucks.%0a*Hook%0a!!Quotes%0a%0a(:keywords werewolf, PC:)%0a(:include Werewolf.Directory:)
+time=1518289009
+author:1518289009=Ebram
+diff:1518289009:1518288970:=23,24d22%0a%3c !!Quotes%0a%3c %0a
+host:1518289009=71.61.98.194
+author:1518288970=Ebram
+diff:1518288970:1516755359:=1c1%0a%3c !!Dossier %25rfloat text-align=center border='2px solid #74483f' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=450px height=500px%25 https://vignette.wikia.nocookie.net/swrpg/images/b/be/Liev-schreiber-sabretooth.jpg%0a---%0a> !!Dossier %25rfloat text-align=center border='2px solid #74483f' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=450px height=500px%25 https://vignette.wikia.nocookie.net/marveldatabase/images/d/d3/Victor_Creed_%2528Earth-10005%2529_002.jpg%0a
+host:1518288970=71.61.98.194
 author:1516755359=
 diff:1516755359:1516755337:=12c12%0a%3c :Blood/Bone: Alpha/Guru%0a---%0a> :Blood/Bone: A;pja/Guru%0a
 host:1516755359=71.61.98.194

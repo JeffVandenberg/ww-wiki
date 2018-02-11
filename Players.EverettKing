@@ -1,0 +1,15 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+author=Deuces
+charset=ISO-8859-1
+csum=
+ctime=1518277064
+host=73.199.239.87
+name=Players.EverettKing
+rev=1
+targets=
+text=https://i.imgur.com/TbbKZtX.jpg%0a%0a%25center%25Everett James King\\%0a%25center%25Rahu of the Iron Masters
+time=1518277064
+author:1518277064=Deuces
+diff:1518277064:1518277064:=1,4d0%0a%3c https://i.imgur.com/TbbKZtX.jpg%0a%3c %0a%3c %25center%25Everett James King\\%0a%3c %25center%25Rahu of the Iron Masters%0a\ No newline at end of file%0a
+host:1518277064=73.199.239.87
