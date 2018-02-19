@@ -1,0 +1,15 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+author=Claire Voient
+charset=ISO-8859-1
+csum=
+ctime=1518950824
+host=72.235.12.210
+name=Players.ElleMEnopi
+rev=1
+targets=
+text=This is where I would put my giraffes if I had any :(
+time=1518950824
+author:1518950824=Claire Voient
+diff:1518950824:1518950824:=1d0%0a%3c This is where I would put my giraffes if I had any :(%0a\ No newline at end of file%0a
+host:1518950824=72.235.12.210
