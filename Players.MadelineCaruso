@@ -1,15 +1,18 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
 author=Darkmage
 charset=ISO-8859-1
 csum=
 ctime=1519696609
-host=175.33.88.70
+host=128.250.0.110
 name=Players.MadelineCaruso
-rev=9
+rev=10
 targets=
-text=%25lfloat text-align=center margin-top=5px margin-right=25px margin-bottom=5px margin-left=25px%25 http://i1054.photobucket.com/albums/s484/Darkmage81/Madeline%2520Caruso_1.jpg%0a%0a*'''Aliases'''%0aMaddy%0a*''' Guild'''%0aN/A%0a*'''Public Effects'''%0aStatus (Medical) 2%0a*'''Profession'''%0aEviscerator (Pathologist)%0a*'''Age'''%0a27%0a*'''Theme Music'''%0a[[https://www.youtube.com/watch?v=oMe4kVNKvNk | Perfect Circle - Passive]]%0a*'''Player'''%0adarkmage%0a%0a%0a!! Description%0aMaddy is on the shorter side. She dresses in Dr. Martens and black skinny jeans. She also has a propensity towards old fashion, typical wearing white blouses with an antique brooch or small brass bell at her throat, over which she wears a black cardigan or jacket when the weather is cooler. Framing her eyes are larger styles glasses.%0a[[%3c%3c]]%0a%0a!! Role Play Hooks%0a* Ephemeral Energies – For those with the talent, they can detect the presence of a ghost in Madeline’s vicinity%0a* Cabinet of Curiosities – Madeline has an interest in all things weird and strange, particular if they are associated with the macabre, such as taxidermy.%0a%0a!! Additional Images%0ahttp://i1054.photobucket.com/albums/s484/Darkmage81/image_2.jpeg%0a%0a!! Quotes%0a%0a
-time=1519697037
+text=%25lfloat text-align=center margin-top=5px margin-right=25px margin-bottom=5px margin-left=25px%25 http://i1054.photobucket.com/albums/s484/Darkmage81/Madeline%2520Caruso_1.jpg%0a%0a*'''Aliases'''%0aMaddy%0a*''' Guild'''%0aN/A%0a*'''Public Effects'''%0aStatus (Medical) 2%0a*'''Profession'''%0aEviscerator (Pathologist)%0a*'''Age'''%0a27%0a*'''Theme Music'''%0a[[https://www.youtube.com/watch?v=oMe4kVNKvNk | Perfect Circle - Passive]]%0a*'''Player'''%0adarkmage%0a%0a%0a!! Description%0aMaddy is on the shorter side. She dresses in Dr. Martens and black skinny jeans. She also has a propensity towards old fashion, typical wearing white blouses with an antique brooch or small brass bell at her throat, over which she wears a black cardigan or jacket when the weather is cooler. Framing her eyes are larger styles glasses.%0a[[%3c%3c]]%0a%0a!! Role Play Hooks%0a* Ephemeral Energies – For those with the talent, they can detect the presence of a ghost in Madeline’s vicinity%0a* Cabinet of Curiosities – Madeline has an interest in all things weird and strange, particular if they are associated with the macabre, such as taxidermy.%0a* Strange Family - Anyone with connections to hospitals in the area may have heard stories of a strange coma patients in the care of Providence Portland Medical Center - Polly Caruso, perhaps someone related to Maddy?%0a%0a!! Additional Images%0ahttp://i1054.photobucket.com/albums/s484/Darkmage81/image_2.jpeg%0a%0a!! Quotes%0a%0a
+time=1520397250
+author:1520397250=Darkmage
+diff:1520397250:1519697037:=26d25%0a%3c * Strange Family - Anyone with connections to hospitals in the area may have heard stories of a strange coma patients in the care of Providence Portland Medical Center - Polly Caruso, perhaps someone related to Maddy?%0a
+host:1520397250=128.250.0.110
 author:1519697037=Darkmage
 diff:1519697037:1519696960:=
 host:1519697037=175.33.88.70
