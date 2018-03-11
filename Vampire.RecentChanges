@@ -1,9 +1,9 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
 charset=ISO-8859-1
 ctime=1516715976
-host=76.104.140.121
+host=159.118.185.31
 name=Vampire.RecentChanges
-rev=3
-text=* [[Vampire.Locations | Locations]]  . . . January 23, 2018, at 07:35 AM by ?: [==]%0a* [[Vampire.PlayerGuide | Player Guide]]  . . . January 23, 2018, at 07:26 AM by ?: [==]%0a* [[Vampire.Vampire | Vampire]]  . . . January 23, 2018, at 05:59 AM by ?: [==]%0a
-time=1516721749
+rev=4
+text=* [[Vampire.PlayerGuide | Player Guide]]  . . . March 10, 2018, at 03:24 PM by [[~Zerd]]: [==]%0a* [[Vampire.Locations | Locations]]  . . . January 23, 2018, at 07:35 AM by ?: [==]%0a* [[Vampire.Vampire | Vampire]]  . . . January 23, 2018, at 05:59 AM by ?: [==]%0a
+time=1520724296
