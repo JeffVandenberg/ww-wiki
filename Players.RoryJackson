@@ -1,15 +1,18 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 OPR/50.0.2762.67
-author=Vyrun
+agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36
+author=Revelry
 charset=ISO-8859-1
 csum=
 ctime=1517272563
-host=108.24.108.120
+host=23.124.101.246
 name=Players.RoryJackson
-rev=2
+rev=3
 targets=
-text=%25lfloat border='2px solid'%25https://i.imgur.com/VNi815H.gif%0a!!Rory Jackson%0a%0a'''Age'''\\%0a''19''\\%0a%0a'''Profession'''\\%0a''Apprentice to Marja Jovanovic''\\%0a%0a'''Public Effects'''\\%0a''Presence •, Fame • (Jackson Home Explosion)''\\%0a%0a%0a[[%3c%3c]]%0a%0a!!!!Roleplay Hooks%0a'''Jackson Home Explosion (Fame •)'''\\%0a''It was in the news that Rory's home exploded, killing his father and putting Rory himself in intensive care in the hospital. The circumstances of the explosion are unknown to the public.''%0a%0a'''Embassy/RCG'''\\%0a''Rory is a known part of the Rose City Guild and the Embassy's dealings. He is a telekinetic who has fought for the safety of Portland citizenry. He is (likely) preceded by a reputation for being quiet, stand off-ish, and bitter.''%0a%0a!!!!Themes%0a%0a'''Current Story Beat:'''\\%0a[[https://youtu.be/XWi-nEGU7pk|Iridescent]] — [-Linkin Park-]
-time=1517273134
+text=%25lfloat border='2px solid'%25https://i.imgur.com/VNi815H.gif%0a!!Rory Jackson%0a%0a'''Age'''\\%0a''19''\\%0a%0a'''Profession'''\\%0a''Apprentice to Marja Jovanovic''\\%0a%0a'''Public Effects'''\\%0a''Presence •, Fame • (Jackson Home Explosion)''\\%0a%0a'''Player'''\\%0a''Vyrun''\\%0a%0a[[%3c%3c]]%0a%0a!!!!Roleplay Hooks%0a'''Jackson Home Explosion (Fame •)'''\\%0a''It was in the news that Rory's home exploded, killing his father and putting Rory himself in intensive care in the hospital. The circumstances of the explosion are unknown to the public.''%0a%0a'''Embassy/RCG'''\\%0a''Rory is a known part of the Rose City Guild and the Embassy's dealings. He is a telekinetic who has fought for the safety of Portland citizenry. He is (likely) preceded by a reputation for being quiet, stand off-ish, and bitter.''%0a%0a!!!!Themes%0a%0a'''Current Story Beat:'''\\%0a[[https://youtu.be/XWi-nEGU7pk|Iridescent]] — [-Linkin Park-]
+time=1521389508
+author:1521389508=Revelry
+diff:1521389508:1517273134:=13,14d12%0a%3c '''Player'''\\%0a%3c ''Vyrun''\\%0a
+host:1521389508=23.124.101.246
 author:1517273134=Vyrun
 diff:1517273134:1517272563:=21,26c21%0a%3c ''Rory is a known part of the Rose City Guild and the Embassy's dealings. He is a telekinetic who has fought for the safety of Portland citizenry. He is (likely) preceded by a reputation for being quiet, stand off-ish, and bitter.''%0a%3c %0a%3c !!!!Themes%0a%3c %0a%3c '''Current Story Beat:'''\\%0a%3c [[https://youtu.be/XWi-nEGU7pk|Iridescent]] — [-Linkin Park-]%0a\ No newline at end of file%0a---%0a> ''Rory is a known part of the Rose City Guild and the Embassy's dealings. He is a telekinetic who has fought for the safety of Portland citizenry. He is (likely) preceded by a reputation for being quiet, stand off-ish, and bitter.''%0a\ No newline at end of file%0a
 host:1517273134=108.24.108.120
