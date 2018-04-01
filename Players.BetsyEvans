@@ -1,0 +1,27 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_2 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/14A456 Safari/602.1
+author=Andraste
+charset=ISO-8859-1
+csum=
+ctime=1522542423
+host=86.93.94.94
+name=Players.BetsyEvans
+rev=5
+targets=
+text=Name: Bethany Grace Evans%0a%0aAlias(es): Betsy%0a%0aPublic Effects: Laying on Hands, Allies 2 (Church), Status 1 (Church), Peacemaker%0a%0aVirtue/Vice: Charitable/Faithful/Vengeful%0a%0aProfession: College Student%0a%0aAge: 19%0a%0aPlayer: Andraste%0a%0aActor: India Eisley%0a%0aDescription%0a%0aBetsy is 5'1 and about 105 lbs with a round face, pale skin, dark brown hair and blue eyes. She usually dresses in vintage clothes.%0a%0aFame%0a%0aBetsy is known to locals as being able to heal wounds by taking them on her own body through the power of faith. %0a%0aHooks:%0a%0aThe Library—She might be found studying for her college exams in the library, usually sick or hurt because of her healing work.%0a%0aThe Church—She'd might be found in the Church in the afternoons and would always be happy to talk to fellow believers.
+time=1522542937
+author:1522542937=Andraste
+diff:1522542937:1522542910:=21c21%0a%3c Fame%0a---%0a> History%0a
+host:1522542937=86.93.94.94
+author:1522542910=Andraste
+diff:1522542910:1522542598:=0a1,2%0a> [[https://i.hizliresim.com/JQJo1Q.jpg]]%0a> %0a23,29c25%0a%3c Betsy is known to locals as being able to heal wounds by taking them on her own body through the power of faith. %0a%3c %0a%3c Hooks:%0a%3c %0a%3c The Library—She might be found studying for her college exams in the library, usually sick or hurt because of her healing work.%0a%3c %0a%3c The Church—She'd might be found in the Church in the afternoons and would always be happy to talk to fellow believers.%0a\ No newline at end of file%0a---%0a> Betsy is known to locals as being able to heal wounds by taking them on her own body through the power of faith. She's usually seen walking around sick or hurt from doing it.%0a\ No newline at end of file%0a
+host:1522542910=86.93.94.94
+author:1522542598=Andraste
+diff:1522542598:1522542572:=1d0%0a%3c [[https://i.hizliresim.com/JQJo1Q.jpg]]%0a
+host:1522542598=86.93.94.94
+author:1522542572=Andraste
+diff:1522542572:1522542423:=1d0%0a%3c %0a
+host:1522542572=86.93.94.94
+author:1522542423=Andraste
+diff:1522542423:1522542423:=1,23d0%0a%3c Name: Bethany Grace Evans%0a%3c %0a%3c Alias(es): Betsy%0a%3c %0a%3c Public Effects: Laying on Hands, Allies 2 (Church), Status 1 (Church), Peacemaker%0a%3c %0a%3c Virtue/Vice: Charitable/Faithful/Vengeful%0a%3c %0a%3c Profession: College Student%0a%3c %0a%3c Age: 19%0a%3c %0a%3c Player: Andraste%0a%3c %0a%3c Actor: India Eisley%0a%3c %0a%3c Description%0a%3c %0a%3c Betsy is 5'1 and about 105 lbs with a round face, pale skin, dark brown hair and blue eyes. She usually dresses in vintage clothes.%0a%3c %0a%3c History%0a%3c %0a%3c Betsy is known to locals as being able to heal wounds by taking them on her own body through the power of faith. She's usually seen walking around sick or hurt from doing it.%0a\ No newline at end of file%0a
+host:1522542423=86.93.94.94
