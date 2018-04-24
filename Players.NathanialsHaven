@@ -1,0 +1,18 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+author=Al Rascala
+charset=ISO-8859-1
+csum=
+ctime=1524543358
+host=202.12.250.10
+name=Players.NathanialsHaven
+rev=2
+targets=
+text=(:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=http://uwm.edu/arts/wp-content/uploads/sites/71/2017/07/unnamed.jpg=]); background-size:100%25; padding:25px;' width=100%25:)%0a%0a!!Nathanial's Haven%0a%0aAll information known only to those who have discovered this IC, or been invited there by Nathanial.%0a%0a'''Location:''' Arbor Lodge%0a%0a!!!!Layout%0a%0a%25width=700px%25 https://i.imgur.com/tPerJBw.png%0a%0a!!!!Artwork%0a%0a[+By Hannah Price, living room wall.+]%0a%25width=300px%25 https://i.imgur.com/hJMTYoD.png%0a%0a
+time=1524543993
+author:1524543993=Al Rascala
+diff:1524543993:1524543358:=9,16c9,14%0a%3c !!!!Layout%0a%3c %0a%3c %25width=700px%25 https://i.imgur.com/tPerJBw.png%0a%3c %0a%3c !!!!Artwork%0a%3c %0a%3c [+By Hannah Price, living room wall.+]%0a%3c %25width=300px%25 https://i.imgur.com/hJMTYoD.png%0a---%0a> ||Layout%0a> %0a> https://i.imgur.com/tPerJBw.png%0a> %0a> ||Artwork%0a> %0a
+host:1524543993=202.12.250.10
+author:1524543358=Al Rascala
+diff:1524543358:1524543358:=1,15d0%0a%3c (:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=http://uwm.edu/arts/wp-content/uploads/sites/71/2017/07/unnamed.jpg=]); background-size:100%25; padding:25px;' width=100%25:)%0a%3c %0a%3c !!Nathanial's Haven%0a%3c %0a%3c All information known only to those who have discovered this IC, or been invited there by Nathanial.%0a%3c %0a%3c '''Location:''' Arbor Lodge%0a%3c %0a%3c ||Layout%0a%3c %0a%3c https://i.imgur.com/tPerJBw.png%0a%3c %0a%3c ||Artwork%0a%3c %0a%3c %0a
+host:1524543358=202.12.250.10
