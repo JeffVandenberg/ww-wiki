@@ -1,0 +1,33 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+author=YummyRebel
+charset=ISO-8859-1
+csum=
+ctime=1525302037
+host=35.132.189.177
+name=Players.MaryLee
+rev=7
+targets=
+text=https://celebritypictures.wiki/thumbs/4626907/4626907_13.jpeg%0a%0aName: Mary Lee%0a%0aAliases: Merrilee; SoFine69; Yelp Mistress Indomitable; "hey you"%0a%0aPublic Effects: Presence 4; Striking Looks; Fortean Mantle 1%0a%0aMask/Mien: Belle/Idealist%0a%0aCourt: Fortean%0a%0aProfession: Social Media/Marketing/Mind Control%0a%0aAge: 30%0a%0aHeight: 5'7"%0a%0aPlayer: YummyRebel%0a%0aActress: Chelsea Kurtz%0a%0aBronze skinned and spindly limbed, she might pass for a supermodel marketed as 'ethnic' in a broad sense with no particular demographic specified (because she honestly doesn't even know herself).  Bright, shining, soulful brown eyes peer curiously about the world but her posture and dress blur the lines between glamorous, nerdy, and stoner.%0a%0aSmart enough to be an effective professional but loathing physical labor, social media has become her go-to means of making money without having to do anything resembling exercise when she doesn't want to - which she never does, if her utter lack of muscle is any indication.%0a%0a
+time=1525308209
+author:1525308209=YummyRebel
+diff:1525308209:1525308180:=17c17%0a%3c Height: 5'7"%0a---%0a> Height: 5'7''%0a
+host:1525308209=35.132.189.177
+author:1525308180=YummyRebel
+diff:1525308180:1525307304:=16,17d15%0a%3c %0a%3c Height: 5'7''%0a
+host:1525308180=35.132.189.177
+author:1525307304=YummyRebel
+diff:1525307304:1525303808:=7c7%0a%3c Public Effects: Presence 4; Striking Looks; Fortean Mantle 1%0a---%0a> Public Effects: N/A%0a
+host:1525307304=35.132.189.177
+author:1525303808=YummyRebel
+diff:1525303808:1525303422:=1,20d0%0a%3c https://celebritypictures.wiki/thumbs/4626907/4626907_13.jpeg%0a%3c %0a%3c Name: Mary Lee%0a%3c %0a%3c Aliases: Merrilee; SoFine69; Yelp Mistress Indomitable; "hey you"%0a%3c %0a%3c Public Effects: N/A%0a%3c %0a%3c Mask/Mien: Belle/Idealist%0a%3c %0a%3c Court: Fortean%0a%3c %0a%3c Profession: Social Media/Marketing/Mind Control%0a%3c %0a%3c Age: 30%0a%3c %0a%3c Player: YummyRebel%0a%3c %0a%3c Actress: Chelsea Kurtz%0a%3c %0a24a5%0a> https://celebritypictures.wiki/thumbs/4626907/4626907_13.jpeg%0a\ No newline at end of file%0a
+host:1525303808=35.132.189.177
+author:1525303422=YummyRebel
+diff:1525303422:1525303369:=5c5%0a%3c https://celebritypictures.wiki/thumbs/4626907/4626907_13.jpeg%0a\ No newline at end of file%0a---%0a> [image=https://celebritypictures.wiki/thumbs/4626907/4626907_13.jpeg]%0a\ No newline at end of file%0a
+host:1525303422=35.132.189.177
+author:1525303369=YummyRebel
+diff:1525303369:1525302037:=5d4%0a%3c [image=https://celebritypictures.wiki/thumbs/4626907/4626907_13.jpeg]%0a\ No newline at end of file%0a
+host:1525303369=35.132.189.177
+author:1525302037=YummyRebel
+diff:1525302037:1525302037:=1,4d0%0a%3c Bronze skinned and spindly limbed, she might pass for a supermodel marketed as 'ethnic' in a broad sense with no particular demographic specified (because she honestly doesn't even know herself).  Bright, shining, soulful brown eyes peer curiously about the world but her posture and dress blur the lines between glamorous, nerdy, and stoner.%0a%3c %0a%3c Smart enough to be an effective professional but loathing physical labor, social media has become her go-to means of making money without having to do anything resembling exercise when she doesn't want to - which she never does, if her utter lack of muscle is any indication.%0a%3c %0a
+host:1525302037=35.132.189.177
