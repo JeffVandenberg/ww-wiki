@@ -4,12 +4,15 @@ author=Vyrun
 charset=ISO-8859-1
 csum=
 ctime=1517272563
-host=91.247.77.90
+host=91.247.77.163
 name=Players.RoryJackson
-rev=8
+rev=9
 targets=
-text=%25lfloat border='2px solid' width=200%25https://i.imgur.com/fZRiQug.png%0a!!!Rory Jackson%0a%0a'''Age'''\\%0a''19''\\%0a%0a'''Profession'''\\%0a''Apprentice to Marja Jovanovic''\\%0a%0a'''Public Effects'''\\%0a''Presence •\\%0aFame • (Jackson Home Explosion)''\\%0a%0a'''Player'''\\%0a''Vyrun''\\%0a%0a[[%3c%3c]]%0a[[%3c%3c]]%0a\\%0a%25rfloat border='2px solid' width=200%25https://i.imgur.com/Blqe5pP.png%0a!!!!Roleplay Hooks%0a'''Jackson Home Explosion (Fame •)'''\\%0a''It was in the news that Rory's home exploded, killing his father and putting Rory himself in intensive care in the hospital. The circumstances of the explosion are unknown to the public.''%0a%0a'''Embassy/RCG'''\\%0a''Rory is a known part of the Rose City Guild and the Embassy's dealings. He is a telekinetic who has fought for the safety of Portland citizenry. He is (likely) preceded by a reputation for being quiet, stand off-ish, and bitter.''%0a%0a!!!!Themes%0a%0a'''Current Story Beat:'''\\%0a[[https://youtu.be/XWi-nEGU7pk|Iridescent]] — [-Linkin Park-]%0a[[https://youtu.be/gdf5XaHU11U|Waves]] — [-Mr. Probz & Robin Shulz-]
-time=1525498899
+text=%25lfloat border='2px solid' width=200%25[[https://j.gifs.com/86N6Qg.gif|https://i.imgur.com/fZRiQug.png]]%0a!!!Rory Jackson%0a%0a'''Age'''\\%0a''19''\\%0a%0a'''Profession'''\\%0a''Apprentice to Marja Jovanovic''\\%0a%0a'''Public Effects'''\\%0a''Presence •\\%0aFame • (Jackson Home Explosion)''\\%0a%0a'''Player'''\\%0a''Vyrun''\\%0a%0a[[%3c%3c]]%0a[[%3c%3c]]%0a\\%0a%25rfloat border='2px solid' width=200%25https://i.imgur.com/Blqe5pP.png%0a!!!!Roleplay Hooks%0a'''Jackson Home Explosion (Fame •)'''\\%0a''It was in the news that Rory's home exploded, killing his father and putting Rory himself in intensive care in the hospital. The circumstances of the explosion are unknown to the public.''%0a%0a'''Embassy/RCG'''\\%0a''Rory is a known part of the Rose City Guild and the Embassy's dealings. He is a telekinetic who has fought for the safety of Portland citizenry. He is (likely) preceded by a reputation for being quiet, stand off-ish, and bitter.''%0a%0a!!!!Themes%0a%0a'''Current Story Beat:'''\\%0a[[https://youtu.be/XWi-nEGU7pk|Iridescent]] — [-Linkin Park-]%0a[[https://youtu.be/gdf5XaHU11U|Waves]] — [-Mr. Probz & Robin Shulz-]
+time=1525606163
+author:1525606163=Vyrun
+diff:1525606163:1525498899:=1c1%0a%3c %25lfloat border='2px solid' width=200%25[[https://j.gifs.com/86N6Qg.gif|https://i.imgur.com/fZRiQug.png]]%0a---%0a> %25lfloat border='2px solid' width=200%25https://i.imgur.com/fZRiQug.png%0a
+host:1525606163=91.247.77.163
 author:1525498899=Vyrun
 diff:1525498899:1525498625:=11,13c11,12%0a%3c ''Presence •\\%0a%3c Fame • (Jackson Home Explosion)''\\%0a%3c %0a---%0a> ''Presence •, Fame • (Jackson Home Explosion)''\\%0a> %0a18,20c17%0a%3c [[%3c%3c]]%0a%3c \\%0a%3c %25rfloat border='2px solid' width=200%25https://i.imgur.com/Blqe5pP.png%0a---%0a> %0a
 host:1525498899=91.247.77.90
