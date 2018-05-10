@@ -1,0 +1,15 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+author=AnneB
+charset=ISO-8859-1
+csum=
+ctime=1525921380
+host=71.222.98.245
+name=Profiles.BeccaH
+rev=1
+targets=
+text=!BeccaH- 5.0 Admin%0a(''Is Awesome'') \\%0a%0a%0aI love '''chicken cannons'''!!!!  Enjoy the humor below%0a%0a!Things I'm no longer allowed to do:%0a%0aWhile entertaining, I should not encourage AnneB to torment ChrisF with glitterbombs. [[%3c%3c]]%0aChicken Cannons should not be used to punish staff that misbehave. [[%3c%3c]]%0aChicken Cannons do not exist in game. [[%3c%3c]]%0aAm not allowed to have ChrisF make stats for Chicken Cannons. [[%3c%3c]]
+time=1525921380
+author:1525921380=AnneB
+diff:1525921380:1525921380:=1,12d0%0a%3c !BeccaH- 5.0 Admin%0a%3c (''Is Awesome'') \\%0a%3c %0a%3c %0a%3c I love '''chicken cannons'''!!!!  Enjoy the humor below%0a%3c %0a%3c !Things I'm no longer allowed to do:%0a%3c %0a%3c While entertaining, I should not encourage AnneB to torment ChrisF with glitterbombs. [[%3c%3c]]%0a%3c Chicken Cannons should not be used to punish staff that misbehave. [[%3c%3c]]%0a%3c Chicken Cannons do not exist in game. [[%3c%3c]]%0a%3c Am not allowed to have ChrisF make stats for Chicken Cannons. [[%3c%3c]]%0a\ No newline at end of file%0a
+host:1525921380=71.222.98.245

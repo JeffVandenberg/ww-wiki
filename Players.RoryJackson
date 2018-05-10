@@ -1,15 +1,21 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.64
+agent=Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-G950U Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.0 Chrome/59.0.3071.125 Mobile Safari/537.36
 author=Vyrun
 charset=ISO-8859-1
 csum=
 ctime=1517272563
-host=91.247.77.234
+host=174.200.3.46
 name=Players.RoryJackson
-rev=11
+rev=13
 targets=
-text=%25lfloat border='2px solid' width=200%25[[https://j.gifs.com/86N6Qg.gif|https://i.imgur.com/fZRiQug.png]]%0a!!!Rory Jackson%0a%0a'''Age'''\\%0a''19''\\%0a%0a'''Profession'''\\%0a''Apprentice to Marja Jovanovic''\\%0a%0a'''Public Effects'''\\%0a''Presence •\\%0aFame • (Jackson Home Explosion)''\\%0a%0a'''Player'''\\%0a''Vyrun''\\%0a%0a[[%3c%3c]]%0a[[%3c%3c]]%0a\\%0a%25rfloat border='2px solid' width=200%25https://i.imgur.com/Blqe5pP.png%0a!!!!Roleplay Hooks%0a'''Jackson Home Explosion (Fame [[https://youtu.be/jsNxmSLFDak|•]])'''\\%0a''It was in the news that Rory's home exploded, killing his father and putting Rory himself in intensive care in the hospital. The circumstances of the explosion are unknown to the public.''%0a%0a'''Embassy/RCG'''\\%0a''Rory is a known part of the Rose City Guild and the Embassy's dealings. He is a telekinetic who has fought for the safety of Portland citizenry. He is (likely) preceded by a reputation for being quiet, stand off-ish, and bitter.''%0a%0a!!!!Themes%0a%0a'''Current Story Beat:'''\\%0a[[https://youtu.be/XWi-nEGU7pk|Iridescent]] — [-Linkin Park-]%0a[[https://youtu.be/gdf5XaHU11U|Waves]] — [-Mr. Probz & Robin Shulz-]%0a%0a!!!!Quotes
-time=1525765524
+text=%25lfloat border='2px solid' width=200%25[[https://j.gifs.com/86N6Qg.gif|https://i.imgur.com/fZRiQug.png]]%0a!!!Rory Jackson%0a%0a'''Age'''\\%0a''19''\\%0a%0a'''Profession'''\\%0a''Apprentice to Marja Jovanovic''\\%0a%0a'''Public Effects'''\\%0a''Presence •\\%0aFame • (Jackson Home Explosion)''\\%0a%0a'''Player'''\\%0a''Vyrun''\\%0a%0a[[%3c%3c]]%0a[[%3c%3c]]%0a\\%0a%25rfloat border='2px solid' width=200%25https://i.imgur.com/Blqe5pP.png%0a!!!!Roleplay Hooks%0a'''Jackson Home Explosion (Fame [[https://youtu.be/jsNxmSLFDak|•]])'''\\%0a''It was in the news that Rory's home exploded, killing his father and putting Rory himself in intensive care in the hospital. The circumstances of the explosion are unknown to the public.''%0a%0a'''Embassy/RCG'''\\%0a''Rory is a known part of the Rose City Guild and the Embassy's dealings. He is a telekinetic who has fought for the safety of Portland citizenry. He is (likely) preceded by a reputation for being quiet, stand off-ish, and bitter.''%0a%0a!!!!Themes%0a%0a'''Current Story Beat:'''\\%0a[[https://youtu.be/XWi-nEGU7pk|Iridescent]] — [-Linkin Park-]%0a[[https://youtu.be/gdf5XaHU11U|Waves]] — [-Mr. Probz & Robin Shulz-]%0a%0a'''Past Story Calcified:'''\\%0a[[https://youtu.be/h74nkELyHhM|Pain]] — [-Three Days Grace-]%0a%0a!!!!Quotes
+time=1525911232
+author:1525911232=Vyrun
+diff:1525911232:1525911102:=34c34%0a%3c '''Past Story Calcified:'''\\%0a---%0a> '''Past Story Calcified:'''%0a
+host:1525911232=174.200.3.46
+author:1525911102=Vyrun
+diff:1525911102:1525765524:=33,35d32%0a%3c %0a%3c '''Past Story Calcified:'''%0a%3c [[https://youtu.be/h74nkELyHhM|Pain]] — [-Three Days Grace-]%0a
+host:1525911102=174.200.3.46
 author:1525765524=Vyrun
 diff:1525765524:1525757168:=22c22%0a%3c '''Jackson Home Explosion (Fame [[https://youtu.be/jsNxmSLFDak|•]])'''\\%0a---%0a> '''Jackson Home Explosion (Fame •)'''\\%0a
 host:1525765524=91.247.77.234
