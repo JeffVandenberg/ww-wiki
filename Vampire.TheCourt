@@ -1,0 +1,18 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; CrOS x86_64 10032.71.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.86 Safari/537.36
+author=AndreaM
+charset=ISO-8859-1
+csum=
+ctime=1526663909
+host=204.210.245.26
+name=Vampire.TheCourt
+rev=2
+targets=Vampire.Vampire,Vampire.History,Vampire.TheCourt,Vampire.Locations,Vampire.PlayerGuide,Vampire.KindredLaw
+text=http://wantonwicked.gamingsandbox.com/wiki/images/vampiretherequiem.png%0a|| border=0%0a||  ||  || Directory: Vampire The Requiem ||  ||  ||%0a|| [[Vampire.Vampire|About the Venue]]  || [[History]]  || [[The Court]] || [[Locations]] || [[Player Guide]]  || [[Kindred Law]] ||%0a%0aPrince:  Abram Louis Murdoch (Invictus)%0a%0aSenechsal:  Esme Wallson (Carthian)%0a%0aHound: Peter Carter%0a%0aSheriff:  Nathanial Hawkins%0a%0aDeputies:  None%0a%0aKeeper:  Lorelei Bowen%0a%0aDefenders:  None%0a%0aPrimogen:%0a%0aInivictus-Empty %0a%0aCarthian-Harvey Wallson%0a%0aCircle of the Crone-Nadira%0a%0aDragon:  Daniel Renatus%0a%0aLancea: Olivia Miller%0a%0aHarpies:%0a%0aCrones:  Naomi Gracen%0a%0aInvictus:  Empty%0a%0aDragon:  Empty%0a%0aLance:  Empty%0a%0aCarthian:  Empty%0a%0a
+time=1526663988
+author:1526663988=AndreaM
+diff:1526663988:1526663909:=13d12%0a%3c %0a17d15%0a%3c %0a21,23c19%0a%3c %0a%3c Inivictus-Empty %0a%3c %0a---%0a> Inivictus-Empty (Currently have Burton and Erik making plays for it%0a25d20%0a%3c %0a27d21%0a%3c %0a29d22%0a%3c %0a33d25%0a%3c %0a35d26%0a%3c %0a37d27%0a%3c %0a39d28%0a%3c %0a41d29%0a%3c %0a
+host:1526663988=204.210.245.26
+author:1526663909=AndreaM
+diff:1526663909:1526663909:=1,31d0%0a%3c http://wantonwicked.gamingsandbox.com/wiki/images/vampiretherequiem.png%0a%3c || border=0%0a%3c ||  ||  || Directory: Vampire The Requiem ||  ||  ||%0a%3c || [[Vampire.Vampire|About the Venue]]  || [[History]]  || [[The Court]] || [[Locations]] || [[Player Guide]]  || [[Kindred Law]] ||%0a%3c %0a%3c Prince:  Abram Louis Murdoch (Invictus)%0a%3c %0a%3c Senechsal:  Esme Wallson (Carthian)%0a%3c %0a%3c Hound: Peter Carter%0a%3c %0a%3c Sheriff:  Nathanial Hawkins%0a%3c Deputies:  None%0a%3c %0a%3c Keeper:  Lorelei Bowen%0a%3c Defenders:  None%0a%3c %0a%3c Primogen:%0a%3c Inivictus-Empty (Currently have Burton and Erik making plays for it%0a%3c Carthian-Harvey Wallson%0a%3c Circle of the Crone-Nadira%0a%3c Dragon:  Daniel Renatus%0a%3c Lancea: Olivia Miller%0a%3c %0a%3c Harpies:%0a%3c Crones:  Naomi Gracen%0a%3c Invictus:  Empty%0a%3c Dragon:  Empty%0a%3c Lance:  Empty%0a%3c Carthian:  Empty%0a%3c %0a
+host:1526663909=204.210.245.26
