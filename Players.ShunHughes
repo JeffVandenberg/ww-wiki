@@ -1,0 +1,54 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+author=Hecate
+charset=ISO-8859-1
+csum=
+ctime=1528063568
+host=97.116.95.232
+name=Players.ShunHughes
+rev=14
+targets=Players.EnterLink
+text=(:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://images5.alphacoders.com/393/thumb-1920-393575.jpg=]); background-size:80%25; padding:25px;' width=25%25:)%0a%0a!! Dossier %25rfloat text-align=center border='2px solid' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=450px height=600px%25 https://cdn.discordapp.com/attachments/359921772486852609/452736280606932992/6n0feipkmfJOa4oIiah8l9kvlilEv.jpg%0a%0a%0a:Aliases: None%0a%0a:Guild: Rose City Guild%0a%0a:Public Effects: Telekinesis *****, Psychokinesis *****, Crack Driver, Danger Sense, Sleight of Hand, Parkour%0a%0a:Virtue/Vice: Loyal/Ruthless%0a%0a:Profession: Whatever the RCG requests%0a%0a:Age: 24%0a%0a:Height: 5'6%0a%0a:Sex: ????%0a%0a:Music: %0a[[https://youtu.be/1ihRFNHkIDY | Floating Shrine of Inanna]]%0a%0a:Player: Hecate%0a%0a!!Description%0aShun is androgynous at best. The precise gender is difficult to tell, as Shun tends to prefer gender neutral clothing, or masculine. Eve Shun's voice exists somewhere in the expected spectrum of each gender. Their height tends to reach at 5'7, with dark hair that is rather short, and practically cut, as well as simple dark makeup to enhance their blue eyes. A set of simple earrings dangle from their ears.%0a%0aShun's mannerisms tend to show a certain confidence in themselves, almost as if they feel the need to puff just slightly, with a straight back and slightly lifted chin. The particular look in Shun's eyes is almost uneasy calm at first, though there is a certain rage that exists there. %0a%0aSmirks are more common than smiles, and a light chuckle takes the place of laughs. %0a%0a%0a----%0a%0a!! Hooks%0a(Everyone) - Is a member of the Rose City Guild - Works primarily among the Livery%0a%0a(Criminals) - Participated in criminal activity when younger. Went to a youth detention center.%0a%0a%0a----%0a%0a!! Contacts%0a%0a(:table table border=0 cellpadding=5 cellspacing=0:)%0a%0a(:cellnr width=360px:) %25lfloat width=150%25 https://i.pinimg.com/originals/92/a4/9e/92a49ef1894e08b846d5f4244de435bc.png%0a[[Enter Link | Enter Name]]\\%0a%25white%25 [Enter Description Here]%0a%0a(:cell width=360px:) %25lfloat width=150%25 https://i.pinimg.com/originals/92/a4/9e/92a49ef1894e08b846d5f4244de435bc.png%0a[[Enter Link | Enter Name]]\\%0a%25white%25 [Enter Description Here]%0a%0a(:tableend:)%0a%0a----%0a%0a!!Gallery%0a(:cellnr width=600px:) %25lfloat width=250%25 https://cars.usnews.com/static/images/Auto/izmo/i353896/2016_dodge_charger_angularfront.jpg%0a%0a(:cell width=600px:) %25lfloat width=150%25 https://olightworld.com/image/catalog/flashlights/olight-m2r/olight-flashlight-m2r-1.jpg%0a%0a(:tableend:)%0a________%0a%0a!! Quotes%0a%0a%0a%0a%25werewolf%25 "Say something" [[]]%0a%0a%25vampire%25 "Say something [[]]%0a%0a%25mortal%25 "Say something  [[]]%0a%0a%25changeling%25 "Say something." [[]]%0a%0a%25mage%25 "Say something." [[]]%0a%0a
+time=1528074250
+author:1528074250=Hecate
+diff:1528074250:1528068587:=40c40%0a%3c (Criminals) - Participated in criminal activity when younger. Went to a youth detention center.%0a---%0a> (Criminals) - Participated in criminal activity when younger, and even went to a youth detention center.%0a
+host:1528074250=97.116.95.232
+author:1528068587=Hecate
+diff:1528068587:1528067343:=23d22%0a%3c [[https://youtu.be/1ihRFNHkIDY | Floating Shrine of Inanna]]%0a
+host:1528068587=97.116.95.232
+author:1528067343=Hecate
+diff:1528067343:1528067318:=63c63%0a%3c (:cell width=600px:) %25lfloat width=150%25 https://olightworld.com/image/catalog/flashlights/olight-m2r/olight-flashlight-m2r-1.jpg%0a---%0a> (:cell width=600px:) %25lfloat width=200%25 https://olightworld.com/image/catalog/flashlights/olight-m2r/olight-flashlight-m2r-1.jpg%0a
+host:1528067343=97.116.95.232
+author:1528067318=Hecate
+diff:1528067318:1528067301:=63c63%0a%3c (:cell width=600px:) %25lfloat width=200%25 https://olightworld.com/image/catalog/flashlights/olight-m2r/olight-flashlight-m2r-1.jpg%0a---%0a> (:cell width=600px:) %25lfloat width=250%25 https://olightworld.com/image/catalog/flashlights/olight-m2r/olight-flashlight-m2r-1.jpg%0a
+host:1528067318=97.116.95.232
+author:1528067301=Hecate
+diff:1528067301:1528066180:=59,66d58%0a%3c %0a%3c !!Gallery%0a%3c (:cellnr width=600px:) %25lfloat width=250%25 https://cars.usnews.com/static/images/Auto/izmo/i353896/2016_dodge_charger_angularfront.jpg%0a%3c %0a%3c (:cell width=600px:) %25lfloat width=250%25 https://olightworld.com/image/catalog/flashlights/olight-m2r/olight-flashlight-m2r-1.jpg%0a%3c %0a%3c (:tableend:)%0a%3c ________%0a
+host:1528067301=97.116.95.232
+author:1528066180=Hecate
+diff:1528066180:1528066151:=10c10%0a%3c :Public Effects: Telekinesis *****, Psychokinesis *****, Crack Driver, Danger Sense, Sleight of Hand, Parkour%0a---%0a> :Public Effects: Telekinesis *****, Psychokinesis *****, Crack Driver, Danger Sense, Sleight of Hand%0a
+host:1528066180=97.116.95.232
+author:1528066151=Hecate
+diff:1528066151:1528065756:=14,15c14,15%0a%3c :Profession: Whatever the RCG requests%0a%3c %0a---%0a> :Profession: %0a> %0a21a22%0a> %0a33d33%0a%3c %0a35a36,41%0a> !! Gallery%0a> %0a> %0a> %0a> ----%0a> %0a37,39d42%0a%3c (Everyone) - Is a member of the Rose City Guild - Works primarily among the Livery%0a%3c %0a%3c (Criminals) - Participated in criminal activity when younger, and even went to a youth detention center.%0a
+host:1528066151=97.116.95.232
+author:1528065756=Hecate
+diff:1528065756:1528064999:=7d6%0a%3c %0a9,11c8%0a%3c %0a%3c :Public Effects: Telekinesis *****, Psychokinesis *****, Crack Driver, Danger Sense, Sleight of Hand%0a%3c %0a---%0a> :Public Effects: %0a13d9%0a%3c %0a15c11%0a%3c %0a---%0a> :Concept: %0a17,22d12%0a%3c %0a%3c :Height: 5'6%0a%3c %0a%3c :Sex: ????%0a%3c %0a%3c %0a24d13%0a%3c %0a26d14%0a%3c %0a
+host:1528065756=97.116.95.232
+author:1528064999=Hecate
+diff:1528064999:1528064937:=5,6c5%0a%3c %0a%3c :Aliases: None%0a---%0a> %25block red%25[@:Aliases: None%0a51,52c50%0a%3c !! Quotes%0a%3c %0a---%0a> !! Quotes@]%0a
+host:1528064999=97.116.95.232
+author:1528064937=Hecate
+diff:1528064937:1528064382:=5c5%0a%3c %25block red%25[@:Aliases: None%0a---%0a> :Aliases: None%0a50c50%0a%3c !! Quotes@]%0a---%0a> !! Quotes%0a
+host:1528064937=97.116.95.232
+author:1528064382=Hecate
+diff:1528064382:1528064112:=7c7%0a%3c :Public Effects: %0a---%0a> :Public Effects: Biokinesis •••, Doppleganger •••, Incite Ecosystem •••, Safe Place • (Abandoned Warehouse Farm & Garden), Unseen Sense •• (Psychics), MCI • (Rose City Guild)%0a
+host:1528064382=97.116.95.232
+author:1528064112=Hecate
+diff:1528064112:1528063580:=5,20c5,7%0a%3c :Aliases: None%0a%3c :Guild: Rose City Guild%0a%3c :Public Effects: Biokinesis •••, Doppleganger •••, Incite Ecosystem •••, Safe Place • (Abandoned Warehouse Farm & Garden), Unseen Sense •• (Psychics), MCI • (Rose City Guild)%0a%3c :Virtue/Vice: Loyal/Ruthless%0a%3c :Profession: %0a%3c :Concept: %0a%3c :Age: 24%0a%3c :Music: %0a%3c :Player: Hecate%0a%3c !!Description%0a%3c Shun is androgynous at best. The precise gender is difficult to tell, as Shun tends to prefer gender neutral clothing, or masculine. Eve Shun's voice exists somewhere in the expected spectrum of each gender. Their height tends to reach at 5'7, with dark hair that is rather short, and practically cut, as well as simple dark makeup to enhance their blue eyes. A set of simple earrings dangle from their ears.%0a%3c %0a%3c Shun's mannerisms tend to show a certain confidence in themselves, almost as if they feel the need to puff just slightly, with a straight back and slightly lifted chin. The particular look in Shun's eyes is almost uneasy calm at first, though there is a certain rage that exists there. %0a%3c %0a%3c Smirks are more common than smiles, and a light chuckle takes the place of laughs. %0a%3c %0a---%0a> %0a> %0a> %0a53,61c40%0a%3c %25werewolf%25 "Say something" [[]]%0a%3c %0a%3c %25vampire%25 "Say something [[]]%0a%3c %0a%3c %25mortal%25 "Say something  [[]]%0a%3c %0a%3c %25changeling%25 "Say something." [[]]%0a%3c %0a%3c %25mage%25 "Say something." [[]]%0a---%0a> " Here" [[]]%0a
+host:1528064112=97.116.95.232
+author:1528063580=Hecate
+diff:1528063580:1528063568:=40c40%0a%3c " Here" [[]]%0a---%0a> " Here" [[]%0a
+host:1528063580=97.116.95.232
+author:1528063568=Hecate
+diff:1528063568:1528063568:=1,41d0%0a%3c (:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://images5.alphacoders.com/393/thumb-1920-393575.jpg=]); background-size:80%25; padding:25px;' width=25%25:)%0a%3c %0a%3c !! Dossier %25rfloat text-align=center border='2px solid' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=450px height=600px%25 https://cdn.discordapp.com/attachments/359921772486852609/452736280606932992/6n0feipkmfJOa4oIiah8l9kvlilEv.jpg%0a%3c %0a%3c %0a%3c %0a%3c %0a%3c ----%0a%3c %0a%3c !! Gallery%0a%3c %0a%3c %0a%3c %0a%3c ----%0a%3c %0a%3c !! Hooks%0a%3c %0a%3c %0a%3c ----%0a%3c %0a%3c !! Contacts%0a%3c %0a%3c (:table table border=0 cellpadding=5 cellspacing=0:)%0a%3c %0a%3c (:cellnr width=360px:) %25lfloat width=150%25 https://i.pinimg.com/originals/92/a4/9e/92a49ef1894e08b846d5f4244de435bc.png%0a%3c [[Enter Link | Enter Name]]\\%0a%3c %25white%25 [Enter Description Here]%0a%3c %0a%3c (:cell width=360px:) %25lfloat width=150%25 https://i.pinimg.com/originals/92/a4/9e/92a49ef1894e08b846d5f4244de435bc.png%0a%3c [[Enter Link | Enter Name]]\\%0a%3c %25white%25 [Enter Description Here]%0a%3c %0a%3c (:tableend:)%0a%3c %0a%3c ----%0a%3c %0a%3c !! Quotes%0a%3c %0a%3c %0a%3c " Here" [[]%0a%3c %0a
+host:1528063568=97.116.95.232
