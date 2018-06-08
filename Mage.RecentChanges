@@ -1,9 +1,9 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
 charset=ISO-8859-1
 ctime=1516716122
-host=66.213.97.2
+host=71.222.98.245
 name=Mage.RecentChanges
-rev=29
-text=* [[Mage.PlayerGuide | Player Guide]]  . . . April 17, 2018, at 05:18 PM by [[~AndreaM]]: [==]%0a* [[Mage.Locations | Locations]]  . . . March 16, 2018, at 10:27 PM by [[~wyldepixie]]: [==]%0a* [[Mage.Society | Society]]  . . . March 16, 2018, at 09:25 PM by [[~wyldepixie]]: [==]%0a* [[Mage.Mage | Mage]]  . . . March 16, 2018, at 08:24 PM by [[~AndreaM]]: [==]%0a* [[Mage.History | History]]  . . . March 16, 2018, at 07:42 PM by [[~AndreaM]]: [==]%0a
-time=1524010714
+rev=36
+text=* [[Mage.Locations | Locations]]  . . . June 07, 2018, at 02:40 PM by [[~AnneB]]: [==]%0a* [[Mage.PlayerGuide | Player Guide]]  . . . June 07, 2018, at 11:19 AM by [[~AnneB]]: [==]%0a* [[Mage.Society | Society]]  . . . March 16, 2018, at 09:25 PM by [[~wyldepixie]]: [==]%0a* [[Mage.Mage | Mage]]  . . . March 16, 2018, at 08:24 PM by [[~AndreaM]]: [==]%0a* [[Mage.History | History]]  . . . March 16, 2018, at 07:42 PM by [[~AndreaM]]: [==]%0a
+time=1528407600

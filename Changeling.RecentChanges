@@ -1,9 +1,9 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
 charset=ISO-8859-1
 ctime=1516715760
-host=73.181.92.174
+host=71.222.98.245
 name=Changeling.RecentChanges
-rev=34
-text=* [[Changeling.PlayerGuide | Player Guide]]  . . . March 16, 2018, at 08:55 PM by [[~Marcie]]: [==]%0a* [[Changeling.History | History]]  . . . March 16, 2018, at 08:03 PM by [[~AndreaM]]: [==]%0a* [[Changeling.Society | Society]]  . . . March 14, 2018, at 10:32 PM by [[~Marcie]]: [==]%0a* [[Changeling.Locations | Locations]]  . . . January 24, 2018, at 08:13 PM by ?: [==]%0a* [[Changeling.Changeling | Changeling]]  . . . January 24, 2018, at 07:54 PM by ?: [==]%0a
-time=1521258944
+rev=39
+text=* [[Changeling.Locations | Locations]]  . . . June 07, 2018, at 11:49 AM by [[~AnneB]]: [==]%0a* [[Changeling.PlayerGuide | Player Guide]]  . . . June 07, 2018, at 11:34 AM by [[~AnneB]]: [==]%0a* [[Changeling.History | History]]  . . . March 16, 2018, at 08:03 PM by [[~AndreaM]]: [==]%0a* [[Changeling.Society | Society]]  . . . March 14, 2018, at 10:32 PM by [[~Marcie]]: [==]%0a* [[Changeling.Changeling | Changeling]]  . . . January 24, 2018, at 07:54 PM by ?: [==]%0a
+time=1528397355
