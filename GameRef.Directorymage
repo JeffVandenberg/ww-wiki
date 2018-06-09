@@ -1,0 +1,15 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+author=AnneB
+charset=ISO-8859-1
+csum=
+ctime=1528474938
+host=71.222.98.245
+name=GameRef.Directorymage
+rev=1
+targets=GameRef.CharacterCreation,City.City,GameRef.HouseRules,Mage.Society,Mage.History,Mage.Mage,Mage.Locations,Mage.PlayerGuide
+text=|| border=1 align=center width=100%25%0a|| %25mage%25[[GameRef.CharacterCreation|Character Creation]] || [[City.City|The City]] || %25mage%25Directory: Mage the Awakening || [[https://wantonwicked.gamingsandbox.com/characters/cast/mage|Mage Cast List]] || [[GameRef.HouseRules|House Rules]] ||%0a|| %25mage%25[[mage.society|Society]] || [[mage.history|History]]  || [[mage.mage|About the Venue]] || [[mage.locations|Locations]] || [[mage.PlayerGuide|Player Guide]] ||
+time=1528474938
+author:1528474938=AnneB
+diff:1528474938:1528474938:=1,3d0%0a%3c || border=1 align=center width=100%25%0a%3c || %25mage%25[[GameRef.CharacterCreation|Character Creation]] || [[City.City|The City]] || %25mage%25Directory: Mage the Awakening || [[https://wantonwicked.gamingsandbox.com/characters/cast/mage|Mage Cast List]] || [[GameRef.HouseRules|House Rules]] ||%0a%3c || %25mage%25[[mage.society|Society]] || [[mage.history|History]]  || [[mage.mage|About the Venue]] || [[mage.locations|Locations]] || [[mage.PlayerGuide|Player Guide]] ||%0a\ No newline at end of file%0a
+host:1528474938=71.222.98.245

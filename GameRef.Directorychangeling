@@ -1,0 +1,33 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+author=AnneB
+charset=ISO-8859-1
+csum=
+ctime=1528473646
+host=71.222.98.245
+name=GameRef.Directorychangeling
+rev=7
+targets=GameRef.CharacterCreation,City.City,GameRef.HouseRules,Changeling.Society,Changeling.History,Changeling.Changeling,Changeling.Locations,Changeling.PlayerGuide
+text=|| border=1 align=center width=100%25%0a|| %25changeling%25[[GameRef.CharacterCreation|Character Creation]] || [[City.City|The City]] || %25changeling%25Directory: Changeling the Lost || [[https://wantonwicked.gamingsandbox.com/characters/cast/changeling|Changeling Cast List]] || [[GameRef.HouseRules|House Rules]] ||%0a|| %25changeling%25[[changeling.society|Society]] || [[changeling.history|History]]  || [[changeling.changeling|About the Venue]] || [[changeling.locations|Locations]] || [[changeling.PlayerGuide|Player Guide]] ||
+time=1528474561
+author:1528474561=AnneB
+diff:1528474561:1528474518:=2,3c2,3%0a%3c || %25changeling%25[[GameRef.CharacterCreation|Character Creation]] || [[City.City|The City]] || %25changeling%25Directory: Changeling the Lost || [[https://wantonwicked.gamingsandbox.com/characters/cast/changeling|Changeling Cast List]] || [[GameRef.HouseRules|House Rules]] ||%0a%3c || %25changeling%25[[changeling.society|Society]] || [[changeling.history|History]]  || [[changeling.changeling|About the Venue]] || [[changeling.locations|Locations]] || [[changeling.PlayerGuide|Player Guide]] ||%0a\ No newline at end of file%0a---%0a> || [[GameRef.CharacterCreation|Character Creation]] || [[City.City|The City]] || Directory: Changeling the Lost || [[https://wantonwicked.gamingsandbox.com/characters/cast/changeling|Changeling Cast List]] || [[GameRef.HouseRules|House Rules]] ||%0a> || [[changeling.society|Society]] || [[changeling.history|History]]  || [[changeling.changeling|About the Venue]] || [[changeling.locations|Locations]] || [[changeling.PlayerGuide|Player Guide]] ||%0a\ No newline at end of file%0a
+host:1528474561=71.222.98.245
+author:1528474518=AnneB
+diff:1528474518:1528474442:=0a1%0a> http://wantonwicked.gamingsandbox.com/wiki/images/ctl/banner_changeling.jpg%0a
+host:1528474518=71.222.98.245
+author:1528474442=AnneB
+diff:1528474442:1528474412:=1d0%0a%3c http://wantonwicked.gamingsandbox.com/wiki/images/ctl/banner_changeling.jpg%0a
+host:1528474442=71.222.98.245
+author:1528474412=AnneB
+diff:1528474412:1528474365:=3c3%0a%3c || [[changeling.society|Society]] || [[changeling.history|History]]  || [[changeling.changeling|About the Venue]] || [[changeling.locations|Locations]] || [[changeling.PlayerGuide|Player Guide]] ||%0a\ No newline at end of file%0a---%0a> || [[changeling.changeling|About the Venue]] || [[changeling.history|History]]  || [[changeling.society|Society]] || [[changeling.locations|Locations]] || [[changeling.PlayerGuide|Player Guide]] ||%0a\ No newline at end of file%0a
+host:1528474412=71.222.98.245
+author:1528474365=AnneB
+diff:1528474365:1528473753:=2c2%0a%3c || [[GameRef.CharacterCreation|Character Creation]] || [[City.City|The City]] || Directory: Changeling the Lost || [[https://wantonwicked.gamingsandbox.com/characters/cast/changeling|Changeling Cast List]] || [[GameRef.HouseRules|House Rules]] ||%0a---%0a> ||  ||  || Directory: Changeling the Lost ||  ||  ||%0a
+host:1528474365=71.222.98.245
+author:1528473753=AnneB
+diff:1528473753:1528473646:=3c3%0a%3c || [[changeling.changeling|About the Venue]] || [[changeling.history|History]]  || [[changeling.society|Society]] || [[changeling.locations|Locations]] || [[changeling.PlayerGuide|Player Guide]] ||%0a\ No newline at end of file%0a---%0a> || [[changeling.changeling|About the Venue]]  ||  [[    History    ]]  || [[Society]] || [[Locations]] || [[Player Guide]] ||%0a\ No newline at end of file%0a
+host:1528473753=71.222.98.245
+author:1528473646=AnneB
+diff:1528473646:1528473646:=1,3d0%0a%3c || border=1 align=center width=100%25%0a%3c ||  ||  || Directory: Changeling the Lost ||  ||  ||%0a%3c || [[changeling.changeling|About the Venue]]  ||  [[    History    ]]  || [[Society]] || [[Locations]] || [[Player Guide]] ||%0a\ No newline at end of file%0a
+host:1528473646=71.222.98.245

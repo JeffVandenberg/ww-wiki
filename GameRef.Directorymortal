@@ -1,0 +1,18 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+author=AnneB
+charset=ISO-8859-1
+csum=
+ctime=1528476302
+host=71.222.98.245
+name=GameRef.Directorymortal
+rev=2
+targets=GameRef.CharacterCreation,City.City,GameRef.HouseRules,Mortal.Society,Mortal.History,Mortal.Mortal,Mortal.Locations,Mortal.PlayerGuide
+text=|| border=1 align=center width=100%25%0a|| %25mortal%25[[GameRef.CharacterCreation|Character Creation]] || [[City.City|The City]] || %25mortal%25Directory: Mortal + the Face in the Mirror || [[https://wantonwicked.gamingsandbox.com/characters/cast/mortal|Mortal Cast List]] || [[GameRef.HouseRules|House Rules]] ||%0a|| %25mortal%25[[mortal.society|Society]] || [[mortal.history|History]]  || [[mortal.mortal|About the Venue]] || [[mortal.locations|Locations]] || [[mortal.PlayerGuide|Player Guide]] ||
+time=1528476511
+author:1528476511=AnneB
+diff:1528476511:1528476302:=3c3%0a%3c || %25mortal%25[[mortal.society|Society]] || [[mortal.history|History]]  || [[mortal.mortal|About the Venue]] || [[mortal.locations|Locations]] || [[mortal.PlayerGuide|Player Guide]] ||%0a\ No newline at end of file%0a---%0a> || %25mortal%25[[mortal.society|Society]] || [[mortal.history|History]]  || [[mortal.mage|About the Venue]] || [[mortal.locations|Locations]] || [[mortal.PlayerGuide|Player Guide]] ||%0a\ No newline at end of file%0a
+host:1528476511=71.222.98.245
+author:1528476302=AnneB
+diff:1528476302:1528476302:=1,3d0%0a%3c || border=1 align=center width=100%25%0a%3c || %25mortal%25[[GameRef.CharacterCreation|Character Creation]] || [[City.City|The City]] || %25mortal%25Directory: Mortal + the Face in the Mirror || [[https://wantonwicked.gamingsandbox.com/characters/cast/mortal|Mortal Cast List]] || [[GameRef.HouseRules|House Rules]] ||%0a%3c || %25mortal%25[[mortal.society|Society]] || [[mortal.history|History]]  || [[mortal.mage|About the Venue]] || [[mortal.locations|Locations]] || [[mortal.PlayerGuide|Player Guide]] ||%0a\ No newline at end of file%0a
+host:1528476302=71.222.98.245
