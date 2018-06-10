@@ -1,15 +1,18 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299
-author=Bambi
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+author=AnneB
 charset=ISO-8859-1
 csum=
 ctime=1518689602
-host=108.228.214.73
+host=71.222.98.245
 name=Players.ShailaJahangir
-rev=11
+rev=12
 targets=
-text=http://bloodwyne.weebly.com/uploads/3/7/7/5/3775865/11654_1_orig.jpg http://bloodwyne.weebly.com/uploads/3/7/7/5/3775865/long-hairstyle-men_2_orig.jpg\\%0a\\%0aName: Shaila Jahangir\\%0a\\%0aAlias: Nightingale\\%0a\\%0aApparent Age: 24\\%0a\\%0aClan: Ventrue\\%0a\\%0aCovenant: Invictus\\%0a\\%0aHeight: 5'8"\\%0a\\%0aPlayer: Bambi\\%0a\\%0aPUBLIC EFFECTS:\\%0aStriking Looks 2 : Exotic and intriguing\\%0a\\%0aEtiquette 1\\%0a\\%0aBorn to the most respected Sultan, Jahangir, Shaila was the most prized. Her father gave her gifts and spoiled her some would say, but to her it was only his way of apologizing for not being there. She did not mind so much. She knew her father was busy with tending to the needs of the others. Growing up in the palace wasn't so bad. She had her father's harem looking after her so she was very fortunate.. after all.. how many can say they have 13 mothers? But one thing did make her look out towards the gardens with sadness. Never did she leave the castle walls. She was a prisoner in her own home, and as she grew older she started to think that she would never see what lays behind the stone walls.%0a%0aShe got older and she got out of the walls.  Then she found freedom by the means of a ship.  For years she was known as the Nightingale.  She doesn't know why but she never questioned it.  Now she is at dock for repairs and to explore the area to see if its worth staying.\\%0a\\%0aHOOKS\\%0a\\%0aNew to Town(Any): Shaila is new to town with her retainer Kadesh\\%0a\\%0aCaptain (any): Shaila is the captain of the ship Duchess\\%0a\\%0aForeign (any): From her looks to her accent she is foreign to this land but has visited many times.\\%0a\\%0a\\%0aMUSIC\\%0a[[https://youtu.be/4sXoA7B5yJo?list=LLCG-2npsKBmVBDyDmgw5_GQ | Freak like Me by Halestorm]]\\%0a[[https://youtu.be/7GLkb-6TULk?list=LLCG-2npsKBmVBDyDmgw5_GQ | I'm not an Angel by Halestorm]]\\%0a\\%0a\\%0aQuotes\\%0a\\%0a
-time=1519390848
+text=http://bloodwyne.weebly.com/uploads/3/7/7/5/3775865/11654_1_orig.jpg http://bloodwyne.weebly.com/uploads/3/7/7/5/3775865/long-hairstyle-men_2_orig.jpg\\%0a\\%0aName: Shaila Jahangir\\%0a\\%0aAlias: Nightingale\\%0a\\%0aApparent Age: 24\\%0a\\%0aClan: Ventrue\\%0a\\%0aCovenant: Invictus\\%0a\\%0aHeight: 5'8"\\%0a\\%0aPlayer: Bambi\\%0a\\%0aPUBLIC EFFECTS:\\%0aStriking Looks 2 : Exotic and intriguing\\%0a\\%0aEtiquette 1\\%0a\\%0aBorn to the most respected Sultan, Jahangir, Shaila was the most prized. Her father gave her gifts and spoiled her some would say, but to her it was only his way of apologizing for not being there. She did not mind so much. She knew her father was busy with tending to the needs of the others. Growing up in the palace wasn't so bad. She had her father's harem looking after her so she was very fortunate.. after all.. how many can say they have 13 mothers? But one thing did make her look out towards the gardens with sadness. Never did she leave the castle walls. She was a prisoner in her own home, and as she grew older she started to think that she would never see what lays behind the stone walls.%0a%0aShe got older and she got out of the walls.  Then she found freedom by the means of a ship.  For years she was known as the Nightingale.  She doesn't know why but she never questioned it.  Now she is at dock for repairs and to explore the area to see if its worth staying.\\%0a\\%0aHOOKS\\%0a\\%0aNew to Town(Any): Shaila is new to town with her retainer Kadesh\\%0a\\%0aCaptain (any): Shaila is the captain of the ship Duchess\\%0a\\%0aForeign (any): From her looks to her accent she is foreign to this land but has visited many times.\\%0a\\%0a\\%0aMUSIC\\%0a[[https://youtu.be/4sXoA7B5yJo?list=LLCG-2npsKBmVBDyDmgw5_GQ | Freak like Me by Halestorm]]\\%0a[[https://youtu.be/7GLkb-6TULk?list=LLCG-2npsKBmVBDyDmgw5_GQ | I'm not an Angel by Halestorm]]\\%0a\\%0a\\%0aQuotes\\%0a\\%0a%0a%0a(:include GameRef.Directoryplayervampire:)
+time=1528591925
+author:1528591925=AnneB
+diff:1528591925:1519390848:=42,44d41%0a%3c %0a%3c %0a%3c (:include GameRef.Directoryplayervampire:)%0a\ No newline at end of file%0a
+host:1528591925=71.222.98.245
 author:1519390848=Bambi
 diff:1519390848:1519162868:=14,15d13%0a%3c \\%0a%3c Player: Bambi\\%0a
 host:1519390848=108.228.214.73

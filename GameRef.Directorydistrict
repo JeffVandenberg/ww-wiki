@@ -1,0 +1,15 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+author=AnneB
+charset=ISO-8859-1
+csum=
+ctime=1528589362
+host=71.222.98.245
+name=GameRef.Directorydistrict
+rev=1
+targets=City.Central,City.East,City.North,City.Northeast,City.Northwest,City.Southeast,City.Southwest,City.Unaligned,City.Neighborhoods
+text=|| border=1 align=center width=100%25%0a|| [[City.Central|Central]] || [[City.East|East]] || Directory: Portland, Oregon - City of Roses || [[City.North|North]] || [[City.Northeast|Northeast]] ||%0a|| [[City.Northwest|Northwest]] || [[City.Southeast|Southeast]] || [[City.Southwest|Southwest]] || [[City.Unaligned|Unaligned]] || [[City.Neighborhoods|Neighborhoods]] ||
+time=1528589362
+author:1528589362=AnneB
+diff:1528589362:1528589362:=1,3d0%0a%3c || border=1 align=center width=100%25%0a%3c || [[City.Central|Central]] || [[City.East|East]] || Directory: Portland, Oregon - City of Roses || [[City.North|North]] || [[City.Northeast|Northeast]] ||%0a%3c || [[City.Northwest|Northwest]] || [[City.Southeast|Southeast]] || [[City.Southwest|Southwest]] || [[City.Unaligned|Unaligned]] || [[City.Neighborhoods|Neighborhoods]] ||%0a\ No newline at end of file%0a
+host:1528589362=71.222.98.245

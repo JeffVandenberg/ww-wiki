@@ -1,15 +1,18 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0
-author=Claire Voient
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+author=AnneB
 charset=ISO-8859-1
 csum=
 ctime=1518950824
-host=72.235.12.210
+host=71.222.98.245
 name=Players.ElleMEnopi
-rev=4
+rev=5
 targets=
-text=!!Dossiest %0a%25block rframe width=300px%25  https://i.imgur.com/aTokqXs.gif https://i.imgur.com/HNwiHPl.gif  https://i.imgur.com/JFH7DOO.gif%25%25%0a:Aliases: petite lap giraffe, good dog, nice kitty, pretty birdie, AHHH! snake, eeek! mouse%0a%25rfloat text-align=center margin-top=0px margin-left=0px margin-bottom=0px margin-right=0px width=450px height=500px%25 https://orig00.deviantart.net/3b14/f/2015/225/e/d/pegasus___lineart_by_verauko-d83o57.jpg %0a:Seeming: Beast %0a:Kith: Runnerswift/Windwing%0a:Mantle: 1 %0a:Court: Beirut%0a:Age: 32%0a:Player: Claire Voient%0a%0a!!Description%0aMask:%0a%0aElle always seems to clip and clop\\%0awhen she goes strolling down the street\\%0aHer clothing comes from the thriftiest shop\\%0aand she wears nothing on her feet%0a%0aMein:%0a%0aElle looks like she loves the outdoorsy\\%0aShe is tall and a bit horsey\\%0aHer hair is grey and her ears are pointy\\%0aAlso feathery wings that work of coursey%0a%0a!!Role Play Hooks%0a%0aHooks are mean n' hurt the fishies
-time=1527193797
+text=!!Dossiest %0a%25block rframe width=300px%25  https://i.imgur.com/aTokqXs.gif https://i.imgur.com/HNwiHPl.gif  https://i.imgur.com/JFH7DOO.gif%25%25%0a:Aliases: petite lap giraffe, good dog, nice kitty, pretty birdie, AHHH! snake, eeek! mouse%0a%25rfloat text-align=center margin-top=0px margin-left=0px margin-bottom=0px margin-right=0px width=450px height=500px%25 https://orig00.deviantart.net/3b14/f/2015/225/e/d/pegasus___lineart_by_verauko-d83o57.jpg %0a:Seeming: Beast %0a:Kith: Runnerswift/Windwing%0a:Mantle: 1 %0a:Court: Beirut%0a:Age: 32%0a:Player: Claire Voient%0a%0a!!Description%0aMask:%0a%0aElle always seems to clip and clop\\%0awhen she goes strolling down the street\\%0aHer clothing comes from the thriftiest shop\\%0aand she wears nothing on her feet%0a%0aMein:%0a%0aElle looks like she loves the outdoorsy\\%0aShe is tall and a bit horsey\\%0aHer hair is grey and her ears are pointy\\%0aAlso feathery wings that work of coursey%0a%0a!!Role Play Hooks%0a%0aHooks are mean n' hurt the fishies%0a%0a(:include GameRef.Directoryplayerchangeling:)
+time=1528595259
+author:1528595259=AnneB
+diff:1528595259:1527193797:=29,31c29%0a%3c Hooks are mean n' hurt the fishies%0a%3c %0a%3c (:include GameRef.Directoryplayerchangeling:)%0a\ No newline at end of file%0a---%0a> Hooks are mean n' hurt the fishies%0a\ No newline at end of file%0a
+host:1528595259=71.222.98.245
 author:1527193797=Claire Voient
 diff:1527193797:1527163041:=15,17c15,17%0a%3c Elle always seems to clip and clop\\%0a%3c when she goes strolling down the street\\%0a%3c Her clothing comes from the thriftiest shop\\%0a---%0a> Elle always seems to clip and clop%0a> when she goes strolling down the street%0a> Her clothing comes from the thriftiest shop%0a22,24c22,24%0a%3c Elle looks like she loves the outdoorsy\\%0a%3c She is tall and a bit horsey\\%0a%3c Her hair is grey and her ears are pointy\\%0a---%0a> Elle looks like she loves the outdoorsy%0a> She is tall and a bit horsey%0a> Her hair is grey and her ears are pointy%0a
 host:1527193797=72.235.12.210

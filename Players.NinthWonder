@@ -1,15 +1,18 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0
-author=
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+author=AnneB
 charset=ISO-8859-1
 csum=
 ctime=1516761251
-host=73.181.92.174
+host=71.222.98.245
 name=Players.NinthWonder
-rev=2
+rev=3
 targets=
-text= %25rfloat text-align=center border='2px solid #008000' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=450px height=500px%25 http://3.bp.blogspot.com/-RwihHMtEfIg/ToXmRY6cW4I/AAAAAAAAAD4/sQGUCBCWCRo/s1600/d3ia6tk.jpg%0a        %0a!!Dossier%0a:Aliases: Dr. Tuma (PHD) %0a:Path: Moros%0a:Order: Mysterium%0a:Nimbus:%0a-1 composure %3cbr>%0aHair stands on end growing ever so slightly longer%3cbr>%0a:Arcana: Death 3, Matter 1, Time 2, Life 2%0a:Cabal: None%0a:Virtue/Vice: Loyal/Hasty%0a:Public Effects: Status Consilium, Mysterium 1%0a:Profession: College Professor of Astronomy%0a:Age: 37%0a:Player: Mage NPC%0a%0a!!Description%0a %0a''Saudi Arabian born Rasheed Tuma is a man of fit form, dark wavy almost shoulder length hair. The man sports light facial hair at his lip, slightly thicker soul patch, and has a beard on his chin only. He&rsquo;s got almost bushy dark eyebrows and small brown eyes. His ear is pierced but other than that he dresses business casual.''%0a%0a %0a!!Role Play Hooks%0a %0a* Personality: Studious, Respectful, Calm%0a* Mage: A new-ish arrival in the last school year. Ninth Wonder is a recognized and active member of the Mysterium and Consilium but has yet to make a name for himself.%0a* All: Celestial Bodies, Ninth Wonder is a scientist but also a hard core Astronomy enthusist%0a* Embassy Task Force: Professor Tuma as he&rsquo;s know started up the Embassy Task Force inspired by the Mages of Portland, and the desire to protect his friend.%0a
-time=1516761261
+text= %25rfloat text-align=center border='2px solid #008000' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=450px height=500px%25 http://3.bp.blogspot.com/-RwihHMtEfIg/ToXmRY6cW4I/AAAAAAAAAD4/sQGUCBCWCRo/s1600/d3ia6tk.jpg%0a        %0a!!Dossier%0a:Aliases: Dr. Tuma (PHD) %0a:Path: Moros%0a:Order: Mysterium%0a:Nimbus:%0a-1 composure %3cbr>%0aHair stands on end growing ever so slightly longer%3cbr>%0a:Arcana: Death 3, Matter 1, Time 2, Life 2%0a:Cabal: None%0a:Virtue/Vice: Loyal/Hasty%0a:Public Effects: Status Consilium, Mysterium 1%0a:Profession: College Professor of Astronomy%0a:Age: 37%0a:Player: Mage NPC%0a%0a!!Description%0a %0a''Saudi Arabian born Rasheed Tuma is a man of fit form, dark wavy almost shoulder length hair. The man sports light facial hair at his lip, slightly thicker soul patch, and has a beard on his chin only. He&rsquo;s got almost bushy dark eyebrows and small brown eyes. His ear is pierced but other than that he dresses business casual.''%0a%0a %0a!!Role Play Hooks%0a %0a* Personality: Studious, Respectful, Calm%0a* Mage: A new-ish arrival in the last school year. Ninth Wonder is a recognized and active member of the Mysterium and Consilium but has yet to make a name for himself.%0a* All: Celestial Bodies, Ninth Wonder is a scientist but also a hard core Astronomy enthusist%0a* Embassy Task Force: Professor Tuma as he&rsquo;s know started up the Embassy Task Force inspired by the Mages of Portland, and the desire to protect his friend.%0a%0a(:include GameRef.Directoryplayermage:)
+time=1528594137
+author:1528594137=AnneB
+diff:1528594137:1516761261:=29,30d28%0a%3c %0a%3c (:include GameRef.Directoryplayermage:)%0a\ No newline at end of file%0a
+host:1528594137=71.222.98.245
 author:1516761261=
 diff:1516761261:1516761251:=4c4%0a%3c :Aliases: Dr. Tuma (PHD) %0a---%0a>  :Aliases: Dr. Tuma (PHD) %0a
 host:1516761261=73.181.92.174

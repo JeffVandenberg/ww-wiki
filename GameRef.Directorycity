@@ -1,0 +1,24 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+author=AnneB
+charset=ISO-8859-1
+csum=
+ctime=1528589039
+host=71.222.98.245
+name=GameRef.Directorycity
+rev=4
+targets=City.Neighborhoods,City.Districts,City.City,City.Embassy,City.Spheres
+text=|| border=1 align=center width=100%25%0a|| [[City.Neighborhoods|Neighborhoods]] || Directory: Portland, Oregon - City of Roses || [[City.Districts|Districts]] ||%0a|| [[City.City|City]] || [[City.Embassy|Embassy]] || [[City.Spheres|Spheres]] ||
+time=1528589168
+author:1528589168=AnneB
+diff:1528589168:1528589103:=3c3%0a%3c || [[City.City|City]] || [[City.Embassy|Embassy]] || [[City.Spheres|Spheres]] ||%0a\ No newline at end of file%0a---%0a> || [[City]] || [[City.Embassy|Embassy]] || [[City.Spheres|Spheres]] ||%0a\ No newline at end of file%0a
+host:1528589168=71.222.98.245
+author:1528589103=AnneB
+diff:1528589103:1528589058:=2,3c2,3%0a%3c || [[City.Neighborhoods|Neighborhoods]] || Directory: Portland, Oregon - City of Roses || [[City.Districts|Districts]] ||%0a%3c || [[City]] || [[City.Embassy|Embassy]] || [[City.Spheres|Spheres]] ||%0a\ No newline at end of file%0a---%0a> || [[City.Neighborhoods|Neighborhoods]] || Directory: Portland, Oregon - City of Roses || [[Districts]] ||%0a> || [[City]] || [[Embassy]] || [[Spheres]] ||%0a\ No newline at end of file%0a
+host:1528589103=71.222.98.245
+author:1528589058=AnneB
+diff:1528589058:1528589039:=2c2%0a%3c || [[City.Neighborhoods|Neighborhoods]] || Directory: Portland, Oregon - City of Roses || [[Districts]] ||%0a---%0a> || [[Neighborhoods]] || Directory: Portland, Oregon - City of Roses || [[Districts]] ||%0a
+host:1528589058=71.222.98.245
+author:1528589039=AnneB
+diff:1528589039:1528589039:=1,3d0%0a%3c || border=1 align=center width=100%25%0a%3c || [[Neighborhoods]] || Directory: Portland, Oregon - City of Roses || [[Districts]] ||%0a%3c || [[City]] || [[Embassy]] || [[Spheres]] ||%0a\ No newline at end of file%0a
+host:1528589039=71.222.98.245

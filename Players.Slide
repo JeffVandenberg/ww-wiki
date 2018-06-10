@@ -1,15 +1,18 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0
-author=
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+author=AnneB
 charset=ISO-8859-1
 csum=
 ctime=1516761857
-host=73.181.92.174
+host=71.222.98.245
 name=Players.Slide
-rev=1
+rev=2
 targets=
-text=%25rfloat text-align=center border='2px solid #008000' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=450px height=500px%25 http://i.imgur.com/rHaKPPQ.jpg%0a%0a!!Dossier%0a:Aliases: None at this time %0a:Path: Moros%0a:Order: Free Council%0a:Nimbus: &minus;2 Res, &minus;2 Comp, +1 Presence %3cbr>%0aThose that feel the effect of this nimbus feel belittled with a willful defiance creeping up inside %0a:Arcana: Death, Matter, Time, Fate, Prime, Space %0a:Cabal: NA%0a:Virtue/Vice: Tenecity/Suspician%0a:Public Effects: Consilium status 5, order status: 5 (Free Council)%0a:Profession: Ambassador to the Embassy%0a:Age: 69%0a:Player: NPC%0a%0a!!Description%0a %0a''A distinguished man in his later years, peircing eyes, a soft smile, but a hardness that suggests he&rsquo;s seen his fair share of the world of darkness''%0a%0a %0a!!Role Play Hooks%0a %0a* Ambassidor: Mage%0a* Free Council: One of Accords former mentors, he stepped back from leading the FC to be an Ambassador
-time=1516761857
+text=%25rfloat text-align=center border='2px solid #008000' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=450px height=500px%25 http://i.imgur.com/rHaKPPQ.jpg%0a%0a!!Dossier%0a:Aliases: None at this time %0a:Path: Moros%0a:Order: Free Council%0a:Nimbus: &minus;2 Res, &minus;2 Comp, +1 Presence %3cbr>%0aThose that feel the effect of this nimbus feel belittled with a willful defiance creeping up inside %0a:Arcana: Death, Matter, Time, Fate, Prime, Space %0a:Cabal: NA%0a:Virtue/Vice: Tenecity/Suspician%0a:Public Effects: Consilium status 5, order status: 5 (Free Council)%0a:Profession: Ambassador to the Embassy%0a:Age: 69%0a:Player: NPC%0a%0a!!Description%0a %0a''A distinguished man in his later years, peircing eyes, a soft smile, but a hardness that suggests he&rsquo;s seen his fair share of the world of darkness''%0a%0a %0a!!Role Play Hooks%0a %0a* Ambassidor: Mage%0a* Free Council: One of Accords former mentors, he stepped back from leading the FC to be an Ambassador%0a%0a(:include GameRef.Directoryplayermage:)
+time=1528594149
+author:1528594149=AnneB
+diff:1528594149:1516761857:=25,27c25%0a%3c * Free Council: One of Accords former mentors, he stepped back from leading the FC to be an Ambassador%0a%3c %0a%3c (:include GameRef.Directoryplayermage:)%0a\ No newline at end of file%0a---%0a> * Free Council: One of Accords former mentors, he stepped back from leading the FC to be an Ambassador%0a\ No newline at end of file%0a
+host:1528594149=71.222.98.245
 author:1516761857=
 diff:1516761857:1516761857:=1,25d0%0a%3c %25rfloat text-align=center border='2px solid #008000' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=450px height=500px%25 http://i.imgur.com/rHaKPPQ.jpg%0a%3c %0a%3c !!Dossier%0a%3c :Aliases: None at this time %0a%3c :Path: Moros%0a%3c :Order: Free Council%0a%3c :Nimbus: &minus;2 Res, &minus;2 Comp, +1 Presence %3cbr>%0a%3c Those that feel the effect of this nimbus feel belittled with a willful defiance creeping up inside %0a%3c :Arcana: Death, Matter, Time, Fate, Prime, Space %0a%3c :Cabal: NA%0a%3c :Virtue/Vice: Tenecity/Suspician%0a%3c :Public Effects: Consilium status 5, order status: 5 (Free Council)%0a%3c :Profession: Ambassador to the Embassy%0a%3c :Age: 69%0a%3c :Player: NPC%0a%3c %0a%3c !!Description%0a%3c  %0a%3c ''A distinguished man in his later years, peircing eyes, a soft smile, but a hardness that suggests he&rsquo;s seen his fair share of the world of darkness''%0a%3c %0a%3c  %0a%3c !!Role Play Hooks%0a%3c  %0a%3c * Ambassidor: Mage%0a%3c * Free Council: One of Accords former mentors, he stepped back from leading the FC to be an Ambassador%0a\ No newline at end of file%0a
 host:1516761857=73.181.92.174
