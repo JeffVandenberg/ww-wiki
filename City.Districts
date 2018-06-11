@@ -6,10 +6,13 @@ csum=
 ctime=1523740556
 host=71.222.98.245
 name=City.Districts
-rev=7
+rev=8
 targets=
-text=https://i.imgur.com/q4y8vkR.jpg%0a(:include GameRef.Directorycity:)%0a%0a(:toc:)%0a[[#top]]%0a%0a(:include Central#from#to:)%0a%0a[[#top|&#8593; back to top]]%0a%0a(:include East#from#to:)%0a%0a[[#top|&#8593; back to top]]%0a%0a(:include North#from#to:)%0a%0a[[#top|&#8593; back to top]]%0a%0a(:include Northeast#from#to:)%0a%0a[[#top|&#8593; back to top]]%0a%0a(:include Northwest#from#to:)%0a%0a[[#top|&#8593; back to top]]%0a%0a(:include Southeast#from#to:)%0a%0a[[#top|&#8593; back to top]]%0a%0a(:include Southwest#from#to:)%0a%0a[[#top|&#8593; back to top]]%0a%0a(:include Unaligned#from#to:)%0a%0a[[#top|&#8593; back to top]]%0a
-time=1528589200
+text=https://i.imgur.com/q4y8vkR.jpg%0a(:include GameRef.Directorycity:)%0a%0a(:toc:)%0a[[#top]]%0a%0a(:include Central#from#to:)%0a%0a[[#top|&#8593; back to top]]%0a%0a(:include East#from#to:)%0a%0a[[#top|&#8593; back to top]]%0a%0a(:include North#from#to:)%0a%0a[[#top|&#8593; back to top]]%0a%0a(:include Northeast#from#to:)%0a%0a[[#top|&#8593; back to top]]%0a%0a(:include Northwest#from#to:)%0a%0a[[#top|&#8593; back to top]]%0a%0a(:include Southeast#from#to:)%0a%0a[[#top|&#8593; back to top]]%0a%0a(:include Southwest#from#to:)%0a%0a[[#top|&#8593; back to top]]%0a%0a(:include Unaligned#from#to:)%0a%0a[[#top|&#8593; back to top]]%0a(:include GameRef.Directoryhelp:)
+time=1528682911
+author:1528682911=AnneB
+diff:1528682911:1528589200:=38d37%0a%3c (:include GameRef.Directoryhelp:)%0a\ No newline at end of file%0a
+host:1528682911=71.222.98.245
 author:1528589200=AnneB
 diff:1528589200:1528435605:=2,3c2,4%0a%3c (:include GameRef.Directorycity:)%0a%3c %0a---%0a> || border=1 align=center width=100%25%0a> || [[Neighborhoods]] || Directory: Portland, Oregon - City of Roses || [[Districts]] ||%0a> || [[City]] || [[Embassy]] || [[Spheres]] ||%0a
 host:1528589200=71.222.98.245

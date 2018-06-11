@@ -1,0 +1,21 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+author=AnneB
+charset=ISO-8859-1
+csum=
+ctime=1528670864
+host=71.222.98.245
+name=GameRef.Directoryhelp
+rev=3
+targets=GameRef.Help,GameRef.TermsOfUse,GameRef.CodeOfConduct,GameRef.SitePoliciesAndPractices,GameRef.HouseRules,GameRef.CustomItemsAndPowers,GameRef.Wiki,GameRef.Chat,GameRef.Requests,GameRef.Experience,GameRef.Sanctioning,GameRef.CharacterCreation
+text=|| border=1 align=center width=100%25%0a|| [[Terms of Use]] || [[Code of Conduct]] || [[Site Policies and Practices]] || [[House Rules]] || [[Custom Items and Powers]] || [[Help|New Player Help]] || %0a|| [[Wiki|Wiki Guide]] || [[Chat|Chat Help]] || [[Requests|Request System]] || [[Experience|Experience Guide]] || [[Sanctioning|Sanctioning Guide]] || [[Character Creation]] ||%0a%0a%0a%0a%0a %0a%0a%0a %0a%0a%0a %0a%0a %0a%0a %0a%0a%0a%0a
+time=1528672570
+author:1528672570=AnneB
+diff:1528672570:1528671183:=2,19c2,5%0a%3c || [[Terms of Use]] || [[Code of Conduct]] || [[Site Policies and Practices]] || [[House Rules]] || [[Custom Items and Powers]] || [[Help|New Player Help]] || %0a%3c || [[Wiki|Wiki Guide]] || [[Chat|Chat Help]] || [[Requests|Request System]] || [[Experience|Experience Guide]] || [[Sanctioning|Sanctioning Guide]] || [[Character Creation]] ||%0a%3c %0a%3c %0a%3c %0a%3c %0a%3c  %0a%3c %0a%3c %0a%3c  %0a%3c %0a%3c %0a%3c  %0a%3c %0a%3c  %0a%3c %0a%3c  %0a%3c %0a---%0a> || [[https://wantonwicked.gamingsandbox.com/staff|Meet the Staff]]|| The Help Guide for||Wanton Wicked ||[[https://wantonwicked.gamingsandbox.com/forum/index.php|Forums]] ||%0a> || [[Terms of Use]]|| [[Code of Conduct]]||[[Chat|Chat Help]] ||[[House Rules]] ||%0a> || [[Custom Items and Powers]]|| [[Help|New Player Help]]||[[Wiki|Wiki Guide]] ||[[Site Policies and Practices]] ||%0a> || [[Requests|Request Guide]]|| [[Experience|Experience Guide]]||[[Sanctioning|Sanctioning Guide]]||[[Character Creation]] ||%0a
+host:1528672570=71.222.98.245
+author:1528671183=AnneB
+diff:1528671183:1528670864:=2,5c2,5%0a%3c || [[https://wantonwicked.gamingsandbox.com/staff|Meet the Staff]]|| The Help Guide for||Wanton Wicked ||[[https://wantonwicked.gamingsandbox.com/forum/index.php|Forums]] ||%0a%3c || [[Terms of Use]]|| [[Code of Conduct]]||[[Chat|Chat Help]] ||[[House Rules]] ||%0a%3c || [[Custom Items and Powers]]|| [[Help|New Player Help]]||[[Wiki|Wiki Guide]] ||[[Site Policies and Practices]] ||%0a%3c || [[Requests|Request Guide]]|| [[Experience|Experience Guide]]||[[Sanctioning|Sanctioning Guide]]||[[Character Creation]] ||%0a---%0a> || [[https://wantonwicked.gamingsandbox.com/staff|Meet the Staff]] || Wanton Wicked's||Help Guide || [[https://wantonwicked.gamingsandbox.com/forum/index.php|Forums]] ||%0a> || [[Terms of Use]] || [[Code of Conduct]] || [[Site Policies and Practices]] || [[House Rules]] ||%0a> || [[Custom Items and Powers]] || [[Help|New Player Help]] || [[Wiki|Wiki Guide]] || [[Chat|Chat Help]] ||%0a> || [[Requests|Request Guide]] || [[Experience|Experience Guide]] || [[Sanctioning|Sanctioning Guide]] || [[Character Creation]] ||%0a
+host:1528671183=71.222.98.245
+author:1528670864=AnneB
+diff:1528670864:1528670864:=1,7d0%0a%3c || border=1 align=center width=100%25%0a%3c || [[https://wantonwicked.gamingsandbox.com/staff|Meet the Staff]] || Wanton Wicked's||Help Guide || [[https://wantonwicked.gamingsandbox.com/forum/index.php|Forums]] ||%0a%3c || [[Terms of Use]] || [[Code of Conduct]] || [[Site Policies and Practices]] || [[House Rules]] ||%0a%3c || [[Custom Items and Powers]] || [[Help|New Player Help]] || [[Wiki|Wiki Guide]] || [[Chat|Chat Help]] ||%0a%3c || [[Requests|Request Guide]] || [[Experience|Experience Guide]] || [[Sanctioning|Sanctioning Guide]] || [[Character Creation]] ||%0a%3c %0a%3c %0a
+host:1528670864=71.222.98.245

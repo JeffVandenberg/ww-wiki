@@ -1,15 +1,18 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
-author=AnneB
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36
+author=Regentwill
 charset=ISO-8859-1
 csum=
 ctime=1525072697
-host=71.222.98.245
+host=73.90.209.8
 name=Players.MadelineMerryweather
-rev=3
+rev=4
 targets=
-text=!! Dossier %25rfloat text-align=center border='2px solid' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=450px height=600px%25 https://i.pinimg.com/originals/ed/2c/87/ed2c87355a3f09ebfc7a44b6d7e74e41.jpg%0a%0a'''Name:''' Madeline Merryweather \\\%0a%0a'''Alias(es):''' Ghast \\\%0a%0a'''Sire:''' Unknown (Deceased) \\\%0a%0a'''Clan:''' Nosferatu \\\%0a%0a'''Covenant:''' None \\\%0a%0a'''Coterie:''' None \\\%0a%0a'''Public Effects:''' Obfuscate active (PM for CoW if needed), Air of Menace, Striking Looks: Surreal, Terrifying, Status: Nosferatu, Merit: Closed Book \\\%0a%0a'''Mask/Dirge''' Find out for yourself \\\%0a%0a'''Profession:''' Mask-Maker \\\%0a%0a'''Age:''' Looks late 20's \\\%0a%0a'''Player:''' Regentwill \\\%0a----%0a%0a!! Description%0aA striking woman, though whether it's beauty or a surreal strangeness is hard to distinguish. She's perfectly bald with an adornment of jewelry pieced to her pristine face, her lips are always painted a vibrant color, her makeup makes her look flushed and alive, and her clothing is often inexpensive yet stylish, in a dark gothic sort of way. Her eyes are so dark one might think they were black. (Those who can pierce her mask, message me).%0a%0a----%0a%0a!! Contacts%0a%0a(:tableend:)%0a%0a----%0a%0a!! Hooks%0a%0a'''New around here?''' ''New to town, but not new to the Requiem.'' \\\%0a'''Loner?''' ''No affiliations are known, and she claims membership to no Covenant.'' \\\%0a'''Who made that mask?''' ''She's often seen with new and interesting masks made to fit any occasion.'' \\\%0a'''She's seen a tussle or two.''' ''While she doesn't look physically imposing, she certainly looks like she's taken a beating in her life, and that might give some people a momentary pause.''%0a----%0a%0a!! Quotes%0a%0a(:include GameRef.Directoryplayervampire:)
-time=1528591693
+text=!! Dossier %25rfloat text-align=center border='2px solid' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=450px height=600px%25 https://i.pinimg.com/originals/ed/2c/87/ed2c87355a3f09ebfc7a44b6d7e74e41.jpg%0a%0a'''Name:''' Madeline Merryweather \\\%0a%0a'''Alias(es):''' Ghast \\\%0a%0a'''Sire:''' Unknown (Deceased) \\\%0a%0a'''Clan:''' Nosferatu \\\%0a%0a'''Covenant:''' None \\\%0a%0a'''Coterie:''' None \\\%0a%0a'''Public Effects:''' Obfuscate active (PM for CoW if needed), Air of Menace, Striking Looks: Surreal, Terrifying, Status: Nosferatu, Merit: Closed Book \\\%0a%0a'''Mask/Dirge''' Find out for yourself \\\%0a%0a'''Profession:''' Mask-Maker \\\%0a%0a'''Age:''' Looks late 20's \\\%0a%0a'''Player:''' Regentwill \\\%0a%0a----%0a%0a!! Description%0aA striking woman, though whether it's beauty or a surreal strangeness is hard to distinguish. She's perfectly bald with an adornment of jewelry pieced to her pristine face, her lips are always painted a vibrant color, her makeup makes her look flushed and alive, and her clothing is often inexpensive yet stylish, in a dark gothic sort of way. Her eyes are so dark one might think they were black. (Those who can pierce her mask, message me).%0a%0a----%0a%0a!! Contacts%0a%0a(:tableend:)%0a%0a----%0a%0a!! Hooks%0a%0a'''New around here?''' ''New to town, but not new to the Requiem.'' \\\%0a'''Loner?''' ''No affiliations are known, and she claims membership to no Covenant.'' \\\%0a'''Who made that mask?''' ''She's often seen with new and interesting masks made to fit any occasion.'' \\\%0a'''She's seen a tussle or two.''' ''While she doesn't look physically imposing, she certainly looks like she's taken a beating in her life, and that might give some people a momentary pause.''%0a----%0a%0a!! Quotes%0a%0a(:include GameRef.Directoryplayervampire:)
+time=1528618310
+author:1528618310=Regentwill
+diff:1528618310:1528591693:=24d23%0a%3c %0a
+host:1528618310=73.90.209.8
 author:1528591693=AnneB
 diff:1528591693:1528466877:=47d46%0a%3c (:include GameRef.Directoryplayervampire:)%0a\ No newline at end of file%0a
 host:1528591693=71.222.98.245
