@@ -6,10 +6,16 @@ csum=
 ctime=1518950824
 host=72.235.12.210
 name=Players.ElleMEnopi
-rev=9
+rev=11
 targets=
-text=!!Dossiest %0a%25block rframe width=300px%25  https://i.imgur.com/aTokqXs.gif https://i.imgur.com/HNwiHPl.gif  https://i.imgur.com/JFH7DOO.gif%25%25%0a:Aliases: petite lap giraffe, good dog, nice kitty, pretty birdie, AHHH! snake, eeek! mouse%0a%25rfloat text-align=center margin-top=0px margin-left=0px margin-bottom=0px margin-right=0px width=450px height=500px%25 https://orig00.deviantart.net/3b14/f/2015/225/e/d/pegasus___lineart_by_verauko-d83o57.jpg %0a:Seeming: Beast %0a:Kith: Runnerswift/Windwing%0a:Mantle: 1 %0a:Court: Beirut%0a:Age: 32%0a:Player: Claire Voient%0a%0a!!Description%0aMask:%0a%0aElle always seems to clip and clop\\%0awhen she goes strolling down the street\\%0aHer clothing comes from the thriftiest shop\\%0aand she wears nothing on her feet%0a%0aMein:%0a%0aElle looks like she loves the outdoorsy\\%0aShe is tall and a bit horsey\\%0aHer hair is grey and her ears are pointy\\%0aAlso feathery wings that work of coursey%0a%0a!!Role Play Hooks%0a%0a&#128021;Do you like dogs?  Elle likes dogs.  Sometimes Elle is a dog.  Play fetch okay\\%0a&#128176;Elle wants to adopt all the homeless animals.  But Elle is poor.  Help please%0a%0a(:include GameRef.Directoryplayerchangeling:)
-time=1528677417
+text=!!Dossiest %0a%25block rframe width=300px%25  https://i.imgur.com/aTokqXs.gif https://i.imgur.com/HNwiHPl.gif  https://i.imgur.com/JFH7DOO.gif%25%25%0a:Aliases: petite lap giraffe, good dog, nice kitty, pretty birdie, AHHH! snake, eeek! mouse%0a%25rfloat text-align=center margin-top=0px margin-left=0px margin-bottom=0px margin-right=0px width=450px height=500px%25 https://orig00.deviantart.net/3b14/f/2015/225/e/d/pegasus___lineart_by_verauko-d83o57.jpg %0a:Seeming: Beast %0a:Kith: Runnerswift/Windwing%0a:Mantle: 1 %0a:Court: Beirut%0a:Age: 32%0a:Player: Claire Voient%0a%0a!!Description%0aMask:%0a%0aElle always seems to clip and clop\\%0awhen she goes strolling down the street\\%0aHer clothing comes from the thriftiest shop\\%0aand she wears nothing on her feet%0a%0aMein:%0a%0aElle looks like she loves the outdoorsy\\%0aShe is tall and a bit horsey\\%0aHer hair is grey and her ears are pointy\\%0aAlso feathery wings that work of coursey%0a%0a!!Role Play Hooks%0a%0a&#128021;Do you like dogs?  Elle likes dogs.  Sometimes Elle is a dog.  Play fetch okay\\%0a&#128176;Elle wants to adopt all the homeless animals.  But Elle is poor.  Help please\\%0a&#128376;Hugging spoders.  Are you a spoder? Elle will hug you with no more than with two(2) arms.%0a(:include GameRef.Directoryplayerchangeling:)
+time=1528846533
+author:1528846533=Claire Voient
+diff:1528846533:1528846516:minor=30c30%0a%3c &#128176;Elle wants to adopt all the homeless animals.  But Elle is poor.  Help please\\%0a---%0a> &#128176;Elle wants to adopt all the homeless animals.  But Elle is poor.  Help please%0a
+host:1528846533=72.235.12.210
+author:1528846516=Claire Voient
+diff:1528846516:1528677417:minor=31c31%0a%3c &#128376;Hugging spoders.  Are you a spoder? Elle will hug you with no more than with two(2) arms.%0a---%0a> %0a
+host:1528846516=72.235.12.210
 author:1528677417=Claire Voient
 diff:1528677417:1528677397:minor=29c29%0a%3c &#128021;Do you like dogs?  Elle likes dogs.  Sometimes Elle is a dog.  Play fetch okay\\%0a---%0a> &#128021;Do you like dogs?  Elle likes dogs.  Sometimes Elle is a dog.  Play fetch okay%0a
 host:1528677417=72.235.12.210
