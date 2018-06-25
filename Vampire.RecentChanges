@@ -1,9 +1,9 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0
 charset=ISO-8859-1
 ctime=1516715976
-host=71.222.98.245
+host=172.111.194.54
 name=Vampire.RecentChanges
-rev=87
-text=* [[Vampire.Society | Society]]  . . . June 15, 2018, at 09:27 PM by [[~Selcouth]]: [==]%0a* [[Vampire.Locations | Locations]]  . . . June 12, 2018, at 10:28 AM by [[~Scarecrow]]: [==]%0a* [[Vampire.PlayerGuide | Player Guide]]  . . . June 11, 2018, at 03:46 PM by [[~ChrisF]]: [==]%0a* [[Vampire.Vampire | Vampire]]  . . . June 10, 2018, at 07:14 PM by [[~AnneB]]: [==]%0a* [[Vampire.History | History]]  . . . June 10, 2018, at 07:14 PM by [[~AnneB]]: [==]%0a* [[Vampire.KindredLaw | Kindred Law]]  . . . May 22, 2018, at 12:20 PM by [[~AndreaM]]: [==]%0a* [[Vampire.TheCourt | The Court]]  . . . May 18, 2018, at 10:19 AM by [[~AndreaM]]: [==]%0a
-time=1529123279
+rev=88
+text=* [[Vampire.PlayerGuide | Player Guide]]  . . . June 24, 2018, at 01:19 PM by [[~ChrisF]]: [=Updated zirnitra list=]%0a* [[Vampire.Society | Society]]  . . . June 15, 2018, at 09:27 PM by [[~Selcouth]]: [==]%0a* [[Vampire.Locations | Locations]]  . . . June 12, 2018, at 10:28 AM by [[~Scarecrow]]: [==]%0a* [[Vampire.Vampire | Vampire]]  . . . June 10, 2018, at 07:14 PM by [[~AnneB]]: [==]%0a* [[Vampire.History | History]]  . . . June 10, 2018, at 07:14 PM by [[~AnneB]]: [==]%0a* [[Vampire.KindredLaw | Kindred Law]]  . . . May 22, 2018, at 12:20 PM by [[~AndreaM]]: [==]%0a* [[Vampire.TheCourt | The Court]]  . . . May 18, 2018, at 10:19 AM by [[~AndreaM]]: [==]%0a
+time=1529871549
