@@ -1,15 +1,21 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
 author=AnneB
 charset=ISO-8859-1
 csum=
 ctime=1518404036
 host=71.222.98.245
 name=Players.EvelynnFrisko
-rev=8
+rev=10
 targets=Players.Aegis,Players.EnterLink
-text=(:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://img00.deviantart.net/19e7/i/2013/360/5/5/daily_painting__24___frozen_landscape_by_maugryph-d6zjdav.jpg=]); background-size:80%25; padding:25px;' width=25%25:)%0a%0a!! Dossier %25rfloat text-align=center border='2px solid' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=450px height=600px%25 https://i.pinimg.com/originals/3c/e3/77/3ce377927580d6256a9fc7a791f9fda0.jpg%0a%0a'''Aliases:''' Evelynn Frisko%0a%0a'''Auspice:''' Rahu%0a%0a'''Tribe:''' Storm Lords%0a%0a'''Public Effects:''' %0a%0a'''Renown:''' %0aHonor *%0aPurity **%0a%0a'''Pack''' [[Aegis]]%0a%0a'''Profession:''' ???%0a'''Age:''' 21%0a%0a'''Player:''' DeadSparks%0a%0a%0a%0a----%0a%0a!! Gallery%0a%0a||https://cdn.discordapp.com/attachments/384216512069763082/437790644489158676/Canis_lupus_dingo_-_cleland_wildlife_park_cropped.png||%0a----%0a%0a!! Hooks%0a%0a%0a----%0a%0a!! Contacts%0a%0a(:table table border=0 cellpadding=5 cellspacing=0:)%0a%0a(:cellnr width=360px:) %25lfloat width=150%25 https://i.pinimg.com/originals/92/a4/9e/92a49ef1894e08b846d5f4244de435bc.png%0a[[Enter Link | Enter Name]]\\%0a%25white%25 [Enter Description Here]%0a%0a(:cell width=360px:) %25lfloat width=150%25 https://i.pinimg.com/originals/92/a4/9e/92a49ef1894e08b846d5f4244de435bc.png%0a[[Enter Link | Enter Name]]\\%0a%25white%25 [Enter Description Here]%0a%0a(:cellnr width=360px:) %25lfloat width=150%25 https://i.pinimg.com/originals/92/a4/9e/92a49ef1894e08b846d5f4244de435bc.png%0a[[Enter Link | Enter Name]]\\%0a%25white%25 [Enter Description Here]%0a%0a(:cell width=360px:) %25lfloat width=150%25 https://i.pinimg.com/originals/92/a4/9e/92a49ef1894e08b846d5f4244de435bc.png%0a[[Enter Link | Enter Name]]\\%0a%25white%25 [Enter Description Here]%0a%0a(:tableend:)%0a%0a----%0a%0a!! Quotes%0a%0a%0a(:include GameRef.Directoryplayerwolf:)
-time=1528593317
+text=https://i.imgur.com/jsdJPuq.png%0a(:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://img00.deviantart.net/19e7/i/2013/360/5/5/daily_painting__24___frozen_landscape_by_maugryph-d6zjdav.jpg=]); background-size:80%25; padding:25px;' width=25%25:)%0a%0a!! Dossier %25rfloat text-align=center border='2px solid' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=450px height=600px%25 https://i.pinimg.com/originals/3c/e3/77/3ce377927580d6256a9fc7a791f9fda0.jpg%0a%0a'''Aliases:''' Evelynn Frisko%0a%0a'''Auspice:''' Rahu%0a%0a'''Tribe:''' Storm Lords%0a%0a'''Public Effects:''' %0a%0a'''Renown:''' %0aHonor *%0aPurity **%0a%0a'''Pack''' [[Aegis]]%0a%0a'''Profession:''' ???%0a'''Age:''' 21%0a%0a'''Player:''' DeadSparks%0a%0a%0a%0a----%0a%0a!! Gallery%0a%0a||https://cdn.discordapp.com/attachments/384216512069763082/437790644489158676/Canis_lupus_dingo_-_cleland_wildlife_park_cropped.png||%0a----%0a%0a!! Hooks%0a%0a%0a----%0a%0a!! Contacts%0a%0a(:table table border=0 cellpadding=5 cellspacing=0:)%0a%0a(:cellnr width=360px:) %25lfloat width=150%25 https://i.pinimg.com/originals/92/a4/9e/92a49ef1894e08b846d5f4244de435bc.png%0a[[Enter Link | Enter Name]]\\%0a%25white%25 [Enter Description Here]%0a%0a(:cell width=360px:) %25lfloat width=150%25 https://i.pinimg.com/originals/92/a4/9e/92a49ef1894e08b846d5f4244de435bc.png%0a[[Enter Link | Enter Name]]\\%0a%25white%25 [Enter Description Here]%0a%0a(:cellnr width=360px:) %25lfloat width=150%25 https://i.pinimg.com/originals/92/a4/9e/92a49ef1894e08b846d5f4244de435bc.png%0a[[Enter Link | Enter Name]]\\%0a%25white%25 [Enter Description Here]%0a%0a(:cell width=360px:) %25lfloat width=150%25 https://i.pinimg.com/originals/92/a4/9e/92a49ef1894e08b846d5f4244de435bc.png%0a[[Enter Link | Enter Name]]\\%0a%25white%25 [Enter Description Here]%0a%0a(:tableend:)%0a%0a----%0a%0a!! Quotes%0a%0a%0a(:include GameRef.Directoryplayerwolf:)
+time=1530491906
+author:1530491906=AnneB
+diff:1530491906:1530486080:=1c1%0a%3c https://i.imgur.com/jsdJPuq.png%0a---%0a> https://i.imgur.com/oJCdNZN.png%0a
+host:1530491906=71.222.98.245
+author:1530486080=AnneB
+diff:1530486080:1528593317:=1d0%0a%3c https://i.imgur.com/oJCdNZN.png%0a
+host:1530486080=71.222.98.245
 author:1528593317=AnneB
 diff:1528593317:1526421352:=63,65d62%0a%3c %0a%3c %0a%3c (:include GameRef.Directoryplayerwolf:)%0a\ No newline at end of file%0a
 host:1528593317=71.222.98.245

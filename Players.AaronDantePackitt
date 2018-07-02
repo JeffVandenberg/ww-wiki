@@ -1,15 +1,21 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
 author=AnneB
 charset=ISO-8859-1
 csum=
 ctime=1516763156
 host=71.222.98.245
 name=Players.AaronDantePackitt
-rev=2
+rev=4
 targets=
-text=%25rfloat text-align=center border='2px solid #0000FF' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=450px height=500px%25  http://i.imgur.com/A10BXOZ.jpg%0a%0a!!Dossier%0a:Aliases: -Dante- %0a:Path: Mastigos%0a:Order: Silver Ladder%0a:Nimbus Long Term: Things that people hold in high regard become desecrated. Scandel finds the pulpit and the politician. Marriages are lost. Police are corrupt. The land is plagued by natural and supernatural ills.%0aImmediate: This is something profane. It does not belong. &minus;1 Empathy, +1 Intimidate, &minus;1 Wits%0a:Signature: The faint smell of ash and char.%0a:Arcana: Mind 5, Prime 3, Space 4, Time 1%0a:Cabal: ???%0a:Virtue/Vice: Guidance/Anger%0a:Profession: Archdeacon of the Silver Ladder/Owner of Pittock Mansion%0a:Apparent: Age 80ish%0a:Personality: Stern, Grumpy, and Strict are nice ways of talking about the ArchDeacon of the Northeast. %0a%0a!!Description%0a %0a''He is old, very very old. That might be. The man always has a cane etched in runes to help him walk and always dresses in a suit and a black hooded cape. He is never seen without one of his retainers.''%0a%0a%0a!!Role Play Hooks%0a %0a* Hard to reach: You better have a good reason to request a meeting with Dante involving the unknown. He takes wastes of his time very personally since he does not know how much time he really has left.%0a* Even worse: Fighting between the orders, even small squabbles, anger Dante enough to bring out his deepest resentment of the memories his past.%0a%0a(:include GameRef.Directoryplayermage:)
-time=1528594179
+text=https://i.imgur.com/4MQJogP.png%0a(:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://i.imgur.com/OPvFVVt.png=]); background-size:500; padding:25px;' width=100%25:)%0a%25rfloat text-align=center border='2px solid #0000FF' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=450px height=500px%25  http://i.imgur.com/A10BXOZ.jpg%0a%0a!!Dossier%0a:Aliases: -Dante- %0a:Path: Mastigos%0a:Order: Silver Ladder%0a:Nimbus Long Term: Things that people hold in high regard become desecrated. Scandel finds the pulpit and the politician. Marriages are lost. Police are corrupt. The land is plagued by natural and supernatural ills.%0aImmediate: This is something profane. It does not belong. &minus;1 Empathy, +1 Intimidate, &minus;1 Wits%0a:Signature: The faint smell of ash and char.%0a:Arcana: Mind 5, Prime 3, Space 4, Time 1%0a:Cabal: ???%0a:Virtue/Vice: Guidance/Anger%0a:Profession: Archdeacon of the Silver Ladder/Owner of Pittock Mansion%0a:Apparent: Age 80ish%0a:Personality: Stern, Grumpy, and Strict are nice ways of talking about the ArchDeacon of the Northeast. %0a%0a!!Description%0a %0a''He is old, very very old. That might be. The man always has a cane etched in runes to help him walk and always dresses in a suit and a black hooded cape. He is never seen without one of his retainers.''%0a%0a%0a!!Role Play Hooks%0a %0a* Hard to reach: You better have a good reason to request a meeting with Dante involving the unknown. He takes wastes of his time very personally since he does not know how much time he really has left.%0a* Even worse: Fighting between the orders, even small squabbles, anger Dante enough to bring out his deepest resentment of the memories his past.%0a%0a(:include GameRef.Directoryplayermage:)
+time=1530500992
+author:1530500992=AnneB
+diff:1530500992:1530485051:=2d1%0a%3c (:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://i.imgur.com/OPvFVVt.png=]); background-size:500; padding:25px;' width=100%25:)%0a
+host:1530500992=71.222.98.245
+author:1530485051=AnneB
+diff:1530485051:1528594179:=1d0%0a%3c https://i.imgur.com/4MQJogP.png%0a
+host:1530485051=71.222.98.245
 author:1528594179=AnneB
 diff:1528594179:1516763156:=25,27c25%0a%3c * Even worse: Fighting between the orders, even small squabbles, anger Dante enough to bring out his deepest resentment of the memories his past.%0a%3c %0a%3c (:include GameRef.Directoryplayermage:)%0a\ No newline at end of file%0a---%0a> * Even worse: Fighting between the orders, even small squabbles, anger Dante enough to bring out his deepest resentment of the memories his past.%0a\ No newline at end of file%0a
 host:1528594179=71.222.98.245

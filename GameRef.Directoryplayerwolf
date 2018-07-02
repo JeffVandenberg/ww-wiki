@@ -1,15 +1,18 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
 author=AnneB
 charset=ISO-8859-1
 csum=
 ctime=1528589715
 host=71.222.98.245
 name=GameRef.Directoryplayerwolf
-rev=1
+rev=2
 targets=GameRef.CharacterCreation,City.City,GameRef.HouseRules,Werewolf.Society,Werewolf.History,Werewolf.Werewolf,Werewolf.Locations,Werewolf.PlayerGuide
-text=|| border=1 align=center width=100%25%0a|| %25werewolf%25[[GameRef.CharacterCreation|Character Creation]] || [[City.City|The City]] || %25werewolf%25Directory: Werewolf: the Foresaken || [[https://wantonwicked.gamingsandbox.com/characters/cast/werewolf|Werewolf Cast List]] || [[GameRef.HouseRules#toc55|House Rules]] ||%0a|| %25werewolf%25[[werewolf.society|Society]] || [[werewolf.history|History]]  || [[werewolf.werewolf|About the Venue]] || [[werewolf.locations|Locations]] || [[werewolf.PlayerGuide|Player Guide]] ||
-time=1528589715
+text=|| border=1 align=center width=100%25%0a|| %25werewolf%25[[GameRef.CharacterCreation|Character Creation]] || [[City.City|The City]] || %25werewolf%25Directory: Werewolf: the Forsaken || [[https://wantonwicked.gamingsandbox.com/characters/cast/werewolf|Werewolf Cast List]] || [[GameRef.HouseRules#toc55|House Rules]] ||%0a|| %25werewolf%25[[werewolf.society|Society]] || [[werewolf.history|History]]  || [[werewolf.werewolf|About the Venue]] || [[werewolf.locations|Locations]] || [[werewolf.PlayerGuide|Player Guide]] ||
+time=1530491464
+author:1530491464=AnneB
+diff:1530491464:1528589715:=2c2%0a%3c || %25werewolf%25[[GameRef.CharacterCreation|Character Creation]] || [[City.City|The City]] || %25werewolf%25Directory: Werewolf: the Forsaken || [[https://wantonwicked.gamingsandbox.com/characters/cast/werewolf|Werewolf Cast List]] || [[GameRef.HouseRules#toc55|House Rules]] ||%0a---%0a> || %25werewolf%25[[GameRef.CharacterCreation|Character Creation]] || [[City.City|The City]] || %25werewolf%25Directory: Werewolf: the Foresaken || [[https://wantonwicked.gamingsandbox.com/characters/cast/werewolf|Werewolf Cast List]] || [[GameRef.HouseRules#toc55|House Rules]] ||%0a
+host:1530491464=71.222.98.245
 author:1528589715=AnneB
 diff:1528589715:1528589715:=1,3d0%0a%3c || border=1 align=center width=100%25%0a%3c || %25werewolf%25[[GameRef.CharacterCreation|Character Creation]] || [[City.City|The City]] || %25werewolf%25Directory: Werewolf: the Foresaken || [[https://wantonwicked.gamingsandbox.com/characters/cast/werewolf|Werewolf Cast List]] || [[GameRef.HouseRules#toc55|House Rules]] ||%0a%3c || %25werewolf%25[[werewolf.society|Society]] || [[werewolf.history|History]]  || [[werewolf.werewolf|About the Venue]] || [[werewolf.locations|Locations]] || [[werewolf.PlayerGuide|Player Guide]] ||%0a\ No newline at end of file%0a
 host:1528589715=71.222.98.245

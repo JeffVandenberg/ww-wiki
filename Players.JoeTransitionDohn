@@ -1,15 +1,21 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
 author=AnneB
 charset=ISO-8859-1
 csum=
 ctime=1516848829
 host=71.222.98.245
 name=Players.JoeTransitionDohn
-rev=2
+rev=4
 targets=
-text=%25rfloat text-align=center border='2px solid #008000' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=450px height=500px%25 https://static1.squarespace.com/static/53d94863e4b0d0fb116dc0a7/53f3b3c0e4b0ff75186e8f36/53f3b400e4b0ff75186e8fa2/1408480266121/5OrpQXN.gif%0a%0a!!Dossier%0a:Aliases: Transition%0a:Seeming: Darkling%0a:Kith: Mirrorskin%0a:Mantle: TBD%0a:Court: The Court of Forteans%0a:Motley:  None%0a:Masque/Mein: Nomad/Guru%0a:Public Effects: None%0a:Profession: Unknown%0a:Age: Unknown (Does Age even matter?)%0a:Player: NPC%0a%0a!!Description%0a%0aHe looks old and worn, like leather that hadn’t been cared for in decades, utterly forgotten and left to the elements. His clothes are serviceable, bordering on threadbare with many stitches – it is obvious that he repairs them until they fall apart. Calling him a bum lends to a squint of the eyes and a pointed discussion on what the differences are between the various types of vagabonds – Hobos travel and they work for a living, tramps travel and do not work, and bums neither travel nor do they work… and he is a hobo, thank you very fucking much, not one of those shitty drugged out kids with the facial tattoos, a dog, and body odor that boils asphalt.%0a%0a!!Roleplay Hooks%0a%0a*Hook%0a*Hook%0a*Hook%0a%0a(:include GameRef.Directoryplayerchangeling:)
-time=1528595319
+text=https://i.imgur.com/SEYuPIA.png%0a(:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://i.imgur.com/VZoWnay.png=]); background-size:500; padding:5px;' width=100%25:)%0a%0a%25rfloat text-align=center border='2px solid #008000' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=450px height=500px%25 https://static1.squarespace.com/static/53d94863e4b0d0fb116dc0a7/53f3b3c0e4b0ff75186e8f36/53f3b400e4b0ff75186e8fa2/1408480266121/5OrpQXN.gif%0a%0a!!Dossier%0a:Aliases: Transition%0a:Seeming: Darkling%0a:Kith: Mirrorskin%0a:Mantle: TBD%0a:Court: The Court of Forteans%0a:Motley:  None%0a:Masque/Mein: Nomad/Guru%0a:Public Effects: None%0a:Profession: Unknown%0a:Age: Unknown (Does Age even matter?)%0a:Player: NPC%0a%0a!!Description%0a%0aHe looks old and worn, like leather that hadn’t been cared for in decades, utterly forgotten and left to the elements. His clothes are serviceable, bordering on threadbare with many stitches – it is obvious that he repairs them until they fall apart. Calling him a bum lends to a squint of the eyes and a pointed discussion on what the differences are between the various types of vagabonds – Hobos travel and they work for a living, tramps travel and do not work, and bums neither travel nor do they work… and he is a hobo, thank you very fucking much, not one of those shitty drugged out kids with the facial tattoos, a dog, and body odor that boils asphalt.%0a%0a!!Roleplay Hooks%0a%0a*Hook%0a*Hook%0a*Hook%0a%0a(:include GameRef.Directoryplayerchangeling:)
+time=1530498978
+author:1530498978=AnneB
+diff:1530498978:1530482607:=2,3d1%0a%3c (:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://i.imgur.com/VZoWnay.png=]); background-size:500; padding:5px;' width=100%25:)%0a%3c %0a
+host:1530498978=71.222.98.245
+author:1530482607=AnneB
+diff:1530482607:1528595319:=1d0%0a%3c https://i.imgur.com/SEYuPIA.png%0a
+host:1530482607=71.222.98.245
 author:1528595319=AnneB
 diff:1528595319:1516848829:=24,26c24%0a%3c *Hook%0a%3c %0a%3c (:include GameRef.Directoryplayerchangeling:)%0a\ No newline at end of file%0a---%0a> *Hook%0a\ No newline at end of file%0a
 host:1528595319=71.222.98.245
