@@ -1,16 +1,19 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
-author=AnneB
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+author=Huitzilopochtli
 charset=ISO-8859-1
 csum=
 ctime=1530477103
-host=71.222.98.245
+host=73.193.26.190
 keywords=vampire, PC
 name=Players.KevinOBrien
-rev=4
+rev=5
 targets=Players.Someone
-text=https://i.imgur.com/wcCfdI8.png%0a(:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://i.imgur.com/iHbXGJ3.png=]); background-size:500; padding:25px;' width=100%25:)%0a!!Dossier %25rfloat text-align=center margin-top=5px margin-right=15px margin-bottom=5px margin-left=5px lframe width=450px bgcolor=#8DB290 border='2px solid black' padding=2px%25https://i.imgur.com/DHTzoe3.jpg%0a:Nicknames: None, yet%0a:Height: 6’2%0a:Build: Tall and athletic%0a:Mask/Dirge: Find out IC%0a:Apparent Age: Mid Thirties%0a:Profession: Mob Enforcer%0a:Notable Traits: %0a*Strength%0a*Survival%0a*Investigation%0a*Streetwise%0a%0a:Player: Huitzilopochtli%0a:Model: Clive Standen%0a:Theme Song: %0a%0a!!Description%0a''Tall, but not overly so. Face somewhat weathered, with a bit of scruff and leaning towards practical rather than elegant for clothing.''%0a%0a!!Role Play Hooks%0a*'''Portland Native''' ''(Criminals, Locals)'' -- Was born and raised in Portland, but left almost thirty years ago and only recently returned.%0a*'''Organized Crime''' ''(Criminals)''  -- While still alive, Kevin was involved with more than a few shady characters. Rumor is he worked for the higher ups keeping the organization rat free..%0a*'''Law Man''' ''(Ex-Patriots)'' -- It seems Kevin eventually found himself in Toronto, where he became the Sheriff of the city. With the change in regime, he figured it best to get out of dodge and make his way back home, to Portland.%0a-----%0a!!Gallery%0a%25center%25 %25height=300 width=250%25https://i.imgur.com/3qyGpn8.jpg %25height=300 width=250%25https://i.imgur.com/evuCYme.jpg %25height=300 width=250%25https://i.imgur.com/dM3KCXe.jpg %25height=300 width=250%25https://i.imgur.com/g6FdewQ.png%0a%0a%0a!!Quotes%0aLeave your thoughts on Kevin here...%0a%0a* ''%0a* "A Quote from someone" - [[Someone | Someone]]%0a(:keywords vampire, PC:)%0a(:include Vampire.Directory:)
-time=1530502266
+text=https://i.imgur.com/wcCfdI8.png%0a(:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://i.imgur.com/iHbXGJ3.png=]); background-size:500; padding:25px;' width=100%25:)%0a!!Dossier %25rfloat text-align=center margin-top=5px margin-right=15px margin-bottom=5px margin-left=5px lframe width=450px bgcolor=#8DB290 border='2px solid black' padding=2px%25https://i.imgur.com/DHTzoe3.jpg%0a:Nicknames: None, yet%0a:Clan: Gangrel%0a:Covenant: Ordo Dracul%0a:Height: 6’2%0a:Build: Tall and athletic%0a:Mask/Dirge: Find out IC%0a:Apparent Age: Mid Thirties%0a:Profession: Mob Enforcer%0a:Notable Traits: %0a*Strength%0a*Survival%0a*Investigation%0a*Streetwise%0a%0a:Player: Huitzilopochtli%0a:Model: Clive Standen%0a:Theme Song: %0a%0a!!Description%0a''Tall, but not overly so. Face somewhat weathered, with a bit of scruff and leaning towards practical rather than elegant for clothing.''%0a%0a!!Role Play Hooks%0a*'''Portland Native''' ''(Criminals, Locals)'' -- Was born and raised in Portland, but left almost thirty years ago and only recently returned.%0a*'''Organized Crime''' ''(Criminals)''  -- While still alive, Kevin was involved with more than a few shady characters. Rumor is he worked for the higher ups keeping the organization rat free..%0a*'''Law Man''' ''(Ex-Patriots)'' -- It seems Kevin eventually found himself in Toronto, where he became the Sheriff of the city. With the change in regime, he figured it best to get out of dodge and make his way back home, to Portland.%0a-----%0a!!Gallery%0a%25center%25 %25height=300 width=250%25https://i.imgur.com/3qyGpn8.jpg %25height=300 width=250%25https://i.imgur.com/evuCYme.jpg %25height=300 width=250%25https://i.imgur.com/dM3KCXe.jpg %25height=300 width=250%25https://i.imgur.com/g6FdewQ.png%0a%0a%0a!!Quotes%0aLeave your thoughts on Kevin here...%0a%0a* ''%0a* "A Quote from someone" - [[Someone | Someone]]%0a(:keywords vampire, PC:)%0a(:include Vampire.Directory:)
+time=1530588160
+author:1530588160=Huitzilopochtli
+diff:1530588160:1530502266:=5,6d4%0a%3c :Clan: Gangrel%0a%3c :Covenant: Ordo Dracul%0a
+host:1530588160=73.193.26.190
 author:1530502266=AnneB
 diff:1530502266:1530486698:=2d1%0a%3c (:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://i.imgur.com/iHbXGJ3.png=]); background-size:500; padding:25px;' width=100%25:)%0a
 host:1530502266=71.222.98.245
