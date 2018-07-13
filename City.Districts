@@ -1,15 +1,18 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
 author=AnneB
 charset=ISO-8859-1
 csum=
 ctime=1523740556
-host=71.222.98.245
+host=71.222.65.124
 name=City.Districts
-rev=8
+rev=9
 targets=
-text=https://i.imgur.com/q4y8vkR.jpg%0a(:include GameRef.Directorycity:)%0a%0a(:toc:)%0a[[#top]]%0a%0a(:include Central#from#to:)%0a%0a[[#top|&#8593; back to top]]%0a%0a(:include East#from#to:)%0a%0a[[#top|&#8593; back to top]]%0a%0a(:include North#from#to:)%0a%0a[[#top|&#8593; back to top]]%0a%0a(:include Northeast#from#to:)%0a%0a[[#top|&#8593; back to top]]%0a%0a(:include Northwest#from#to:)%0a%0a[[#top|&#8593; back to top]]%0a%0a(:include Southeast#from#to:)%0a%0a[[#top|&#8593; back to top]]%0a%0a(:include Southwest#from#to:)%0a%0a[[#top|&#8593; back to top]]%0a%0a(:include Unaligned#from#to:)%0a%0a[[#top|&#8593; back to top]]%0a(:include GameRef.Directoryhelp:)
-time=1528682911
+text=https://i.imgur.com/q4y8vkR.jpg%0a(:include GameRef.Directorycity:)%0a%0a(:toc:)%0a[[#top]]%0a%0a(:include Central#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include East#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include North#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include Northeast#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include Northwest#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include Southeast#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include Southwest#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include Unaligned#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include GameRef.Directoryhelp:)
+time=1531424465
+author:1531424465=AnneB
+diff:1531424465:1528682911:=9,10c9,10%0a%3c %25right%25[[#top|&#8593; back to top]]%0a%3c %0a---%0a> [[#top|&#8593; back to top]]%0a> %0a13,14c13,14%0a%3c %25right%25[[#top|&#8593; back to top]]%0a%3c %0a---%0a> [[#top|&#8593; back to top]]%0a> %0a17,18c17,18%0a%3c %25right%25[[#top|&#8593; back to top]]%0a%3c %0a---%0a> [[#top|&#8593; back to top]]%0a> %0a21,22c21,22%0a%3c %25right%25[[#top|&#8593; back to top]]%0a%3c %0a---%0a> [[#top|&#8593; back to top]]%0a> %0a25,26c25,26%0a%3c %25right%25[[#top|&#8593; back to top]]%0a%3c %0a---%0a> [[#top|&#8593; back to top]]%0a> %0a29,30c29,30%0a%3c %25right%25[[#top|&#8593; back to top]]%0a%3c %0a---%0a> [[#top|&#8593; back to top]]%0a> %0a33,34c33,34%0a%3c %25right%25[[#top|&#8593; back to top]]%0a%3c %0a---%0a> [[#top|&#8593; back to top]]%0a> %0a37,38c37%0a%3c %25right%25[[#top|&#8593; back to top]]%0a%3c %0a---%0a> [[#top|&#8593; back to top]]%0a
+host:1531424465=71.222.65.124
 author:1528682911=AnneB
 diff:1528682911:1528589200:=38d37%0a%3c (:include GameRef.Directoryhelp:)%0a\ No newline at end of file%0a
 host:1528682911=71.222.98.245

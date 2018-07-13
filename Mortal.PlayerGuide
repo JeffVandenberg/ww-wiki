@@ -1,15 +1,18 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
 agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
-author=Selcouth
+author=AnneB
 charset=ISO-8859-1
 csum=
 ctime=1516719987
-host=71.222.98.245
+host=71.222.65.124
 name=Mortal.PlayerGuide
-rev=18
+rev=19
 targets=
-text=https://i.imgur.com/JzoVMoX.png%0a(:include GameRef.Directorymortal:)%0a----%0a!%25center%25%25mortal%25'''Mortal Player Guide'''%25%25%0a----%0a%0a%25center%25''"Any sufficiently advanced technology is indistinguishable from magic."'' \\%0a%25center%25 - '''Clarke’s Third Law''' - \\%0a\\%0a%0a(:toc:)%0a[[#top]]%0a%0a%0a!!%25center%25%25mortal%25'''Rose City Guild Initiation'''%25%25%0a%0aThough the RCG is a Mystery Cult, it does not count against the MCI cap or 5 dots, and all mortals may receive 1 free dot of Rose City Guild Initiation at Character Creation.%0a%0a• Members of the Guild know one another and gossip flows freely, they gain Contacts (•) %0a•• It’s a dangerous world and established members of the Guild have safe houses to retreat to when necessary. This may be combined with other RSG Safe Place dots to create a larger and more secure safe house used by multiple guild members. Safe Place (RSG) (•) %0a••• Awareness of the supernatural creatures in the city have heightened guild members perceptions over time. Unseen Sense (••)%0a•••• The guild leader’s unseen senses become enhanced and she gains the Unseen Sense, Advanced (•••) merit.%0a••••• The highest tier of guild leadership gains the Unseen Sense, Epic (•••) merit.%0a%0a[[#top |back to top]]%0a[[#from1]]%0a(:include GameRef.CustomItemsAndPowers#from5#to5:)%0a[[#to1]]%0a[[#top |back to top]]%0a(:include GameRef.Directoryhelp:)
-time=1530220783
+text=https://i.imgur.com/JzoVMoX.png%0a(:include GameRef.Directorymortal:)%0a----%0a!%25center%25%25mortal%25'''Mortal Player Guide'''%25%25%0a----%0a%0a%25center%25''"Any sufficiently advanced technology is indistinguishable from magic."'' \\%0a%25center%25 - '''Clarke’s Third Law''' - \\%0a\\%0a%0a(:toc:)%0a[[#top]]%0a%0a%0a!!%25center%25%25mortal%25'''Rose City Guild Initiation'''%25%25%0a%0aThough the RCG is a Mystery Cult, it does not count against the MCI cap or 5 dots, and all mortals may receive 1 free dot of Rose City Guild Initiation at Character Creation.%0a%0a• Members of the Guild know one another and gossip flows freely, they gain Contacts (•) %0a•• It’s a dangerous world and established members of the Guild have safe houses to retreat to when necessary. This may be combined with other RSG Safe Place dots to create a larger and more secure safe house used by multiple guild members. Safe Place (RSG) (•) %0a••• Awareness of the supernatural creatures in the city have heightened guild members perceptions over time. Unseen Sense (••)%0a•••• The guild leader’s unseen senses become enhanced and she gains the Unseen Sense, Advanced (•••) merit.%0a••••• The highest tier of guild leadership gains the Unseen Sense, Epic (•••) merit.%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a[[#from1]]%0a(:include GameRef.CustomItemsAndPowers#from5#to5:)%0a[[#to1]]%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include GameRef.Directoryhelp:)
+time=1531421886
+author:1531421886=AnneB
+diff:1531421886:1530220783:=25,26c25%0a%3c %25right%25[[#top|&#8593; back to top]]%0a%3c %0a---%0a> [[#top |back to top]]%0a30,32c29%0a%3c %0a%3c %25right%25[[#top|&#8593; back to top]]%0a%3c %0a---%0a> [[#top |back to top]]%0a
+host:1531421886=71.222.65.124
 author:1530220783=Selcouth
 diff:1530220783:1528683258:=1c1%0a%3c https://i.imgur.com/JzoVMoX.png%0a---%0a> http://wantonwicked.gamingsandbox.com/wiki/images/mortal/banner_mortal.jpg%0a
 host:1530220783=71.222.98.245
