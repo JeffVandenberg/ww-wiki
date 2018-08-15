@@ -1,0 +1,15 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+author=VeronicaM
+charset=ISO-8859-1
+csum=
+ctime=1534261691
+host=99.35.196.150
+name=Players.VeronicaM
+rev=1
+targets=Players.JessicaUmaDriver,Players.CharlesKirk
+text=TPO:\\%0a[[JessicaUmaDriver|Uma]]\\%0a[[Charles Kirk]]
+time=1534261691
+author:1534261691=VeronicaM
+diff:1534261691:1534261691:=1,3d0%0a%3c TPO:\\%0a%3c [[JessicaUmaDriver|Uma]]\\%0a%3c [[Charles Kirk]]%0a\ No newline at end of file%0a
+host:1534261691=99.35.196.150
