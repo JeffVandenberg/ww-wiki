@@ -1,15 +1,18 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
-author=
+agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+author=Scarecrow
 charset=ISO-8859-1
 csum=
 ctime=1516839183
-host=174.25.114.77
+host=97.120.191.113
 name=Players.KadieBell-NPCGhoul
-rev=1
-targets=Players.NaomiGracen
-text=!!Dossier %25rfloat text-align=center border='2px solid #6e68a3' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=450px height=500px%25 https://i.imgur.com/YkUUogZ.jpg%0a:Public Effects: %0a:Profession: Security/ Personal Assistant%0a:Concept: Ghoul%0a:Age: Mid- late 20's%0a:Domitor: [[Naomi Gracen]]%0a:Player: NPC%0a!!Description%0aKadie frequently is seen in the company of Naomi, keeping an eye on things and carrying her personal affects or dealing with small things that come her way. Her shoulder length brown hair is frequently worn loose around her shoulders though occasionally tied back into a ponytail or twisted into a bun. Her typical style is professional or relaxed, but sometimes she dresses in the more expressive, scene culture appropriate manner of her regnant.
-time=1516839183
+rev=2
+targets=
+text=
+time=1534822057
+author:1534822057=Scarecrow
+diff:1534822057:1516839183:=0a1,9%0a> !!Dossier %25rfloat text-align=center border='2px solid #6e68a3' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=450px height=500px%25 https://i.imgur.com/YkUUogZ.jpg%0a> :Public Effects: %0a> :Profession: Security/ Personal Assistant%0a> :Concept: Ghoul%0a> :Age: Mid- late 20's%0a> :Domitor: [[Naomi Gracen]]%0a> :Player: NPC%0a> !!Description%0a> Kadie frequently is seen in the company of Naomi, keeping an eye on things and carrying her personal affects or dealing with small things that come her way. Her shoulder length brown hair is frequently worn loose around her shoulders though occasionally tied back into a ponytail or twisted into a bun. Her typical style is professional or relaxed, but sometimes she dresses in the more expressive, scene culture appropriate manner of her regnant.%0a\ No newline at end of file%0a
+host:1534822057=97.120.191.113
 author:1516839183=
 diff:1516839183:1516839183:=1,9d0%0a%3c !!Dossier %25rfloat text-align=center border='2px solid #6e68a3' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=450px height=500px%25 https://i.imgur.com/YkUUogZ.jpg%0a%3c :Public Effects: %0a%3c :Profession: Security/ Personal Assistant%0a%3c :Concept: Ghoul%0a%3c :Age: Mid- late 20's%0a%3c :Domitor: [[Naomi Gracen]]%0a%3c :Player: NPC%0a%3c !!Description%0a%3c Kadie frequently is seen in the company of Naomi, keeping an eye on things and carrying her personal affects or dealing with small things that come her way. Her shoulder length brown hair is frequently worn loose around her shoulders though occasionally tied back into a ponytail or twisted into a bun. Her typical style is professional or relaxed, but sometimes she dresses in the more expressive, scene culture appropriate manner of her regnant.%0a\ No newline at end of file%0a
 host:1516839183=174.25.114.77
