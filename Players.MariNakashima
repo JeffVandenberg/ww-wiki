@@ -1,0 +1,87 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+author=Rhage
+charset=ISO-8859-1
+csum=
+ctime=1534990691
+host=162.224.125.0
+name=Players.MariNakashima
+rev=25
+targets=
+text=https://i.imgur.com/JzoVMoX.png%0a(:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=http://uwm.edu/arts/wp-content/uploads/sites/71/2017/07/unnamed.jpg=]); background-size:89%25; padding:25px;' width=25%25:)%0a%0a(:table valign=top:)%0a%0a(:cellnr rowspan=30 width=500 align=center:)%0a!!%25center%25%25mortal%25%0ahttps://gyazo.com/370125b8fdef5e89318142e6f43788db.png%0a%0a%0a(:cellnr width=260 align=left:)%25mortal%25'''Name:''' %0a(:cell width=440:)Mari Nakashima  %0a(:cellnr width=260 align=left:)%25mortal%25'''Virtue/Vice:''' %0a(:cell width=440:) Hopeful/Hasty%0a(:cellnr width=260 align=left:)%25mortal%25'''Public Effects:''' %0a(:cell width=440:) Status 2 Botanical Studies, Biokinesis, Plant Empathy  %0a(:cellnr width=260 align=left:)%25mortal%25'''Profession:''' %0a(:cell width=440:) Botanist %0a(:cellnr width=260 align=left:)%25mortal%25'''Age:''' %0a(:cell width=440:) 30%0a(:cellnr width=260 align=left:)%25mortal%25'''Player:''' %0a(:cell width=440:)Rhage %0a%0a%0a(:tableend:)%0a%0a(:div2 style='background-color:rgba(0,0,0,0.5);' :)%0a----%0a%0a!!%25center%25%25mortal%25'''Description'''%0a%0a%25center%25 At a height of 5’4 this woman of Asian heritage is athletically framed, well mannered in appropriate settings with dark brown eyes beholding the world with expectation. Her once dark hair is now highlighted in warm tones to accent natural details of her face. %0a%0a----%0a(:div2end:)%0a%0a!!%25center%25%25mortal%25'''Contacts'''%0a%0a||! %25mortal%25Image ||! %25mortal%25Name ||! %25mortal%25Relationship ||! %25mortal%25Comment ||! %25mortal%25Ringtone ||%0a|| %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a|| %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a|| %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a|| %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a|| %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a%0a(:div2 style='background-color:rgba(0,0,0,0.5);' :)%0a----%0a!!%25center%25%25mortal%25'''Hooks'''%0a%0a!!!!%25mortal%25 ''Hook 1(Who it effects)'': %0aHook info here%0a%0a!!!!%25mortal%25 ''Hook 2(Who it effects)'': %0aHook info here%0a%0a!!!!%25mortal%25 ''Hook 3(Who it effects)'': %0aHook info here%0a----%0a(:div2end:)%0a%0a(:table table border=0 cellpadding=5 cellspacing=0:)%0a%0a(:cellnr width=100%25:)%0a%0a!!%25center%25%25mortal%25'''Quotes'''%0a%0a%25mortal%25 "I am a quote! Fear me!" -A person with a face. \\%0a%25mage%25 "I am a quote! Fear me!" -A magic person. \\%0a%25vampire%25 "I am a quote! Fear me!" -A person with fangs. \\%0a%25werewolf%25 "I am a quote! Fear me!" -A person that can woof. \\%0a%25changeling%25 "I am a quote! Fear me!" -A person that can shift forms. \\%0a%0a(:tableend:)%0a%0a(:include GameRef.Directoryplayermortal:)
+time=1534994602
+author:1534994602=Rhage
+diff:1534994602:1534994476:=48,57c48%0a%3c !!%25center%25%25mortal%25'''Hooks'''%0a%3c %0a%3c !!!!%25mortal%25 ''Hook 1(Who it effects)'': %0a%3c Hook info here%0a%3c %0a%3c !!!!%25mortal%25 ''Hook 2(Who it effects)'': %0a%3c Hook info here%0a%3c %0a%3c !!!!%25mortal%25 ''Hook 3(Who it effects)'': %0a%3c Hook info here%0a---%0a> %0a
+host:1534994602=162.224.125.0
+author:1534994476=Rhage
+diff:1534994476:1534993673:=16c16%0a%3c (:cell width=440:) Status 2 Botanical Studies, Biokinesis, Plant Empathy  %0a---%0a> (:cell width=440:) Biokinesis 1%0a
+host:1534994476=162.224.125.0
+author:1534993673=Rhage
+diff:1534993673:1534993645:=22c22%0a%3c (:cell width=440:)Rhage %0a---%0a> (:cell width=440:)[Enter Here] %0a
+host:1534993673=162.224.125.0
+author:1534993645=Rhage
+diff:1534993645:1534993519:=47a48,58%0a> %0a> !!%25center%25%25mortal%25'''Hooks'''%0a> %0a> !!!!%25mortal%25 ''Hook 1(Who it effects)'': %0a> Hook info here%0a> %0a> !!!!%25mortal%25 ''Hook 2(Who it effects)'': %0a> Hook info here%0a> %0a> !!!!%25mortal%25 ''Hook 3(Who it effects)'': %0a> Hook info here%0a
+host:1534993645=162.224.125.0
+author:1534993519=Rhage
+diff:1534993519:1534993478:=7c7%0a%3c !!%25center%25%25mortal%25%0a---%0a> !!%25center%25%25mortal%25'''Dossier'''%0a
+host:1534993519=162.224.125.0
+author:1534993478=Rhage
+diff:1534993478:1534993462:=8c8%0a%3c https://gyazo.com/370125b8fdef5e89318142e6f43788db.png%0a---%0a> https://gyazo.com/370125b8fdef5e89318142e6f43788db.jpg%0a
+host:1534993478=162.224.125.0
+author:1534993462=Rhage
+diff:1534993462:1534993424:=8c8%0a%3c https://gyazo.com/370125b8fdef5e89318142e6f43788db.jpg%0a---%0a> https://gyazo.com/370125b8fdef5e89318142e6f43788db%0a
+host:1534993462=162.224.125.0
+author:1534993424=Rhage
+diff:1534993424:1534993234:=8c8%0a%3c https://gyazo.com/370125b8fdef5e89318142e6f43788db%0a---%0a> https://i.imgur.com/QRRTW65.png%0a
+host:1534993424=162.224.125.0
+author:1534993234=Rhage
+diff:1534993234:1534992813:=4,8c4,6%0a%3c (:table valign=top:)%0a%3c %0a%3c (:cellnr rowspan=30 width=500 align=center:)%0a%3c !!%25center%25%25mortal%25'''Dossier'''%0a%3c https://i.imgur.com/QRRTW65.png%0a---%0a> %25rfloat text-align=center border='2px italic #9370DB' margin-top=0px margin-left=25px margin-bottom=0px margin-right=0px width=500px height=500px%25https://i.gyazo.com/370125b8fdef5e89318142e6f43788db%0a> %0a> %0a
+host:1534993234=162.224.125.0
+author:1534992813=Rhage
+diff:1534992813:1534992784:=4,5c4%0a%3c %25rfloat text-align=center border='2px italic #9370DB' margin-top=0px margin-left=25px margin-bottom=0px margin-right=0px width=500px height=500px%25https://i.gyazo.com/370125b8fdef5e89318142e6f43788db%0a%3c %0a---%0a> %25rfloat text-align=center border='2px italic #9370DB' margin-top=0px margin-left=25px margin-bottom=0px margin-right=0px width=500px height=500px%25https://i.%0a
+host:1534992813=162.224.125.0
+author:1534992784=Rhage
+diff:1534992784:1534992750:=4c4%0a%3c %25rfloat text-align=center border='2px italic #9370DB' margin-top=0px margin-left=25px margin-bottom=0px margin-right=0px width=500px height=500px%25https://i.%0a---%0a> %25rfloat text-align=center border='2px italic #9370DB' margin-top=0px margin-left=25px margin-bottom=0px margin-right=0px width=500px height=500px%25https://i.gyazo.com/c03551bbc1c4e91a1f9127fa81610c0a.jpg%0a
+host:1534992784=162.224.125.0
+author:1534992750=Rhage
+diff:1534992750:1534992699:=4,5c4,5%0a%3c %25rfloat text-align=center border='2px italic #9370DB' margin-top=0px margin-left=25px margin-bottom=0px margin-right=0px width=500px height=500px%25https://i.gyazo.com/c03551bbc1c4e91a1f9127fa81610c0a.jpg%0a%3c %0a---%0a> %0a> %25rfloat text-align=center border='2px italic #9370DB' margin-top=0px margin-left=25px margin-bottom=0px margin-right=0px width=500px height=500px%25https://i.gyazo.com/370125b8fdef5e89318142e6f43788db.jpg%0a
+host:1534992750=162.224.125.0
+author:1534992699=Rhage
+diff:1534992699:1534992647:=4a5%0a> (:cellnr rowspan=30 width=500 align=center:)%0a
+host:1534992699=162.224.125.0
+author:1534992647=Rhage
+diff:1534992647:1534992565:=3a4,5%0a> %0a> (:table valign=top:)%0a
+host:1534992647=162.224.125.0
+author:1534992565=Rhage
+diff:1534992565:1534992459:=
+host:1534992565=162.224.125.0
+author:1534992459=Rhage
+diff:1534992459:1534992391:=8c8%0a%3c %25rfloat text-align=center border='2px italic #9370DB' margin-top=0px margin-left=25px margin-bottom=0px margin-right=0px width=500px height=500px%25https://i.gyazo.com/370125b8fdef5e89318142e6f43788db.jpg%0a---%0a> %25rfloat text-align=center border='2px italic #9370DB' margin-top=0px margin-left=25px margin-bottom=0px margin-right=0px width=500px height=500px%25https://i.gyazo.com/370125b8fdef5e89318142e6f43788db%0a
+host:1534992459=162.224.125.0
+author:1534992391=Rhage
+diff:1534992391:1534991384:=32c32%0a%3c %25center%25 At a height of 5’4 this woman of Asian heritage is athletically framed, well mannered in appropriate settings with dark brown eyes beholding the world with expectation. Her once dark hair is now highlighted in warm tones to accent natural details of her face. %0a---%0a> %25center%25 Standing at a height of 5’7 this dark haired woman of Asian heritage has wisdom shining in her dark eyes, and respect in the posturing of her body. %0a
+host:1534992391=162.224.125.0
+author:1534991384=Rhage
+diff:1534991384:1534991331:=10c10,13%0a%3c %0a---%0a> !!%25center%25%25mortal%25'''Playlist'''%0a> *[[http://www.youtube.com/|%25mortal%25Song Name]]%0a> *[[http://www.youtube.com/|%25mortal%25Song Name]]%0a> *[[http://www.youtube.com/|%25mortal%25Song Name]]%0a
+host:1534991384=162.224.125.0
+author:1534991331=Rhage
+diff:1534991331:1534991208:=7a8%0a> %0a35c36%0a%3c %25center%25 Standing at a height of 5’7 this dark haired woman of Asian heritage has wisdom shining in her dark eyes, and respect in the posturing of her body. %0a---%0a> %25center%25[Enter here]%0a
+host:1534991331=162.224.125.0
+author:1534991208=Rhage
+diff:1534991208:1534991113:=8d7%0a%3c %0a
+host:1534991208=162.224.125.0
+author:1534991113=Rhage
+diff:1534991113:1534990982:=8,9c8,9%0a%3c %25rfloat text-align=center border='2px italic #9370DB' margin-top=0px margin-left=25px margin-bottom=0px margin-right=0px width=500px height=500px%25https://i.gyazo.com/370125b8fdef5e89318142e6f43788db%0a%3c %0a---%0a> !!%25center%25%25mortal%25'''Dossier'''%0a> https://gyazo.com/370125b8fdef5e89318142e6f43788db%0a
+host:1534991113=162.224.125.0
+author:1534990982=Rhage
+diff:1534990982:1534990896:=2c2%0a%3c (:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=http://uwm.edu/arts/wp-content/uploads/sites/71/2017/07/unnamed.jpg=]); background-size:89%25; padding:25px;' width=25%25:)%0a---%0a> (:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([==http://uwm.edu/arts/wp-content/uploads/sites/71/2017/07/unnamed.jpg=]); background-size:89%25; padding:25px;' width=25%25:)%0a
+host:1534990982=162.224.125.0
+author:1534990896=Rhage
+diff:1534990896:1534990760:=2,3c2%0a%3c (:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([==http://uwm.edu/arts/wp-content/uploads/sites/71/2017/07/unnamed.jpg=]); background-size:89%25; padding:25px;' width=25%25:)%0a%3c %0a---%0a> (:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://i.imgur.com/uh9kq5r.png=]); background-size:500; padding:25px;' width=100%25:)%0a
+host:1534990896=162.224.125.0
+author:1534990760=Rhage
+diff:1534990760:1534990691:=8c8%0a%3c https://gyazo.com/370125b8fdef5e89318142e6f43788db%0a---%0a> https://i.imgur.com/QRRTW65.png%0a
+host:1534990760=162.224.125.0
+author:1534990691=Rhage
+diff:1534990691:1534990691:=1,79d0%0a%3c https://i.imgur.com/JzoVMoX.png%0a%3c (:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://i.imgur.com/uh9kq5r.png=]); background-size:500; padding:25px;' width=100%25:)%0a%3c %0a%3c (:table valign=top:)%0a%3c %0a%3c (:cellnr rowspan=30 width=500 align=center:)%0a%3c !!%25center%25%25mortal%25'''Dossier'''%0a%3c https://i.imgur.com/QRRTW65.png%0a%3c !!%25center%25%25mortal%25'''Playlist'''%0a%3c *[[http://www.youtube.com/|%25mortal%25Song Name]]%0a%3c *[[http://www.youtube.com/|%25mortal%25Song Name]]%0a%3c *[[http://www.youtube.com/|%25mortal%25Song Name]]%0a%3c (:cellnr width=260 align=left:)%25mortal%25'''Name:''' %0a%3c (:cell width=440:)Mari Nakashima  %0a%3c (:cellnr width=260 align=left:)%25mortal%25'''Virtue/Vice:''' %0a%3c (:cell width=440:) Hopeful/Hasty%0a%3c (:cellnr width=260 align=left:)%25mortal%25'''Public Effects:''' %0a%3c (:cell width=440:) Biokinesis 1%0a%3c (:cellnr width=260 align=left:)%25mortal%25'''Profession:''' %0a%3c (:cell width=440:) Botanist %0a%3c (:cellnr width=260 align=left:)%25mortal%25'''Age:''' %0a%3c (:cell width=440:) 30%0a%3c (:cellnr width=260 align=left:)%25mortal%25'''Player:''' %0a%3c (:cell width=440:)[Enter Here] %0a%3c %0a%3c %0a%3c (:tableend:)%0a%3c %0a%3c (:div2 style='background-color:rgba(0,0,0,0.5);' :)%0a%3c ----%0a%3c %0a%3c !!%25center%25%25mortal%25'''Description'''%0a%3c %0a%3c %25center%25[Enter here]%0a%3c %0a%3c ----%0a%3c (:div2end:)%0a%3c %0a%3c !!%25center%25%25mortal%25'''Contacts'''%0a%3c %0a%3c ||! %25mortal%25Image ||! %25mortal%25Name ||! %25mortal%25Relationship ||! %25mortal%25Comment ||! %25mortal%25Ringtone ||%0a%3c || %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a%3c || %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a%3c || %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a%3c || %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a%3c || %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a%3c %0a%3c (:div2 style='background-color:rgba(0,0,0,0.5);' :)%0a%3c ----%0a%3c %0a%3c !!%25center%25%25mortal%25'''Hooks'''%0a%3c %0a%3c !!!!%25mortal%25 ''Hook 1(Who it effects)'': %0a%3c Hook info here%0a%3c %0a%3c !!!!%25mortal%25 ''Hook 2(Who it effects)'': %0a%3c Hook info here%0a%3c %0a%3c !!!!%25mortal%25 ''Hook 3(Who it effects)'': %0a%3c Hook info here%0a%3c %0a%3c ----%0a%3c (:div2end:)%0a%3c %0a%3c (:table table border=0 cellpadding=5 cellspacing=0:)%0a%3c %0a%3c (:cellnr width=100%25:)%0a%3c %0a%3c !!%25center%25%25mortal%25'''Quotes'''%0a%3c %0a%3c %25mortal%25 "I am a quote! Fear me!" -A person with a face. \\%0a%3c %25mage%25 "I am a quote! Fear me!" -A magic person. \\%0a%3c %25vampire%25 "I am a quote! Fear me!" -A person with fangs. \\%0a%3c %25werewolf%25 "I am a quote! Fear me!" -A person that can woof. \\%0a%3c %25changeling%25 "I am a quote! Fear me!" -A person that can shift forms. \\%0a%3c %0a%3c (:tableend:)%0a%3c %0a%3c (:include GameRef.Directoryplayermortal:)%0a\ No newline at end of file%0a
+host:1534990691=162.224.125.0

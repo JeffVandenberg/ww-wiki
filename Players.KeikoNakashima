@@ -6,10 +6,61 @@ csum=
 ctime=1534466201
 host=162.224.125.0
 name=Players.KeikoNakashima
-rev=1
+rev=18
 targets=
-text=
-time=1534466201
+text=https://i.imgur.com/JzoVMoX.png%0a(:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([https://wonder01.wixsite.com/keiko); background-size:500; padding:25px;' width=100%25:)%0a%0a(:table valign=top:)%0a%0a(:cellnr rowspan=30 width=500 align=center:)%0a!!%25center%25%25mortal%25'''Dossier'''%0ahttps://i.imgur.com/QRRTW65.png%0a!!%25center%25%25mortal%25'''Playlist'''%0a*[[https://www.youtube.com/watch?v=Zjx56Pc4PDY]]%0a*[[https://www.youtube.com/watch?v=sxkMFgFjC8E]]%0a*[[http://www.youtube.com/|%25mortal%25Song Name]]%0a(:cellnr width=260 align=left:)%25mortal%25'''Name:''' %0a(:cell width=440:) Keiko Nakashima  %0a(:cellnr width=260 align=left:)%25mortal%25'''Virtue/Vice:''' %0a(:cell width=440:) Hopeful/Hasty %0a(:cellnr width=260 align=left:)%25mortal%25'''Public Effects:''' %0a(:cell width=440:) Status 2 Botanical Studies, Biokinesis 1, Plant Empathy 1%0a(:cellnr width=260 align=left:)%25mortal%25'''Profession:''' %0a(:cell width=440:) Botanist %0a(:cellnr width=260 align=left:)%25mortal%25'''Age:''' %0a(:cell width=440:) 30%0a(:cellnr width=260 align=left:)%25mortal%25'''Player:''' %0a(:cell width=440:) Rhage%0a%0a%0a(:tableend:)%0a%0a(:div2 style='background-color:rgba(0,0,0,0.5);' :)%0a----%0a%0a!!%25center%25%25mortal%25'''Description'''%0a%0a%25center%25 At a height of 5’7 this dark haired woman of Asian heritage has wisdom shining in her dark eyes, and respect in the posturing of her body. %0a%0a----%0a(:div2end:)%0a%0a!!%25center%25%25mortal%25'''Contacts'''%0a%0a||! %25mortal%25Image ||! %25mortal%25Name ||! %25mortal%25Relationship ||! %25mortal%25Comment ||! %25mortal%25Ringtone ||%0a|| %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a|| %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a|| %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a|| %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a|| %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a%0a(:div2 style='background-color:rgba(0,0,0,0.5);' :)%0a----%0a%0a!!%25center%25%25mortal%25'''Hooks'''%0a%0a!!!!%25mortal%25 ''Hook 1(Who it effects)'': %0aHook info here%0a%0a!!!!%25mortal%25 ''Hook 2(Who it effects)'': %0aHook info here%0a%0a!!!!%25mortal%25 ''Hook 3(Who it effects)'': %0aHook info here%0a%0a----%0a(:div2end:)%0a%0a(:table table border=0 cellpadding=5 cellspacing=0:)%0a%0a(:cellnr width=100%25:)%0a%0a!!%25center%25%25mortal%25'''Quotes'''%0a%0a%25mortal%25 "I am a quote! Fear me!" -A person with a face. \\%0a%25mage%25 "I am a quote! Fear me!" -A magic person. \\%0a%25vampire%25 "I am a quote! Fear me!" -A person with fangs. \\%0a%25werewolf%25 "I am a quote! Fear me!" -A person that can woof. \\%0a%25changeling%25 "I am a quote! Fear me!" -A person that can shift forms. \\%0a%0a(:tableend:)%0a%0a(:include GameRef.Directoryplayermortal:)
+time=1534984104
+author:1534984104=Rhage
+diff:1534984104:1534982141:=
+host:1534984104=162.224.125.0
+author:1534982141=Rhage
+diff:1534982141:1534979456:=2c2%0a%3c (:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([https://wonder01.wixsite.com/keiko); background-size:500; padding:25px;' width=100%25:)%0a---%0a> (:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://i.imgur.com/uh9kq5r.png=]); background-size:500; padding:25px;' width=100%25:)%0a
+host:1534982141=162.224.125.0
+author:1534979456=Rhage
+diff:1534979456:1534978923:=11c11%0a%3c *[[https://www.youtube.com/watch?v=sxkMFgFjC8E]]%0a---%0a> *[[http://www.youtube.com/|%25mortal%25Song Name]]%0a
+host:1534979456=162.224.125.0
+author:1534978923=Rhage
+diff:1534978923:1534978792:=10c10%0a%3c *[[https://www.youtube.com/watch?v=Zjx56Pc4PDY]]%0a---%0a> *[[http://www.youtube.com/|%25mortal%25Song Name]]%0a
+host:1534978923=162.224.125.0
+author:1534978792=Rhage
+diff:1534978792:1534978723:=18c18%0a%3c (:cell width=440:) Status 2 Botanical Studies, Biokinesis 1, Plant Empathy 1%0a---%0a> (:cell width=440:) Status 2 Botanical Studies, Biokinesis 1%0a
+host:1534978792=162.224.125.0
+author:1534978723=Rhage
+diff:1534978723:1534978637:=18c18%0a%3c (:cell width=440:) Status 2 Botanical Studies, Biokinesis 1%0a---%0a> (:cell width=440:) Status 2 Botanical Studies, %0a
+host:1534978723=162.224.125.0
+author:1534978637=Rhage
+diff:1534978637:1534978411:=18c18%0a%3c (:cell width=440:) Status 2 Botanical Studies, %0a---%0a> (:cell width=440:) 2017 Blue Nissan Leaf w/navigation, Cell phone, Laptop %0a
+host:1534978637=162.224.125.0
+author:1534978411=Rhage
+diff:1534978411:1534978322:=34c34%0a%3c %25center%25 At a height of 5’7 this dark haired woman of Asian heritage has wisdom shining in her dark eyes, and respect in the posturing of her body. %0a---%0a> %25center%25[Enter here]%0a
+host:1534978411=162.224.125.0
+author:1534978322=Rhage
+diff:1534978322:1534978283:=14c14%0a%3c (:cell width=440:) Keiko Nakashima  %0a---%0a> (:cell width=440:)[Keiko Nakashima]  %0a16c16%0a%3c (:cell width=440:) Hopeful/Hasty %0a---%0a> (:cell width=440:)[Hopeful/Hasty] %0a18c18%0a%3c (:cell width=440:) 2017 Blue Nissan Leaf w/navigation, Cell phone, Laptop %0a---%0a> (:cell width=440:)[2017 Blue Nissan Leaf w/navigation, Cell phone, Laptop] %0a20c20%0a%3c (:cell width=440:) Botanist %0a---%0a> (:cell width=440:)[Botanist] %0a22c22%0a%3c (:cell width=440:) 30%0a---%0a> (:cell width=440:)[30] %0a
+host:1534978322=162.224.125.0
+author:1534978283=Rhage
+diff:1534978283:1534978254:=24c24%0a%3c (:cell width=440:) Rhage%0a---%0a> (:cell width=440:)[Enter Here] %0a
+host:1534978283=162.224.125.0
+author:1534978254=Rhage
+diff:1534978254:1534978197:=22c22%0a%3c (:cell width=440:)[30] %0a---%0a> (:cell width=440:)[Enter Here] %0a
+host:1534978254=162.224.125.0
+author:1534978197=Rhage
+diff:1534978197:1534978096:=20c20%0a%3c (:cell width=440:)[Botanist] %0a---%0a> (:cell width=440:)[Enter Here] %0a
+host:1534978197=162.224.125.0
+author:1534978096=Rhage
+diff:1534978096:1534977892:=18c18%0a%3c (:cell width=440:)[2017 Blue Nissan Leaf w/navigation, Cell phone, Laptop] %0a---%0a> (:cell width=440:)[Enter Here] %0a
+host:1534978096=162.224.125.0
+author:1534977892=Rhage
+diff:1534977892:1534977794:=16c16%0a%3c (:cell width=440:)[Hopeful/Hasty] %0a---%0a> (:cell width=440:)[Enter Here] %0a
+host:1534977892=162.224.125.0
+author:1534977794=Rhage
+diff:1534977794:1534977633:=14c14%0a%3c (:cell width=440:)[Keiko Nakashima]  %0a---%0a> (:cell width=440:)[Enter here]  %0a
+host:1534977794=162.224.125.0
+author:1534977633=Rhage
+diff:1534977633:1534976367:=14c14%0a%3c (:cell width=440:)[Enter here]  %0a---%0a> (:cell width=440:)[Enter Here]  %0a
+host:1534977633=162.224.125.0
+author:1534976367=Rhage
+diff:1534976367:1534466201:=1,79d0%0a%3c https://i.imgur.com/JzoVMoX.png%0a%3c (:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://i.imgur.com/uh9kq5r.png=]); background-size:500; padding:25px;' width=100%25:)%0a%3c %0a%3c (:table valign=top:)%0a%3c %0a%3c (:cellnr rowspan=30 width=500 align=center:)%0a%3c !!%25center%25%25mortal%25'''Dossier'''%0a%3c https://i.imgur.com/QRRTW65.png%0a%3c !!%25center%25%25mortal%25'''Playlist'''%0a%3c *[[http://www.youtube.com/|%25mortal%25Song Name]]%0a%3c *[[http://www.youtube.com/|%25mortal%25Song Name]]%0a%3c *[[http://www.youtube.com/|%25mortal%25Song Name]]%0a%3c (:cellnr width=260 align=left:)%25mortal%25'''Name:''' %0a%3c (:cell width=440:)[Enter Here]  %0a%3c (:cellnr width=260 align=left:)%25mortal%25'''Virtue/Vice:''' %0a%3c (:cell width=440:)[Enter Here] %0a%3c (:cellnr width=260 align=left:)%25mortal%25'''Public Effects:''' %0a%3c (:cell width=440:)[Enter Here] %0a%3c (:cellnr width=260 align=left:)%25mortal%25'''Profession:''' %0a%3c (:cell width=440:)[Enter Here] %0a%3c (:cellnr width=260 align=left:)%25mortal%25'''Age:''' %0a%3c (:cell width=440:)[Enter Here] %0a%3c (:cellnr width=260 align=left:)%25mortal%25'''Player:''' %0a%3c (:cell width=440:)[Enter Here] %0a%3c %0a%3c %0a%3c (:tableend:)%0a%3c %0a%3c (:div2 style='background-color:rgba(0,0,0,0.5);' :)%0a%3c ----%0a%3c %0a%3c !!%25center%25%25mortal%25'''Description'''%0a%3c %0a%3c %25center%25[Enter here]%0a%3c %0a%3c ----%0a%3c (:div2end:)%0a%3c %0a%3c !!%25center%25%25mortal%25'''Contacts'''%0a%3c %0a%3c ||! %25mortal%25Image ||! %25mortal%25Name ||! %25mortal%25Relationship ||! %25mortal%25Comment ||! %25mortal%25Ringtone ||%0a%3c || %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a%3c || %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a%3c || %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a%3c || %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a%3c || %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a%3c %0a%3c (:div2 style='background-color:rgba(0,0,0,0.5);' :)%0a%3c ----%0a%3c %0a%3c !!%25center%25%25mortal%25'''Hooks'''%0a%3c %0a%3c !!!!%25mortal%25 ''Hook 1(Who it effects)'': %0a%3c Hook info here%0a%3c %0a%3c !!!!%25mortal%25 ''Hook 2(Who it effects)'': %0a%3c Hook info here%0a%3c %0a%3c !!!!%25mortal%25 ''Hook 3(Who it effects)'': %0a%3c Hook info here%0a%3c %0a%3c ----%0a%3c (:div2end:)%0a%3c %0a%3c (:table table border=0 cellpadding=5 cellspacing=0:)%0a%3c %0a%3c (:cellnr width=100%25:)%0a%3c %0a%3c !!%25center%25%25mortal%25'''Quotes'''%0a%3c %0a%3c %25mortal%25 "I am a quote! Fear me!" -A person with a face. \\%0a%3c %25mage%25 "I am a quote! Fear me!" -A magic person. \\%0a%3c %25vampire%25 "I am a quote! Fear me!" -A person with fangs. \\%0a%3c %25werewolf%25 "I am a quote! Fear me!" -A person that can woof. \\%0a%3c %25changeling%25 "I am a quote! Fear me!" -A person that can shift forms. \\%0a%3c %0a%3c (:tableend:)%0a%3c %0a%3c (:include GameRef.Directoryplayermortal:)%0a\ No newline at end of file%0a
+host:1534976367=162.224.125.0
 author:1534466201=Rhage
 diff:1534466201:1534466201:=
 host:1534466201=162.224.125.0
