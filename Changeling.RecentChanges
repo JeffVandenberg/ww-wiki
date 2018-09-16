@@ -1,9 +1,9 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36
 charset=ISO-8859-1
 ctime=1516715760
-host=173.46.225.202
+host=73.181.92.174
 name=Changeling.RecentChanges
-rev=196
-text=* [[Changeling.PlayerGuide | Player Guide]]  . . . September 03, 2018, at 12:06 PM by [[~ChrisF]]: [=wording fix=]%0a* [[Changeling.Society | Society]]  . . . August 20, 2018, at 09:31 PM by [[~Marcie]]: [==]%0a* [[Changeling.History | History]]  . . . July 23, 2018, at 12:35 AM by [[~Selcouth]]: [==]%0a* [[Changeling.Changeling | Changeling]]  . . . July 23, 2018, at 12:35 AM by [[~Selcouth]]: [==]%0a* [[Changeling.Locations | Locations]]  . . . July 23, 2018, at 12:34 AM by [[~Selcouth]]: [==]%0a* [[Changeling.ThreePillarsFreehold | Three Pillars Freehold]]  . . . July 12, 2018, at 11:28 AM by [[~AnneB]]: [==]%0a
-time=1536001604
+rev=202
+text=* [[Changeling.Society | Society]]  . . . September 15, 2018, at 02:02 PM by [[~Marcie]]: [==]%0a* [[Changeling.PlayerGuide | Player Guide]]  . . . September 03, 2018, at 12:06 PM by [[~ChrisF]]: [=wording fix=]%0a* [[Changeling.History | History]]  . . . July 23, 2018, at 12:35 AM by [[~Selcouth]]: [==]%0a* [[Changeling.Changeling | Changeling]]  . . . July 23, 2018, at 12:35 AM by [[~Selcouth]]: [==]%0a* [[Changeling.Locations | Locations]]  . . . July 23, 2018, at 12:34 AM by [[~Selcouth]]: [==]%0a* [[Changeling.ThreePillarsFreehold | Three Pillars Freehold]]  . . . July 12, 2018, at 11:28 AM by [[~AnneB]]: [==]%0a
+time=1537045337
