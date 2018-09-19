@@ -1,0 +1,30 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; LCTE; rv:11.0) like Gecko
+author=McCabe
+charset=ISO-8859-1
+csum=
+ctime=1537287991
+host=2.124.60.178
+name=Players.SeanCarty
+rev=6
+targets=
+text=https://i.imgur.com/wcCfdI8.png%0a(:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://i.imgur.com/iHbXGJ3.png=]); background-size:500; padding:25px;' width=100%25:)%0a%0a!! Dossier %25rfloat text-align=center border='2px solid' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=450px height=600px%25 https://i.imgur.com/gDQOCYI.jpg[%0a%0a'''Name:''' Sean Carty \\\%0a%0a'''Sire:''' Aleister Jameson \\\%0a%0a'''Clan:''' Nosferatu\\\%0a%0a'''Covenant:''' Ordo Dracul \\\%0a%0a'''Coterie:''' N/A \\\%0a%0a'''Public Effects:''' sickly discolouration, the scent of dust and decay suffuse the area around him \\\%0a%0a'''Mask/Dirge''' questioner/? \\\%0a%0a'''Profession:''' Scientist and Researcher \\\%0a%0a'''Age:''' unkonwn25-ish \\\%0a%0a'''Player:''' McCabe \\\%0a%0a'''Actor:''' Nicholas Hoult \\\%0a%0a----%0a%0a!! Description%0a%0a[An unnerving man, thin and wiry his skin always looks dead and blotched with post mortem bruises. The Blush of Life reduces this to a vaguely sickly looking level but wherever he goes the air smells stale and dead. He's normally dressed for comfort and ease of movement, hoodies and cargo pants in various states of disrepair seem to be the norm. He usually appears distracted but livens up when spoken to. ]%0a%0a----%0a%0a%0a%0a(:include GameRef.Directoryplayervampire:)
+time=1537292603
+author:1537292603=McCabe
+diff:1537292603:1537290854:=32c32%0a%3c [An unnerving man, thin and wiry his skin always looks dead and blotched with post mortem bruises. The Blush of Life reduces this to a vaguely sickly looking level but wherever he goes the air smells stale and dead. He's normally dressed for comfort and ease of movement, hoodies and cargo pants in various states of disrepair seem to be the norm. He usually appears distracted but livens up when spoken to. ]%0a---%0a> [An unnerving man, thin and wiry his skin always looks dead and blotched with post mortem bruises. The Blush of Life reduces this is to vaguely sickly looking levels but wherever he goes the air smells stale and dead. He's normally dressed for comfort and ease of movement, hoodies and cargo pants in various states of disrepair seem to be the norm. He usually appears distracted but livens up when spoken to. ]%0a
+host:1537292603=2.124.60.178
+author:1537290854=AnneB
+diff:1537290854:1537288093:=38d37%0a%3c (:include GameRef.Directoryplayervampire:)%0a\ No newline at end of file%0a
+host:1537290854=71.222.65.124
+author:1537288093=McCabe
+diff:1537288093:1537288041:minor=32c32%0a%3c [An unnerving man, thin and wiry his skin always looks dead and blotched with post mortem bruises. The Blush of Life reduces this is to vaguely sickly looking levels but wherever he goes the air smells stale and dead. He's normally dressed for comfort and ease of movement, hoodies and cargo pants in various states of disrepair seem to be the norm. He usually appears distracted but livens up when spoken to. ]%0a---%0a> [An unnerving man, thin and wiry his skin looks almost always look dead and blotched with post mortem bruises. The Blush of Life reduces this is to vaguely sickly looking levels but wherever he goes the air smells stale and dead. He's normally dressed for comfort and ease of movement, hoodies and cargo pants in various states of disrepair seem to be the norm. He usually appears distracted but livens up when spoken to. ]%0a
+host:1537288093=2.124.60.178
+author:1537288041=McCabe
+diff:1537288041:1537288015:=24c24%0a%3c '''Player:''' McCabe \\\%0a---%0a> '''Player:''' ArK McCabe \\\%0a
+host:1537288041=2.124.60.178
+author:1537288015=McCabe
+diff:1537288015:1537287991:=16c16%0a%3c '''Public Effects:''' sickly discolouration, the scent of dust and decay suffuse the area around him \\\%0a---%0a> '''Public Effects:''' sickly discolouration, the scent of dust and decay follow suffuse the area around him \\\%0a
+host:1537288015=2.124.60.178
+author:1537287991=McCabe
+diff:1537287991:1537287991:=1,37d0%0a%3c https://i.imgur.com/wcCfdI8.png%0a%3c (:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://i.imgur.com/iHbXGJ3.png=]); background-size:500; padding:25px;' width=100%25:)%0a%3c %0a%3c !! Dossier %25rfloat text-align=center border='2px solid' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=450px height=600px%25 https://i.imgur.com/gDQOCYI.jpg[%0a%3c %0a%3c '''Name:''' Sean Carty \\\%0a%3c %0a%3c '''Sire:''' Aleister Jameson \\\%0a%3c %0a%3c '''Clan:''' Nosferatu\\\%0a%3c %0a%3c '''Covenant:''' Ordo Dracul \\\%0a%3c %0a%3c '''Coterie:''' N/A \\\%0a%3c %0a%3c '''Public Effects:''' sickly discolouration, the scent of dust and decay follow suffuse the area around him \\\%0a%3c %0a%3c '''Mask/Dirge''' questioner/? \\\%0a%3c %0a%3c '''Profession:''' Scientist and Researcher \\\%0a%3c %0a%3c '''Age:''' unkonwn25-ish \\\%0a%3c %0a%3c '''Player:''' ArK McCabe \\\%0a%3c %0a%3c '''Actor:''' Nicholas Hoult \\\%0a%3c %0a%3c ----%0a%3c %0a%3c !! Description%0a%3c %0a%3c [An unnerving man, thin and wiry his skin looks almost always look dead and blotched with post mortem bruises. The Blush of Life reduces this is to vaguely sickly looking levels but wherever he goes the air smells stale and dead. He's normally dressed for comfort and ease of movement, hoodies and cargo pants in various states of disrepair seem to be the norm. He usually appears distracted but livens up when spoken to. ]%0a%3c %0a%3c ----%0a%3c %0a%3c %0a%3c %0a
+host:1537287991=2.124.60.178
