@@ -1,15 +1,18 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
 author=AnneB
 charset=ISO-8859-1
 csum=
 ctime=1523740556
 host=71.222.65.124
 name=City.Districts
-rev=11
+rev=12
 targets=
-text=https://i.imgur.com/q4y8vkR.jpg%0a(:include GameRef.Directorycity:)%0a%0a(:toc:)%0a[[#top]]%0a%0a(:include Central#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include East#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include North#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include Northeast#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include Northwest#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include Southeast#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include Southwest#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include Unaligned#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include Shadow#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include GameRef.Directoryhelp:)
-time=1533590683
+text=https://i.imgur.com/q4y8vkR.jpg%0a(:include GameRef.Directorycity:)%0a----%0a%25center%25https://i.imgur.com/ZDLxCVG.png%0a----%0a(:toc:)%0a[[#top]]%0a%0a(:include Central#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include East#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include North#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include Northeast#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include Northwest#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include Southeast#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include Southwest#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include Unaligned#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include Shadow#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include GameRef.Directoryhelp:)
+time=1541882873
+author:1541882873=AnneB
+diff:1541882873:1533590683:=3,5c3%0a%3c ----%0a%3c %25center%25https://i.imgur.com/ZDLxCVG.png%0a%3c ----%0a---%0a> %0a
+host:1541882873=71.222.65.124
 author:1533590683=AnneB
 diff:1533590683:1533589038:=
 host:1533590683=71.222.65.124
