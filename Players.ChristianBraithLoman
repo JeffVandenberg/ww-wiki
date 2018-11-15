@@ -1,15 +1,51 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
 author=ldvhl
 charset=ISO-8859-1
 csum=
 ctime=1541641909
 host=47.34.61.29
 name=Players.ChristianBraithLoman
-rev=24
+rev=36
 targets=
-text=https://i.imgur.com/JzoVMoX.png%0a(:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://i.imgur.com/uh9kq5r.png=]); background-size:500; padding:25px;' width=100%25:)%0a%0a(:table valign=top:)%0a%0a(:cellnr rowspan=30 width=500 align=center:)%0a!!%25center%25%25mortal%25'''Dossier'''%0a%25width=240px%25https://orig00.deviantart.net/c3dd/f/2018/312/8/9/christianloman_by_ldvhl-dcrg5wk.png%0a!!%25center%25%25mortal%25'''Playlist'''%0a*[[https://www.youtube.com/watch?v=YfzrE-nudhg|"Capital G" by Nine Inch Nails]]%0a*[[https://www.youtube.com/watch?v=-ssFjyDIyQ0|"War Pigs" by Black Sabbath]]%0a*[[https://www.youtube.com/watch?v=cWgwy_7hN5c|"Human Rocket" by Devo]]%0a(:cellnr width=260 align=left:)%25mortal%25'''Name:''' %0a(:cell width=440:)Christian Loman%0a(:cellnr width=260 align=left:)%25mortal%25'''Nickname:''' %0a(:cell width=440:)Charlie Lima %0a(:cellnr width=260 align=left:)%25mortal%25'''Virtue/Vice:''' %0a(:cell width=440:)*REDACTED*%0a(:cellnr width=260 align=left:)%25mortal%25'''Public Effects:''' %0a(:cell width=440:)Status 1: Rose City Guild%0aStatus 1: Lost Boy Network%0a(:cellnr width=260 align=left:)%25mortal%25'''Profession:''' %0a(:cell width=440:)Scientific Researcher %0a(:cellnr width=260 align=left:)%25mortal%25'''Age:''' %0a(:cell width=440:)34 %0a(:cellnr width=260 align=left:)%25mortal%25'''Player:''' %0a(:cell width=440:)ldvhl%0a%0a%0a(:tableend:)%0a%0a(:div2 style='background-color:rgba(0,0,0,0.5);' :)%0a----%0a%0a(:div2end:)%0a>>comment%3c%3c%0a!!%25center%25%25mortal%25'''Contacts'''%0a%0a||! %25mortal%25Image ||! %25mortal%25Name ||! %25mortal%25Relationship ||! %25mortal%25Comment ||! %25mortal%25Ringtone ||%0a|| %25width=40px%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a>>%3c%3c%0a(:div2 style='background-color:rgba(0,0,0,0.5);' :)%0a----%0a%0a!!%25center%25%25mortal%25'''Hooks'''%0a%0a!!!!%25mortal%25 ''New to town (All)'': %0aChristian is new to Portland and you probably haven't seen him around.%0a%0a!!!!%25mortal%25 ''Lost Boy (Lost Boy Network)'': %0aChristian is known on the Lost Boy Network as Charlie Lima.%0a%0a!!!!%25mortal%25 ''UFOs, really? (All)'': %0aMy cousin thinks you were a government investigator who showed up when he said he saw a UFO.  Was that really you?%0a%0a----%0a(:div2end:)%0a>>comment%3c%3c%0a(:table table border=0 cellpadding=5 cellspacing=0:)%0a%0a(:cellnr width=100%25:)%0a%0a!!%25center%25%25mortal%25'''Quotes'''%0a%0a%25mortal%25 "I am a quote! Fear me!" -A person with a face. \\%0a%25mage%25 "I am a quote! Fear me!" -A magic person. \\%0a%25vampire%25 "I am a quote! Fear me!" -A person with fangs. \\%0a%25werewolf%25 "I am a quote! Fear me!" -A person that can woof. \\%0a%25changeling%25 "I am a quote! Fear me!" -A person that can shift forms. \\%0a%0a(:tableend:)%0a>>%3c%3c%0a(:include GameRef.Directoryplayermortal:)
-time=1541979149
+text=https://i.imgur.com/JzoVMoX.png%0a(:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://orig00.deviantart.net/aa0f/f/2018/318/8/8/christianbg_by_ldvhl-dcs0jmm.png=]); background-size:500; padding:25px;' width=100%25:)%0a%0a(:table valign=top:)%0a%0a(:cellnr rowspan=30 width=500 align=center:)%0a!!%25center%25%25mortal%25'''Dossier'''%0a%25width=240px%25https://orig00.deviantart.net/c3dd/f/2018/312/8/9/christianloman_by_ldvhl-dcrg5wk.png%0a!!%25center%25%25mortal%25'''Playlist'''%0a*[[https://www.youtube.com/watch?v=YfzrE-nudhg|"Capital G" by Nine Inch Nails]]%0a*[[https://www.youtube.com/watch?v=-ssFjyDIyQ0|"War Pigs" by Black Sabbath]]%0a*[[https://www.youtube.com/watch?v=cWgwy_7hN5c|"Human Rocket" by Devo]]%0a(:cellnr width=260 align=left:)%25mortal%25'''Name:''' %0a(:cell width=440:)Christian Loman%0a(:cellnr width=260 align=left:)%25mortal%25'''Nickname:''' %0a(:cell width=440:)Charlie Lima %0a(:cellnr width=260 align=left:)%25mortal%25'''Virtue/Vice:''' %0a(:cell width=440:)*REDACTED*%0a(:cellnr width=260 align=left:)%25mortal%25'''Public Effects:''' %0a(:cell width=440:)Status 1: Rose City Guild%0aStatus 1: Lost Boy Network%0a(:cellnr width=260 align=left:)%25mortal%25'''Profession:''' %0a(:cell width=440:)Scientific Researcher %0a(:cellnr width=260 align=left:)%25mortal%25'''Age:''' %0a(:cell width=440:)34 %0a(:cellnr width=260 align=left:)%25mortal%25'''Player:''' %0a(:cell width=440:)ldvhl%0a%0a%0a(:tableend:)%0a%0a(:div2 style='background-color:rgba(0,0,0,0.5);' :)%0a----%0a%0a(:div2end:)%0a%0a!!%25center%25%25mortal%25'''Contacts'''%0a%0a||! %25mortal%25Image ||! %25mortal%25Name ||! %25mortal%25Relationship ||! %25mortal%25Comment ||! %25mortal%25Ringtone ||%0a|| %25width=40px%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a%0a(:div2 style='background-color:rgba(0,0,0,0.5);' :)%0a----%0a%0a!!%25center%25%25mortal%25'''Hooks'''%0a%0a!!!!%25mortal%25 ''New to town (All)'': %0aChristian is new to Portland and you probably haven't seen him around.%0a%0a!!!!%25mortal%25 ''Lost Boy (Lost Boy Network)'': %0aChristian is known on the Lost Boy Network as Charlie Lima.%0a%0a!!!!%25mortal%25 ''UFOs, really? (All)'': %0aMy cousin thinks you were a government investigator who showed up when he said he saw a UFO.  Was that really you?%0a%0a----%0a(:div2end:)%0a>>comment%3c%3c%0a(:table table border=0 cellpadding=5 cellspacing=0:)%0a%0a(:cellnr width=100%25:)%0a%0a!!%25center%25%25mortal%25'''Quotes'''%0a%0a%25mortal%25 "I am a quote! Fear me!" -A person with a face. \\%0a%25mage%25 "I am a quote! Fear me!" -A magic person. \\%0a%25vampire%25 "I am a quote! Fear me!" -A person with fangs. \\%0a%25werewolf%25 "I am a quote! Fear me!" -A person that can woof. \\%0a%25changeling%25 "I am a quote! Fear me!" -A person that can shift forms. \\%0a%0a(:tableend:)%0a>>%3c%3c%0a(:include GameRef.Directoryplayermortal:)
+time=1542252948
+author:1542252948=ldvhl
+diff:1542252948:1542252920:=36c36%0a%3c %0a---%0a> >>comment%3c%3c%0a41c41%0a%3c %0a---%0a> >>%3c%3c%0a
+host:1542252948=47.34.61.29
+author:1542252920=ldvhl
+diff:1542252920:1542252653:=36c36%0a%3c >>comment%3c%3c%0a---%0a> %0a41c41%0a%3c >>%3c%3c%0a---%0a> %0a
+host:1542252920=47.34.61.29
+author:1542252653=ldvhl
+diff:1542252653:1542252190:=36c36%0a%3c %0a---%0a> >>comment%3c%3c%0a41c41%0a%3c %0a---%0a> >>%3c%3c%0a
+host:1542252653=47.34.61.29
+author:1542252190=ldvhl
+diff:1542252190:1542252167:=58c58%0a%3c >>comment%3c%3c%0a---%0a> %3c%3ccomment>>%0a72c72%0a%3c >>%3c%3c%0a---%0a> %3c%3c>>%0a
+host:1542252190=47.34.61.29
+author:1542252167=ldvhl
+diff:1542252167:1542252128:=58c58%0a%3c %3c%3ccomment>>%0a---%0a> %0a72c72%0a%3c %3c%3c>>%0a---%0a> %0a
+host:1542252167=47.34.61.29
+author:1542252128=ldvhl
+diff:1542252128:1542252116:=62c62%0a%3c %0a---%0a> >>comment%3c%3c%0a70c70%0a%3c %0a---%0a> >>%3c%3c%0a
+host:1542252128=47.34.61.29
+author:1542252116=ldvhl
+diff:1542252116:1542252104:=70a71%0a> ----%0a
+host:1542252116=47.34.61.29
+author:1542252104=ldvhl
+diff:1542252104:1542252005:=71d70%0a%3c ----%0a
+host:1542252104=47.34.61.29
+author:1542252005=ldvhl
+diff:1542252005:1542251985:=55c55%0a%3c %0a---%0a> >>comment%3c%3c%0a62c62%0a%3c >>comment%3c%3c%0a---%0a> %0a
+host:1542252005=47.34.61.29
+author:1542251985=ldvhl
+diff:1542251985:1542251901:=55c55%0a%3c >>comment%3c%3c%0a---%0a> %0a60c60%0a%3c %0a---%0a> >>comment%3c%3c%0a
+host:1542251985=47.34.61.29
+author:1542251901=ldvhl
+diff:1542251901:1542251686:=58,59d57%0a%3c %0a%3c (:table table border=0 cellpadding=5 cellspacing=0:)%0a60a59,60%0a> (:table table border=0 cellpadding=5 cellspacing=0:)%0a> %0a69a70,71%0a> %0a> (:tableend:)%0a71,72d72%0a%3c (:tableend:)%0a%3c %0a
+host:1542251901=47.34.61.29
+author:1542251686=ldvhl
+diff:1542251686:1541979149:=2c2%0a%3c (:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://orig00.deviantart.net/aa0f/f/2018/318/8/8/christianbg_by_ldvhl-dcs0jmm.png=]); background-size:500; padding:25px;' width=100%25:)%0a---%0a> (:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://i.imgur.com/uh9kq5r.png=]); background-size:500; padding:25px;' width=100%25:)%0a
+host:1542251686=47.34.61.29
 author:1541979149=ldvhl
 diff:1541979149:1541979138:=8c8%0a%3c %25width=240px%25https://orig00.deviantart.net/c3dd/f/2018/312/8/9/christianloman_by_ldvhl-dcrg5wk.png%0a---%0a> %25width=340px%25https://orig00.deviantart.net/c3dd/f/2018/312/8/9/christianloman_by_ldvhl-dcrg5wk.png%0a
 host:1541979149=47.34.61.29
