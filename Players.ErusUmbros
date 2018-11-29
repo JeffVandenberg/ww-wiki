@@ -1,0 +1,15 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+author=ErusUmbros
+charset=ISO-8859-1
+csum=
+ctime=1543452989
+host=50.27.160.191
+name=Players.ErusUmbros
+rev=1
+targets=
+text=An elder geek who's been around the block a time or three.%0a%0aI was there for New Bremen. I saw the start with a bright flash and I witnessed the end of all %0athings, and all games by the decree of the Great White Wolf itself.%0a%0aI saw many others rise to take its place. Each came, shone bright and then passed off into the %0adigital sunset.%0a%0aMore recently I saw Immortal Vigilance rise, stepped in to offer my skills with a story, and in %0akeeping the place going while others stepped away after a long stewardship. I saw many things, %0amany games, many people...but in the end I witnessed it end with a whimper and sigh.%0a%0aYou could say I've been at this for a long time.%0a%0aNow I'm just a lurking presence, observing and quiet.%0a%0aNothing to see here.
+time=1543452989
+author:1543452989=ErusUmbros
+diff:1543452989:1543452989:=1,17d0%0a%3c An elder geek who's been around the block a time or three.%0a%3c %0a%3c I was there for New Bremen. I saw the start with a bright flash and I witnessed the end of all %0a%3c things, and all games by the decree of the Great White Wolf itself.%0a%3c %0a%3c I saw many others rise to take its place. Each came, shone bright and then passed off into the %0a%3c digital sunset.%0a%3c %0a%3c More recently I saw Immortal Vigilance rise, stepped in to offer my skills with a story, and in %0a%3c keeping the place going while others stepped away after a long stewardship. I saw many things, %0a%3c many games, many people...but in the end I witnessed it end with a whimper and sigh.%0a%3c %0a%3c You could say I've been at this for a long time.%0a%3c %0a%3c Now I'm just a lurking presence, observing and quiet.%0a%3c %0a%3c Nothing to see here.%0a\ No newline at end of file%0a
+host:1543452989=50.27.160.191
