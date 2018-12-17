@@ -1,0 +1,15 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+author=Scarecrow
+charset=ISO-8859-1
+csum=
+ctime=1545016492
+host=97.120.192.77
+name=Players.MonicaFarrow
+rev=1
+targets=Players.MercyHopewell
+text=!!Dossier %25rfloat text-align=center border='2px solid #6e68a3' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=450px height=500px%25 https://i.imgur.com/yR9tBc8.jpg%0a:Public Effects: %0a:Profession: Unknown%0a:Concept: Ghoul%0a:Age: Mid- late 20's%0a:Domitor: [[Mercy Hopewell]]%0a:Player: NPC%0a!!Description%0aMonica frequently is seen in the company of Mercy, frequently keeping a low profile and watching as things go down. Now and then she's seen hiding behind the screen of a phone or a laptop computer while listening to conversations taking place. Her caramel colored skin a sharp contrast to Mercy's bone white pale flesh. She's typically dressed in casual clothing, basically whatever she threw on that day. 
+time=1545016492
+author:1545016492=Scarecrow
+diff:1545016492:1545016492:=1,9d0%0a%3c !!Dossier %25rfloat text-align=center border='2px solid #6e68a3' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=450px height=500px%25 https://i.imgur.com/yR9tBc8.jpg%0a%3c :Public Effects: %0a%3c :Profession: Unknown%0a%3c :Concept: Ghoul%0a%3c :Age: Mid- late 20's%0a%3c :Domitor: [[Mercy Hopewell]]%0a%3c :Player: NPC%0a%3c !!Description%0a%3c Monica frequently is seen in the company of Mercy, frequently keeping a low profile and watching as things go down. Now and then she's seen hiding behind the screen of a phone or a laptop computer while listening to conversations taking place. Her caramel colored skin a sharp contrast to Mercy's bone white pale flesh. She's typically dressed in casual clothing, basically whatever she threw on that day. %0a\ No newline at end of file%0a
+host:1545016492=97.120.192.77
