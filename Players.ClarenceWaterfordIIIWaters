@@ -1,0 +1,15 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134
+author=xodusprime
+charset=ISO-8859-1
+csum=
+ctime=1545105936
+host=97.91.180.3
+name=Players.ClarenceWaterfordIIIWaters
+rev=1
+targets=
+text=Place holder.
+time=1545105936
+author:1545105936=xodusprime
+diff:1545105936:1545105936:=1d0%0a%3c Place holder.%0a\ No newline at end of file%0a
+host:1545105936=97.91.180.3
