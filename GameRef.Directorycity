@@ -1,15 +1,18 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
 author=AnneB
 charset=ISO-8859-1
 csum=
 ctime=1528589039
-host=71.222.65.124
+host=71.222.21.221
 name=GameRef.Directorycity
-rev=6
-targets=City.Districts,City.City,City.Neighborhoods,City.Spheres,City.MysteryCult,City.Embassy
-text=|| border=1 align=center width=100%25%0a|| [[https://wantonwicked.gamingsandbox.com/mapww5/map.html|Map]] || [[City.Districts|Districts]] ||  Directory: Portland, Oregon  || [[City.City|City]] || [[City.Neighborhoods|Neighborhoods]] ||%0a|| [[City.Spheres|Spheres]] || [[City.MysteryCult|Mystery Cults]] || City of Roses || [[City.Embassy|Embassy]] || [[https://wantonwicked.gamingsandbox.com/characters/cast/|Cast List]] ||%0a
-time=1531426387
+rev=7
+targets=City.Districts,City.City,City.Neighborhoods,City.MysteryCult
+text=|| border=1 align=center width=100%25%0a|| [[https://wantonwicked.gamingsandbox.com/mapww5/map.html|Map]] || [[City.Districts|Districts]] ||  Directory: Miami, Florida  || [[City.City|City]] || [[City.Neighborhoods|Neighborhoods]] ||%0a|| [[City.MysteryCult|Mystery Cults]] || || The Magic City || || [[https://wantonwicked.gamingsandbox.com/characters/cast/|Cast List]] ||%0a
+time=1568506705
+author:1568506705=AnneB
+diff:1568506705:1531426387:=2,3c2,3%0a%3c || [[https://wantonwicked.gamingsandbox.com/mapww5/map.html|Map]] || [[City.Districts|Districts]] ||  Directory: Miami, Florida  || [[City.City|City]] || [[City.Neighborhoods|Neighborhoods]] ||%0a%3c || [[City.MysteryCult|Mystery Cults]] || || The Magic City || || [[https://wantonwicked.gamingsandbox.com/characters/cast/|Cast List]] ||%0a---%0a> || [[https://wantonwicked.gamingsandbox.com/mapww5/map.html|Map]] || [[City.Districts|Districts]] ||  Directory: Portland, Oregon  || [[City.City|City]] || [[City.Neighborhoods|Neighborhoods]] ||%0a> || [[City.Spheres|Spheres]] || [[City.MysteryCult|Mystery Cults]] || City of Roses || [[City.Embassy|Embassy]] || [[https://wantonwicked.gamingsandbox.com/characters/cast/|Cast List]] ||%0a
+host:1568506705=71.222.21.221
 author:1531426387=AnneB
 diff:1531426387:1531426286:=2,3c2,3%0a%3c || [[https://wantonwicked.gamingsandbox.com/mapww5/map.html|Map]] || [[City.Districts|Districts]] ||  Directory: Portland, Oregon  || [[City.City|City]] || [[City.Neighborhoods|Neighborhoods]] ||%0a%3c || [[City.Spheres|Spheres]] || [[City.MysteryCult|Mystery Cults]] || City of Roses || [[City.Embassy|Embassy]] || [[https://wantonwicked.gamingsandbox.com/characters/cast/|Cast List]] ||%0a---%0a> || [[City.Neighborhoods|Neighborhoods]] || [[City.Districts|Districts]] ||  Directory: Portland, Oregon  || [[City.Spheres|Spheres]] || [[https://wantonwicked.gamingsandbox.com/mapww5/map.html|Map]] ||%0a> || [[City.City|City]] || [[City.MysteryCult|Mystery Cults]] || City of Roses || [[City.Embassy|Embassy]] || [[https://wantonwicked.gamingsandbox.com/characters/cast/|Cast List]] ||%0a
 host:1531426387=71.222.65.124
