@@ -1,9 +1,9 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:64.0) Gecko/20100101 Firefox/64.0
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
 charset=ISO-8859-1
 ctime=1516719396
-host=98.214.125.97
+host=71.222.94.109
 name=Werewolf.RecentChanges
-rev=129
-text=* [[Werewolf.Society | Society]]  . . . January 22, 2019, at 05:51 PM by [[~Trish]]: [==]%0a* [[Werewolf.Locations | Locations]]  . . . December 29, 2018, at 12:05 PM by [[~AnneB]]: [==]%0a* [[Werewolf.PlayerGuide | Player Guide]]  . . . July 23, 2018, at 02:03 AM by [[~Selcouth]]: [==]%0a* [[Werewolf.Werewolf | Werewolf]]  . . . July 23, 2018, at 02:03 AM by [[~Selcouth]]: [==]%0a* [[Werewolf.History | History]]  . . . July 23, 2018, at 02:02 AM by [[~Selcouth]]: [==]%0a
-time=1548208271
+rev=134
+text=* [[Werewolf.PlayerGuide | Player Guide]]  . . . November 01, 2019, at 10:24 PM by [[~AnneB]]: [==]%0a* [[Werewolf.Locations | Locations]]  . . . November 01, 2019, at 10:24 PM by [[~AnneB]]: [==]%0a* [[Werewolf.History | History]]  . . . November 01, 2019, at 10:23 PM by [[~AnneB]]: [==]%0a* [[Werewolf.Society | Society]]  . . . November 01, 2019, at 10:23 PM by [[~AnneB]]: [==]%0a* [[Werewolf.Werewolf | Werewolf]]  . . . November 01, 2019, at 10:23 PM by [[~AnneB]]: [==]%0a
+time=1572672257
