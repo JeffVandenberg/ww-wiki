@@ -1,0 +1,15 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+author=Foo
+charset=ISO-8859-1
+csum=
+ctime=1572726600
+host=198.85.222.29
+name=Players.YourCharacterName
+rev=1
+targets=
+text=Eris Negate
+time=1572726600
+author:1572726600=Foo
+diff:1572726600:1572726600:=1d0%0a%3c Eris Negate%0a\ No newline at end of file%0a
+host:1572726600=198.85.222.29
