@@ -1,15 +1,27 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
 author=AnneB
 charset=ISO-8859-1
 csum=
 ctime=1528589039
-host=71.222.21.221
+host=71.222.13.189
 name=GameRef.Directorycity
-rev=7
-targets=City.Districts,City.City,City.Neighborhoods,City.MysteryCult
-text=|| border=1 align=center width=100%25%0a|| [[https://wantonwicked.gamingsandbox.com/mapww5/map.html|Map]] || [[City.Districts|Districts]] ||  Directory: Miami, Florida  || [[City.City|City]] || [[City.Neighborhoods|Neighborhoods]] ||%0a|| [[City.MysteryCult|Mystery Cults]] || || The Magic City || || [[https://wantonwicked.gamingsandbox.com/characters/cast/|Cast List]] ||%0a
-time=1568506705
+rev=11
+targets=City.City,City.Districts,City.Spheres,City.MysteryCult
+text=|| border=1 align=center width=100%25%0a|| [[https://wantonwicked.gamingsandbox.com/map|Map]] || [[City.City|City]] ||  Directory: Miami, Florida  || [[City.Districts|Districts]] || [[City.Spheres|Spheres]] ||%0a|| [[City.MysteryCult|Mystery Cult]] || || The Magic City || || [[https://wantonwicked.gamingsandbox.com/characters/cast/|Cast List]] ||%0a
+time=1574027507
+author:1574027507=AnneB
+diff:1574027507:1574008625:=2c2%0a%3c || [[https://wantonwicked.gamingsandbox.com/map|Map]] || [[City.City|City]] ||  Directory: Miami, Florida  || [[City.Districts|Districts]] || [[City.Spheres|Spheres]] ||%0a---%0a> || [[https://wantonwicked.gamingsandbox.com/mapww5/map.html|Map]] || [[City.City|City]] ||  Directory: Miami, Florida  || [[City.Districts|Districts]] || [[City.Spheres|Spheres]] ||%0a
+host:1574027507=71.222.13.189
+author:1574008625=AnneB
+diff:1574008625:1574008593:=2c2%0a%3c || [[https://wantonwicked.gamingsandbox.com/mapww5/map.html|Map]] || [[City.City|City]] ||  Directory: Miami, Florida  || [[City.Districts|Districts]] || [[City.Spheres|Spheres]] ||%0a---%0a> || [[https://wantonwicked.gamingsandbox.com/mapww5/map.html|Map]] || [[City.Districts|Districts]] ||  Directory: Miami, Florida  || [[City.City|City]] || [[City.Spheres|Spheres]] ||%0a
+host:1574008625=71.222.13.189
+author:1574008593=AnneB
+diff:1574008593:1574008497:=3c3%0a%3c || [[City.MysteryCult|Mystery Cult]] || || The Magic City || || [[https://wantonwicked.gamingsandbox.com/characters/cast/|Cast List]] ||%0a---%0a> || [[City.MysteryCult|Mystery Cults]] || || The Magic City || || [[https://wantonwicked.gamingsandbox.com/characters/cast/|Cast List]] ||%0a
+host:1574008593=71.222.13.189
+author:1574008497=AnneB
+diff:1574008497:1568506705:=2c2%0a%3c || [[https://wantonwicked.gamingsandbox.com/mapww5/map.html|Map]] || [[City.Districts|Districts]] ||  Directory: Miami, Florida  || [[City.City|City]] || [[City.Spheres|Spheres]] ||%0a---%0a> || [[https://wantonwicked.gamingsandbox.com/mapww5/map.html|Map]] || [[City.Districts|Districts]] ||  Directory: Miami, Florida  || [[City.City|City]] || [[City.Neighborhoods|Neighborhoods]] ||%0a
+host:1574008497=71.222.13.189
 author:1568506705=AnneB
 diff:1568506705:1531426387:=2,3c2,3%0a%3c || [[https://wantonwicked.gamingsandbox.com/mapww5/map.html|Map]] || [[City.Districts|Districts]] ||  Directory: Miami, Florida  || [[City.City|City]] || [[City.Neighborhoods|Neighborhoods]] ||%0a%3c || [[City.MysteryCult|Mystery Cults]] || || The Magic City || || [[https://wantonwicked.gamingsandbox.com/characters/cast/|Cast List]] ||%0a---%0a> || [[https://wantonwicked.gamingsandbox.com/mapww5/map.html|Map]] || [[City.Districts|Districts]] ||  Directory: Portland, Oregon  || [[City.City|City]] || [[City.Neighborhoods|Neighborhoods]] ||%0a> || [[City.Spheres|Spheres]] || [[City.MysteryCult|Mystery Cults]] || City of Roses || [[City.Embassy|Embassy]] || [[https://wantonwicked.gamingsandbox.com/characters/cast/|Cast List]] ||%0a
 host:1568506705=71.222.21.221
