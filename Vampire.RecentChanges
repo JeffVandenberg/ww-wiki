@@ -1,9 +1,9 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/18.17763
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0
 charset=ISO-8859-1
 ctime=1516715976
-host=107.209.173.191
+host=172.101.6.22
 name=Vampire.RecentChanges
-rev=172
-text=* [[Vampire.Society | Society]]  . . . November 18, 2019, at 10:44 AM by [[~Psychoclown]]: [==]%0a* [[Vampire.Vampire | Vampire]]  . . . November 10, 2019, at 03:02 AM by [[~Cinn]]: [==]%0a* [[Vampire.PlayerGuide | Player Guide]]  . . . November 02, 2019, at 03:31 PM by [[~Falco1029]]: [==]%0a* [[Vampire.Locations | Locations]]  . . . November 01, 2019, at 10:22 PM by [[~AnneB]]: [==]%0a* [[Vampire.History | History]]  . . . November 01, 2019, at 10:22 PM by [[~AnneB]]: [==]%0a* [[Vampire.KindredLaw | Kindred Law]]  . . . May 22, 2018, at 12:20 PM by [[~AndreaM]]: [==]%0a* [[Vampire.TheCourt | The Court]]  . . . May 18, 2018, at 10:19 AM by [[~AndreaM]]: [==]%0a
-time=1574102674
+rev=175
+text=* [[Vampire.Society | Society]]  . . . December 07, 2019, at 12:31 AM by [[~MichaelS]]: [==]%0a* [[Vampire.History | History]]  . . . December 07, 2019, at 12:21 AM by [[~MichaelS]]: [==]%0a* [[Vampire.Vampire | Vampire]]  . . . November 10, 2019, at 03:02 AM by [[~Cinn]]: [==]%0a* [[Vampire.PlayerGuide | Player Guide]]  . . . November 02, 2019, at 03:31 PM by [[~Falco1029]]: [==]%0a* [[Vampire.Locations | Locations]]  . . . November 01, 2019, at 10:22 PM by [[~AnneB]]: [==]%0a* [[Vampire.KindredLaw | Kindred Law]]  . . . May 22, 2018, at 12:20 PM by [[~AndreaM]]: [==]%0a* [[Vampire.TheCourt | The Court]]  . . . May 18, 2018, at 10:19 AM by [[~AndreaM]]: [==]%0a
+time=1575707460
