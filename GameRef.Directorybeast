@@ -1,15 +1,18 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
 author=AnneB
 charset=ISO-8859-1
 csum=
 ctime=1572668196
-host=71.222.94.109
+host=75.163.20.249
 name=GameRef.Directorybeast
-rev=2
+rev=3
 targets=GameRef.CharacterCreation,City.City,GameRef.HouseRules,Beast.Society,Beast.History,Beast.Beast,Beast.Locations,Beast.PlayerGuide
 text=|| border=1 align=center width=100%25%0a|| %25beast%25[[GameRef.CharacterCreation|Character Creation]] || [[City.City|The City]] || %25beast%25Directory: Beast The Primordial || [[https://wantonwicked.gamingsandbox.com/characters/cast/beast|Beast Cast List]] || [[GameRef.HouseRules|House Rules]] ||%0a|| %25beast%25[[beast.society|Society]] || [[beast.history|History]]  || [[beast.beast|About the Venue]] || [[beast.locations|Locations]] || [[beast.PlayerGuide|Player Guide]] ||
-time=1572668250
+time=1576128614
+author:1576128614=AnneB
+diff:1576128614:1572668250:=
+host:1576128614=75.163.20.249
 author:1572668250=AnneB
 diff:1572668250:1572668196:=2,3c2,3%0a%3c || %25beast%25[[GameRef.CharacterCreation|Character Creation]] || [[City.City|The City]] || %25beast%25Directory: Beast The Primordial || [[https://wantonwicked.gamingsandbox.com/characters/cast/beast|Beast Cast List]] || [[GameRef.HouseRules|House Rules]] ||%0a%3c || %25beast%25[[beast.society|Society]] || [[beast.history|History]]  || [[beast.beast|About the Venue]] || [[beast.locations|Locations]] || [[beast.PlayerGuide|Player Guide]] ||%0a\ No newline at end of file%0a---%0a> || %25changeling%25[[GameRef.CharacterCreation|Character Creation]] || [[City.City|The City]] || %25changeling%25Directory: Changeling the Lost || [[https://wantonwicked.gamingsandbox.com/characters/cast/beast|Beast Cast List]] || [[GameRef.HouseRules|House Rules]] ||%0a> || %25changeling%25[[beast.society|Society]] || [[beast.history|History]]  || [[beast.beast|About the Venue]] || [[beast.locations|Locations]] || [[beast.PlayerGuide|Player Guide]] ||%0a\ No newline at end of file%0a
 host:1572668250=71.222.94.109

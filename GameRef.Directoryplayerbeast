@@ -1,0 +1,15 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+author=AnneB
+charset=ISO-8859-1
+csum=
+ctime=1576128609
+host=75.163.20.249
+name=GameRef.Directoryplayerbeast
+rev=1
+targets=GameRef.CharacterCreation,City.City,GameRef.HouseRules,Beast.Society,Beast.History,Beast.Beast,Beast.Locations,Beast.PlayerGuide
+text=|| border=1 align=center width=100%25%0a|| %25beast%25[[GameRef.CharacterCreation|Character Creation]] || [[City.City|The City]] || %25beast%25Directory: Beast The Primordial || [[https://wantonwicked.gamingsandbox.com/characters/cast/beast|Beast Cast List]] || [[GameRef.HouseRules|House Rules]] ||%0a|| %25beast%25[[beast.society|Society]] || [[beast.history|History]]  || [[beast.beast|About the Venue]] || [[beast.locations|Locations]] || [[beast.PlayerGuide|Player Guide]] ||
+time=1576128609
+author:1576128609=AnneB
+diff:1576128609:1576128609:=1,3d0%0a%3c || border=1 align=center width=100%25%0a%3c || %25beast%25[[GameRef.CharacterCreation|Character Creation]] || [[City.City|The City]] || %25beast%25Directory: Beast The Primordial || [[https://wantonwicked.gamingsandbox.com/characters/cast/beast|Beast Cast List]] || [[GameRef.HouseRules|House Rules]] ||%0a%3c || %25beast%25[[beast.society|Society]] || [[beast.history|History]]  || [[beast.beast|About the Venue]] || [[beast.locations|Locations]] || [[beast.PlayerGuide|Player Guide]] ||%0a\ No newline at end of file%0a
+host:1576128609=75.163.20.249
