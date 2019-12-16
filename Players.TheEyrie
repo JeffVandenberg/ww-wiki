@@ -1,15 +1,18 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
-author=ZeroFoxGiven
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+author=AnneB
 charset=ISO-8859-1
 csum=
 ctime=1573228692
-host=184.89.80.23
+host=75.163.20.249
 name=Players.TheEyrie
-rev=6
+rev=7
 targets=Players.MichaelYoussef,Players.MarkusKincaid,Players.DexSecundinus
-text=https://i.imgur.com/wcCfdI8.png%0a(:table valign=top:)%0a(:table table border=0 cellpadding=3 cellspacing=0:)%0a!%25center%25https://imgur.com/v0sGZo4.png%0a(:cellnr align=center:)[++[[MichaelYoussef|Micheal]]++]%0a(:cell align=center:)[++[[MarkusKincaid|'K']]++]%0a(:cell align=center:)[++[[DexSecundinus|Dex]]++]%0a(:cellnr align=center  style='background-color:black;' :)%25width=300px%25https://imgur.com/YEnVzu5.jpg %0a(:cell align=center  style='background-color:black;' :)%25width=300px%25https://imgur.com/NIup0t5.jpg%0a(:cell align=center  style='background-color:black;' :)%25width=300px%25https://imgur.com/aoxZRl3.jpg %0a(:cellnr align=center:)Shadow Dragon%0a(:cell align=center:)Shadow Dragon%0a(:cell align=center:)Savage Dragon%0a(:tableend:)%0a%0a(:table table border=0 cellpadding=3 cellspacing=0:)%0a(:cellnr width=50%25 align=center:)%25vampire%25'''Theme:''' %0a(:cell align=center width=50%25:)%25vampire%25'''Merits'''%0a(:cellnr width=50%25 align=left  style='background-color:black;' :)%0a*Pursuit of Power, %0a*Knowledge and Research%0a*Self-Growth%0a(:cell width=50%25 align=left  style='background-color:black;' :)%0a*Nest Guardian 3%0a*Library%0a*Feng Shui%0a(:tableend:)%0a%0a(:table table border=0 cellpadding=3 cellspacing=0:)%0a(:cellnr width=100%25 align=center:)%25vampire%25'''Territory:''' %0a(:cellnr width=50%25 style='background-color:black;' :)%0a%25rfloat text-align=center border='2px solid #9e0b0f' margin-top=0px width=320 margin-right=20px margin-bottom=15px margin-left=7px newwin%25https://imgur.com/IoL0tWX.png%0a(:tableend:)
-time=1573703602
+text=https://i.imgur.com/xCFJSxU.png%0a(:table valign=top:)%0a(:table table border=0 cellpadding=3 cellspacing=0:)%0a!%25center%25https://imgur.com/v0sGZo4.png%0a(:cellnr align=center:)[++[[MichaelYoussef|Micheal]]++]%0a(:cell align=center:)[++[[MarkusKincaid|'K']]++]%0a(:cell align=center:)[++[[DexSecundinus|Dex]]++]%0a(:cellnr align=center  style='background-color:black;' :)%25width=300px%25https://imgur.com/YEnVzu5.jpg %0a(:cell align=center  style='background-color:black;' :)%25width=300px%25https://imgur.com/NIup0t5.jpg%0a(:cell align=center  style='background-color:black;' :)%25width=300px%25https://imgur.com/aoxZRl3.jpg %0a(:cellnr align=center:)Shadow Dragon%0a(:cell align=center:)Shadow Dragon%0a(:cell align=center:)Savage Dragon%0a(:tableend:)%0a%0a(:table table border=0 cellpadding=3 cellspacing=0:)%0a(:cellnr width=50%25 align=center:)%25vampire%25'''Theme:''' %0a(:cell align=center width=50%25:)%25vampire%25'''Merits'''%0a(:cellnr width=50%25 align=left  style='background-color:black;' :)%0a*Pursuit of Power, %0a*Knowledge and Research%0a*Self-Growth%0a(:cell width=50%25 align=left  style='background-color:black;' :)%0a*Nest Guardian 3%0a*Library%0a*Feng Shui%0a(:tableend:)%0a%0a(:table table border=0 cellpadding=3 cellspacing=0:)%0a(:cellnr width=100%25 align=center:)%25vampire%25'''Territory:''' %0a(:cellnr width=50%25 style='background-color:black;' :)%0a%25rfloat text-align=center border='2px solid #9e0b0f' margin-top=0px width=320 margin-right=20px margin-bottom=15px margin-left=7px newwin%25https://imgur.com/IoL0tWX.png%0a(:tableend:)
+time=1576437758
+author:1576437758=AnneB
+diff:1576437758:1573703602:=1c1%0a%3c https://i.imgur.com/xCFJSxU.png%0a---%0a> https://i.imgur.com/wcCfdI8.png%0a
+host:1576437758=75.163.20.249
 author:1573703602=ZeroFoxGiven
 diff:1573703602:1573618137:=5,7c5,7%0a%3c (:cellnr align=center:)[++[[MichaelYoussef|Micheal]]++]%0a%3c (:cell align=center:)[++[[MarkusKincaid|'K']]++]%0a%3c (:cell align=center:)[++[[DexSecundinus|Dex]]++]%0a---%0a> (:cellnr align=center:)Micheal%0a> (:cell align=center:)Markus%0a> (:cell align=center:)Dex%0a
 host:1573703602=184.89.80.23
