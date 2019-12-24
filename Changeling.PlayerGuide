@@ -1,15 +1,18 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
-author=CaitlinB
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0
+author=Falco1029
 charset=ISO-8859-1
 csum=
 ctime=1516716021
-host=73.19.144.40
+host=173.46.225.202
 name=Changeling.PlayerGuide
-rev=30
+rev=31
 targets=Changeling.Kiths
-text=https://i.imgur.com/cUqMJOo.png%0a(:include GameRef.Directorychangeling:)%0a----%0a!%25center%25https://i.imgur.com/n4Gypoi.png%0a----%0a%0a%25center%25''“We don’t do, we just are!”'' \\%0a%25center%25- '''Michael Alig''' - \\%0a\\%0a%0a(:toc:)%0a[[#top]]%0a%0a%0a!!%25center%25%25changeling%25'''Kith Conversions'''%25%25%0aDue to the shortened list of kiths in the second edition corebook for Changeling, a number of the kiths presented in the original playtest have been reviewed and updated to match the changes made to the system since that playtest was released.  Those kiths can be found [[Changeling/Kiths|here]], and have been approved for play.%0a%0a!!%25center%25%25changeling%25'''Approved Custom Items and Traits'''%25%25%0a%0a(:include GameRef.CustomItemsAndPowers#from3#to3:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include GameRef.Directoryhelp:)%0a
-time=1576639119
+text=https://i.imgur.com/cUqMJOo.png%0a(:include GameRef.Directorychangeling:)%0a----%0a!%25center%25https://i.imgur.com/n4Gypoi.png%0a----%0a%0a%25center%25''“We don’t do, we just are!”'' \\%0a%25center%25- '''Michael Alig''' - \\%0a\\%0a%0a(:toc:)%0a[[#top]]%0a[[#from1]]%0a%0a!!%25center%25%25changeling%25'''Kith Conversions'''%25%25%0aDue to the shortened list of kiths in the second edition corebook for Changeling, a number of the kiths presented in the original playtest have been reviewed and updated to match the changes made to the system since that playtest was released.  Those kiths can be found [[Changeling/Kiths|here]], and have been approved for play.%0a%0a!!%25center%25%25changeling%25'''Approved Custom Items and Traits'''%25%25%0a%0a(:include GameRef.CustomItemsAndPowers#from3#to3:)%0a[[#to1]]%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include GameRef.Directoryhelp:)%0a
+time=1577141851
+author:1577141851=Falco1029
+diff:1577141851:1576639119:=13,14c13,14%0a%3c [[#from1]]%0a%3c %0a---%0a> %0a> %0a21c21%0a%3c [[#to1]]%0a---%0a> %0a
+host:1577141851=173.46.225.202
 author:1576639119=CaitlinB
 diff:1576639119:1572733833:minor=14,16d13%0a%3c %0a%3c !!%25center%25%25changeling%25'''Kith Conversions'''%25%25%0a%3c Due to the shortened list of kiths in the second edition corebook for Changeling, a number of the kiths presented in the original playtest have been reviewed and updated to match the changes made to the system since that playtest was released.  Those kiths can be found [[Changeling/Kiths|here]], and have been approved for play.%0a
 host:1576639119=73.19.144.40

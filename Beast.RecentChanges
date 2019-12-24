@@ -1,9 +1,9 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0
 charset=ISO-8859-1
 ctime=1572668299
-host=67.171.130.93
+host=173.46.225.202
 name=Beast.RecentChanges
-rev=13
-text=* [[Beast.Beast | Beast]]  . . . December 19, 2019, at 11:54 AM by [[~SpiderB]]: [==]%0a* [[Beast.PlayerGuide | Player Guide]]  . . . December 09, 2019, at 07:15 PM by [[~Falco1029]]: [==]%0a* [[Beast.Society | Society]]  . . . November 01, 2019, at 10:01 PM by [[~AnneB]]: [==]%0a* [[Beast.History | History]]  . . . November 01, 2019, at 09:49 PM by [[~AnneB]]: [==]%0a* [[Beast.Locations | Locations]]  . . . November 01, 2019, at 09:37 PM by [[~AnneB]]: [==]%0a
-time=1576785259
+rev=14
+text=* [[Beast.PlayerGuide | Player Guide]]  . . . December 23, 2019, at 02:56 PM by [[~Falco1029]]: [==]%0a* [[Beast.Beast | Beast]]  . . . December 19, 2019, at 11:54 AM by [[~SpiderB]]: [==]%0a* [[Beast.Society | Society]]  . . . November 01, 2019, at 10:01 PM by [[~AnneB]]: [==]%0a* [[Beast.History | History]]  . . . November 01, 2019, at 09:49 PM by [[~AnneB]]: [==]%0a* [[Beast.Locations | Locations]]  . . . November 01, 2019, at 09:37 PM by [[~AnneB]]: [==]%0a
+time=1577141807
