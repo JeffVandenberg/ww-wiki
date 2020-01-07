@@ -1,0 +1,15 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+author=AnneB
+charset=ISO-8859-1
+csum=
+ctime=1578367962
+host=75.163.20.249
+name=Players.AnneB
+rev=1
+targets=
+text=(:redirect Profiles.AnneB:)
+time=1578367962
+author:1578367962=AnneB
+diff:1578367962:1578367962:=1d0%0a%3c (:redirect Profiles.AnneB:)%0a\ No newline at end of file%0a
+host:1578367962=75.163.20.249
