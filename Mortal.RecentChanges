@@ -1,9 +1,9 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36
 charset=ISO-8859-1
 ctime=1516719987
-host=173.46.225.202
+host=71.222.46.230
 name=Mortal.RecentChanges
-rev=114
-text=* [[Mortal.PlayerGuide | Player Guide]]  . . . December 23, 2019, at 02:58 PM by [[~Falco1029]]: [==]%0a* [[Mortal.Society | Society]]  . . . December 21, 2019, at 01:02 PM by [[~DaveH]]: [==]%0a* [[Mortal.Mortal | Mortal]]  . . . November 29, 2019, at 09:51 AM by [[~DaveH]]: [==]%0a* [[Mortal.Locations | Locations]]  . . . November 01, 2019, at 10:21 PM by [[~AnneB]]: [==]%0a* [[Mortal.History | History]]  . . . November 01, 2019, at 10:20 PM by [[~AnneB]]: [==]%0a
-time=1577141892
+rev=115
+text=* [[Mortal.PlayerGuide | Player Guide]]  . . . January 18, 2020, at 04:55 PM by [[~Selcouth]]: [==]%0a* [[Mortal.Society | Society]]  . . . December 21, 2019, at 01:02 PM by [[~DaveH]]: [==]%0a* [[Mortal.Mortal | Mortal]]  . . . November 29, 2019, at 09:51 AM by [[~DaveH]]: [==]%0a* [[Mortal.Locations | Locations]]  . . . November 01, 2019, at 10:21 PM by [[~AnneB]]: [==]%0a* [[Mortal.History | History]]  . . . November 01, 2019, at 10:20 PM by [[~AnneB]]: [==]%0a
+time=1579395306
