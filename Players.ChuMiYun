@@ -1,15 +1,18 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
-author=Dreams of Sublimity
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0
+author=The_stekpanna
 charset=ISO-8859-1
 csum=
 ctime=1579473721
 host=213.113.173.158
 name=Players.ChuMiYun
-rev=17
+rev=18
 targets=
-text=https://i.imgur.com/xCFJSxU.png%0a%0ahttps://i.imgur.com/kcxMnC7.png%0a%25newwin%25 [[https://www.youtube.com/watch?v=4alAfL1OcZg|https://i.imgur.com/8Zvp840.png]]%0a%25newwin%25 [[https://www.youtube.com/watch?v=x3kx5OV1zXo|https://i.imgur.com/Y9Rbn2q.png]]%0a%25newwin%25 [[https://www.youtube.com/watch?v=XtM9t7MwdEA|https://i.imgur.com/E5RoWRi.png]]%0ahttps://i.imgur.com/k1XbL3D.png%0ahttps://i.imgur.com/zaG2vJ4.png%0a%25newwin%25 [[https://wantonwicked.gamingsandbox.com/wiki/?n=Players.AnahitaShahzad|https://i.imgur.com/Aoa8whd.png]]%0a%25newwin%25 [[https://wantonwicked.gamingsandbox.com/wiki/?n=Players.EmmaDarling|https://i.imgur.com/o9sJdvI.png]]%0ahttps://i.imgur.com/vP71tdK.png%0ahttps://i.imgur.com/14AF7Lz.png%0a(:table table border=0 cellpadding=5 cellspacing=0:)%0a(:cellnr width=100%25:)%0a%0a!!%25center%25%25vampire%25%0a%0a%25mortal%25 "I am a quote! Fear me!" -A person with a face. \\%0a%25mage%25 "I am a quote! Fear me!" -A magic person. \\%0a%25vampire%25 "I am a quote! Fear me!" -A person with fangs. \\%0a%25werewolf%25 "I am a quote! Fear me!" -A person that can woof. \\%0a%25changeling%25 "I am a quote! Fear me!" -A person that can shift forms. \\%0a%0a(:tableend:)%0a%25center%25https://i.imgur.com/UXxEbTu.gif%0a%0a(:include GameRef.Directoryplayervampire:)
-time=1579687037
+text=https://i.imgur.com/xCFJSxU.png%0a%0ahttps://i.imgur.com/kcxMnC7.png%0a%25newwin%25 [[https://www.youtube.com/watch?v=4alAfL1OcZg|https://i.imgur.com/8Zvp840.png]]%0a%25newwin%25 [[https://www.youtube.com/watch?v=x3kx5OV1zXo|https://i.imgur.com/Y9Rbn2q.png]]%0a%25newwin%25 [[https://www.youtube.com/watch?v=XtM9t7MwdEA|https://i.imgur.com/E5RoWRi.png]]%0ahttps://i.imgur.com/k1XbL3D.png%0ahttps://i.imgur.com/zaG2vJ4.png%0a%25newwin%25 [[https://wantonwicked.gamingsandbox.com/wiki/?n=Players.AnahitaShahzad|https://i.imgur.com/Aoa8whd.png]]%0a%25newwin%25 [[https://wantonwicked.gamingsandbox.com/wiki/?n=Players.EmmaDarling|https://i.imgur.com/o9sJdvI.png]]%0ahttps://i.imgur.com/vP71tdK.png%0ahttps://i.imgur.com/14AF7Lz.png%0a(:table table border=0 cellpadding=5 cellspacing=0:)%0a(:cellnr width=100%25:)%0a%0a!!%25center%25%25vampire%25%0a%0a"''She is the most magnificent kindred I've ever encountered and for some reason I want to hear every word she has to say. She's soo interested in me too, I almost feel flattered."'' -  %25newwin vampire%25 [[https://wantonwicked.gamingsandbox.com/wiki/Players/AnahitaShahzad|Anahita Shahzad]]%0a%0a%0a(:tableend:)%0a%25center%25https://i.imgur.com/UXxEbTu.gif%0a%0a(:include GameRef.Directoryplayervampire:)
+time=1579941154
+author:1579941154=The_stekpanna
+diff:1579941154:1579687037:=18,19c18,22%0a%3c "''She is the most magnificent kindred I've ever encountered and for some reason I want to hear every word she has to say. She's soo interested in me too, I almost feel flattered."'' -  %25newwin vampire%25 [[https://wantonwicked.gamingsandbox.com/wiki/Players/AnahitaShahzad|Anahita Shahzad]]%0a%3c %0a---%0a> %25mortal%25 "I am a quote! Fear me!" -A person with a face. \\%0a> %25mage%25 "I am a quote! Fear me!" -A magic person. \\%0a> %25vampire%25 "I am a quote! Fear me!" -A person with fangs. \\%0a> %25werewolf%25 "I am a quote! Fear me!" -A person that can woof. \\%0a> %25changeling%25 "I am a quote! Fear me!" -A person that can shift forms. \\%0a
+host:1579941154=213.113.173.158
 author:1579687037=Dreams of Sublimity
 diff:1579687037:1579686954:=25d24%0a%3c %25center%25https://i.imgur.com/UXxEbTu.gif%0a
 host:1579687037=213.113.173.158
