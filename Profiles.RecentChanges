@@ -1,9 +1,9 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0
 charset=ISO-8859-1
 ctime=1525418292
-host=172.58.75.50
+host=72.239.54.65
 name=Profiles.RecentChanges
-rev=20
-text=* [[Profiles.AnneB | Anne B]]  . . . December 27, 2019, at 12:01 PM by [[~AnneB]]: [==]%0a* [[Profiles.BeccaH | Becca H]]  . . . May 09, 2018, at 08:03 PM by [[~AnneB]]: [==]%0a
-time=1577476907
+rev=21
+text=* [[Profiles.TeaCupKitten | Tea Cup Kitten]]  . . . February 14, 2020, at 04:11 PM by [[~TeaCupKitten]]: [==]%0a* [[Profiles.AnneB | Anne B]]  . . . December 27, 2019, at 12:01 PM by [[~AnneB]]: [==]%0a* [[Profiles.BeccaH | Becca H]]  . . . May 09, 2018, at 08:03 PM by [[~AnneB]]: [==]%0a
+time=1581725461
