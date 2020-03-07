@@ -1,15 +1,18 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36
 author=Raeras
 charset=ISO-8859-1
 csum=
 ctime=1579635621
-host=72.192.237.223
+host=65.207.13.66
 name=Players.TessaGeomancy
-rev=5
+rev=6
 targets=Players.ContessaMercado
-text=This page is to help keep track of places currently under Geomancy affects done by [[Contessa Mercado]]%0a%0a!! %25center%25  Geomancy Effects w/ Advanced Geomancy%0a%0a1. Choose a skill or attribute. Get 9again on a roll involving that attribute or skill once per chapter (week)%0a%0a2. 9again becomes 8again on the weekly roll if you would normally have 9again%0a%0a3. Any other rolls involving that skill or attribute gains a +1 Bonus%0a%0a4. Upkeep requires 5 sux on or before the final day of the effect regardless of size. %0a%0a%0a!! %25center%25  Affected Places%0a%0a'''Contessa's Office''' %0a%0a''Affected Skill'': Crafts%0a%0a''Ends on:'' 2/3/20%0a%0a'''Miami Marine Stadium'''%0a%0a''Affected Skill:'' Expression%0a%0a''Area:'' A small area under the bleachers suitable for dancing%0a%0a''Ends on'': 2/10/20%0a%0a'''Black Books - First Floor'''%0a%0a''Affected Attribute:'' Intelligence%0a%0a''Ends on:'' 2/21/20%0a%0a'''Midnight Coal Co. - Building'''%0a%0a''Affected Skill:'' Crafts%0a%0a''Ends on:'' 2/22/20%0a%0a'''Miami Infoshop'''%0a%0a'''Areas''' - Bike Shop (Science), Kitchen (Crafts), Library (Intelligence), Exercise Room (Strength) %0a%0a''Ends On:'' 3/3/20%0a%0a'''Holloman Park Methodist Episcopal Church''%0a%0a''Affected Attribute:'' Composure%0a%0a''Ends On:'' 3/10/20%0a%0a'''The Crimson Velvet''%0a%0a''Affected Skills:'' Expression (Main Floor), Occult (Basement)%0a%0a''Ends On:'' 3/27/20
-time=1582808817
+text=This page is to help keep track of places currently under Geomancy affects done by [[Contessa Mercado]]%0a%0a!! %25center%25  Geomancy Effects w/ Advanced Geomancy%0a%0a1. Choose a skill or attribute. Get 9again on a roll involving that attribute or skill once per chapter (week)%0a%0a2. 9again becomes 8again on the weekly roll if you would normally have 9again%0a%0a3. Any other rolls involving that skill or attribute gains a +1 Bonus%0a%0a4. Upkeep requires 5 sux on or before the final day of the effect regardless of size. %0a%0a%0a!! %25center%25  Affected Places%0a%0a'''Contessa's Office''' %0a%0a''Affected Skill'': Crafts%0a%0a''Ends on:'' 2/3/20%0a%0a'''Miami Marine Stadium'''%0a%0a''Affected Skill:'' Expression%0a%0a''Area:'' A small area under the bleachers suitable for dancing%0a%0a''Ends on'': 2/10/20%0a%0a'''Black Books - First Floor'''%0a%0a''Affected Attribute:'' Intelligence%0a%0a''Ends on:'' 2/21/20%0a%0a'''Midnight Coal Co. - Building'''%0a%0a''Affected Skill:'' Crafts%0a%0a''Ends on:'' 2/22/20%0a%0a'''Miami Infoshop'''%0a%0a'''Areas''' - Bike Shop (Science), Kitchen (Crafts), Library (Intelligence), Exercise Room (Strength) %0a%0a''Ends On:'' 3/3/20%0a%0a'''Holloman Park Methodist Episcopal Church'''%0a%0a''Affected Attribute:'' Composure%0a%0a''Ends On:'' 3/10/20%0a%0a'''The Crimson Velvet'''%0a%0a''Affected Skills:'' Expression (Main Floor), Occult (Basement)%0a%0a''Ends On:'' 3/27/20%0a%0a'''Pax & Associates - Pax's Office'''%0a%0a''Affected Skills:'' Investigation%0a%0a''Ends On:'' 4/6/20
+time=1583525559
+author:1583525559=Raeras
+diff:1583525559:1582808817:=48,49c48,49%0a%3c '''Holloman Park Methodist Episcopal Church'''%0a%3c %0a---%0a> '''Holloman Park Methodist Episcopal Church''%0a> %0a54,55c54,55%0a%3c '''The Crimson Velvet'''%0a%3c %0a---%0a> '''The Crimson Velvet''%0a> %0a58,64c58%0a%3c ''Ends On:'' 3/27/20%0a%3c %0a%3c '''Pax & Associates - Pax's Office'''%0a%3c %0a%3c ''Affected Skills:'' Investigation%0a%3c %0a%3c ''Ends On:'' 4/6/20%0a\ No newline at end of file%0a---%0a> ''Ends On:'' 3/27/20%0a\ No newline at end of file%0a
+host:1583525559=65.207.13.66
 author:1582808817=Raeras
 diff:1582808817:1581644586:=52,58c52%0a%3c ''Ends On:'' 3/10/20%0a%3c %0a%3c '''The Crimson Velvet''%0a%3c %0a%3c ''Affected Skills:'' Expression (Main Floor), Occult (Basement)%0a%3c %0a%3c ''Ends On:'' 3/27/20%0a\ No newline at end of file%0a---%0a> ''Ends On:'' 3/10/20%0a\ No newline at end of file%0a
 host:1582808817=72.192.237.223
