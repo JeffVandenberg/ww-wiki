@@ -1,15 +1,18 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
 author=ZeroFoxGiven
 charset=ISO-8859-1
 csum=
 ctime=1583965839
 host=50.88.71.232
 name=Players.DexsGear
-rev=2
+rev=3
 targets=Players.TimothyEckmire,Players.MarkusKincaid
-text=(:cellnr width=50%25 align=left style='padding-left: 0px;':)%0a%25lfloat text-align=center width=180 margin-top=0px margin-right=7px margin-bottom=0px margin-left=8px newwin%25 https://i.pinimg.com/originals/e6/15/94/e6159422bbcb6a258e4c6043d9a11f1a.jpg %25vampire%25 '''Ammulet of Protection'''%0a%0aCreated by [[TimothyEckmire|Timmy]]%0a%0aProtection Ammulet that isn't active just yet but can be seen around Dex's neck.%0a%0a(:cell width=50%25 align=left style='padding-right: 0px;':)%0a%25lfloat text-align=center width=180 margin-top=0px margin-right=7px margin-bottom=0px margin-left=8px newwin%25 https://i.imgur.com/2HQQSuc.jpg %25vampire%25 '''Custom Weapon.'''%0a%0a%25vampire%25 Created by: [[MarkusKincaid|Markus]]%0a%0a+4L	%0a-2 Init, 2 Str, 2 size, 2 durability, tags: accurate%0a%0a%0a%0a(:tableend:)
-time=1583966076
+text=(:cellnr width=50%25 align=left style='padding-left: 0px;':)%0a%25lfloat text-align=center width=180 margin-top=0px margin-right=7px margin-bottom=0px margin-left=8px newwin%25 https://i.pinimg.com/originals/e6/15/94/e6159422bbcb6a258e4c6043d9a11f1a.jpg %25vampire%25 '''Ammulet of Protection'''%0a%0aCreated by [[TimothyEckmire|Timmy]]%0a%0aProtection Ammulet that is active just yet but can be seen around Dex's neck.%0a%0a+4	(Spirit Magic)%0aDurability 2, Size 1, Structure 2, Availability ••• %0a(:cell width=50%25 align=left style='padding-right: 0px;':)%0a%25lfloat text-align=center width=180 margin-top=0px margin-right=7px margin-bottom=0px margin-left=8px newwin%25 https://i.imgur.com/2HQQSuc.jpg %25vampire%25 '''Custom Weapon.'''%0a%0a%25vampire%25 Created by: [[MarkusKincaid|Markus]]%0a%0a+4L	%0a-2 Init, 2 Str, 2 size, 2 durability, tags: accurate%0a%0a%0a%0a(:tableend:)
+time=1585239702
+author:1585239702=ZeroFoxGiven
+diff:1585239702:1583966076:=6,9c6,7%0a%3c Protection Ammulet that is active just yet but can be seen around Dex's neck.%0a%3c %0a%3c +4	(Spirit Magic)%0a%3c Durability 2, Size 1, Structure 2, Availability ••• %0a---%0a> Protection Ammulet that isn't active just yet but can be seen around Dex's neck.%0a> %0a
+host:1585239702=50.88.71.232
 author:1583966076=ZeroFoxGiven
 diff:1583966076:1583965839:=10d9%0a%3c %0a12d10%0a%3c %0a
 host:1583966076=50.88.71.232
