@@ -1,15 +1,24 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
-author=AnneB
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+author=Kitsuiko
 charset=ISO-8859-1
 csum=
 ctime=1528589926
-host=71.222.98.245
+host=24.93.176.31
 name=GameRef.Directoryplayerchangeling
-rev=1
+rev=4
 targets=GameRef.CharacterCreation,City.City,GameRef.HouseRules,Changeling.Society,Changeling.History,Changeling.Changeling,Changeling.Locations,Changeling.PlayerGuide
 text=|| border=1 align=center width=100%25%0a|| %25changeling%25[[GameRef.CharacterCreation|Character Creation]] || [[City.City|The City]] || %25changeling%25Directory: Changeling the Lost || [[https://wantonwicked.gamingsandbox.com/characters/cast/changeling|Changeling Cast List]] || [[GameRef.HouseRules#toc37|House Rules]] ||%0a|| %25changeling%25[[changeling.society|Society]] || [[changeling.history|History]]  || [[changeling.changeling|About the Venue]] || [[changeling.locations|Locations]] || [[changeling.PlayerGuide|Player Guide]] ||
-time=1528589926
+time=1586812044
+author:1586812044=Kitsuiko
+diff:1586812044:1586812027:=3c3%0a%3c || %25changeling%25[[changeling.society|Society]] || [[changeling.history|History]]  || [[changeling.changeling|About the Venue]] || [[changeling.locations|Locations]] || [[changeling.PlayerGuide|Player Guide]] ||%0a\ No newline at end of file%0a---%0a> || %25changeling%25[[changeling.society|Society]] || [[changeling.history|History]]  || [[changeling.changeling|About the Venue]] || [[changeling.locations|Locations]] || [[changeling.PlayerGuide|Player Guide]]||%0a\ No newline at end of file%0a
+host:1586812044=24.93.176.31
+author:1586812027=Kitsuiko
+diff:1586812027:1586812014:=3c3%0a%3c || %25changeling%25[[changeling.society|Society]] || [[changeling.history|History]]  || [[changeling.changeling|About the Venue]] || [[changeling.locations|Locations]] || [[changeling.PlayerGuide|Player Guide]]||%0a\ No newline at end of file%0a---%0a> || %25changeling%25[[changeling.society|Society]] || [[changeling.history|History]]  || [[changeling.changeling|About the Venue]] || [[changeling.locations|Locations]] || [[changeling.PlayerGuide|Player Guide]][[Directoryplayerlightchangeling]] ||%0a\ No newline at end of file%0a
+host:1586812027=24.93.176.31
+author:1586812014=Kitsuiko
+diff:1586812014:1528589926:=3c3%0a%3c || %25changeling%25[[changeling.society|Society]] || [[changeling.history|History]]  || [[changeling.changeling|About the Venue]] || [[changeling.locations|Locations]] || [[changeling.PlayerGuide|Player Guide]][[Directoryplayerlightchangeling]] ||%0a\ No newline at end of file%0a---%0a> || %25changeling%25[[changeling.society|Society]] || [[changeling.history|History]]  || [[changeling.changeling|About the Venue]] || [[changeling.locations|Locations]] || [[changeling.PlayerGuide|Player Guide]] ||%0a\ No newline at end of file%0a
+host:1586812014=24.93.176.31
 author:1528589926=AnneB
 diff:1528589926:1528589926:=1,3d0%0a%3c || border=1 align=center width=100%25%0a%3c || %25changeling%25[[GameRef.CharacterCreation|Character Creation]] || [[City.City|The City]] || %25changeling%25Directory: Changeling the Lost || [[https://wantonwicked.gamingsandbox.com/characters/cast/changeling|Changeling Cast List]] || [[GameRef.HouseRules#toc37|House Rules]] ||%0a%3c || %25changeling%25[[changeling.society|Society]] || [[changeling.history|History]]  || [[changeling.changeling|About the Venue]] || [[changeling.locations|Locations]] || [[changeling.PlayerGuide|Player Guide]] ||%0a\ No newline at end of file%0a
 host:1528589926=71.222.98.245
