@@ -1,0 +1,21 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+author=PresterJohn
+charset=ISO-8859-1
+csum=
+ctime=1587570404
+host=104.7.108.206
+name=Players.JohnMurphyEquipment
+rev=3
+targets=Players.JohnMurphy,Players.LoreleiMcCowan
+text=Do you actually care about the details of stuff that [[John Murphy]] owns? Probably not. But if you do, here are some pictures.%0a%0ahttps://i.imgur.com/E8mlsyh.jpg%0aBepoke suits by [[Lorelei McCowan]]%0a%0a%0ahttps://i.imgur.com/w3HGOGz.jpg%0aCustom outfit made of gator skin, again by [[Lorelei McCowan]]%0a%0ahttps://i.imgur.com/G5JuJe7.jpg%0aAntique del Gesù  violin%0a%0ahttps://i.imgur.com/4G9uAPs.jpg%0aCustom Taylor DLX Grand Auditorium acoustic-electric guitar
+time=1587570469
+author:1587570469=PresterJohn
+diff:1587570469:1587570420:=1c1%0a%3c Do you actually care about the details of stuff that [[John Murphy]] owns? Probably not. But if you do, here are some pictures.%0a---%0a> Do you actually care about the details of stuff that John Murphy owns? Probably not. But if you do, here are some pictures.%0a
+host:1587570469=104.7.108.206
+author:1587570420=PresterJohn
+diff:1587570420:1587570404:=13c13%0a%3c https://i.imgur.com/4G9uAPs.jpg%0a---%0a> [img]https://i.imgur.com/4G9uAPs.jpg[/img]%0a
+host:1587570420=104.7.108.206
+author:1587570404=PresterJohn
+diff:1587570404:1587570404:=1,14d0%0a%3c Do you actually care about the details of stuff that John Murphy owns? Probably not. But if you do, here are some pictures.%0a%3c %0a%3c https://i.imgur.com/E8mlsyh.jpg%0a%3c Bepoke suits by [[Lorelei McCowan]]%0a%3c %0a%3c %0a%3c https://i.imgur.com/w3HGOGz.jpg%0a%3c Custom outfit made of gator skin, again by [[Lorelei McCowan]]%0a%3c %0a%3c https://i.imgur.com/G5JuJe7.jpg%0a%3c Antique del Gesù  violin%0a%3c %0a%3c [img]https://i.imgur.com/4G9uAPs.jpg[/img]%0a%3c Custom Taylor DLX Grand Auditorium acoustic-electric guitar%0a\ No newline at end of file%0a
+host:1587570404=104.7.108.206
