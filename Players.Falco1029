@@ -1,0 +1,18 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+author=Falco1029
+charset=ISO-8859-1
+csum=
+ctime=1592463622
+host=173.46.225.202
+name=Players.Falco1029
+rev=2
+targets=Players.TimothyEckmire,Players.JosephCambersten
+text=[[Timothy Eckmire]] - Thaumaturge (Apostle of the Dark One)%0a%0a[[Joseph Cambersten]] - Beast (Namtaru Nemesis)
+time=1592463630
+author:1592463630=Falco1029
+diff:1592463630:1592463622:=2d1%0a%3c %0a
+host:1592463630=173.46.225.202
+author:1592463622=Falco1029
+diff:1592463622:1592463622:=1,2d0%0a%3c [[Timothy Eckmire]] - Thaumaturge (Apostle of the Dark One)%0a%3c [[Joseph Cambersten]] - Beast (Namtaru Nemesis)%0a\ No newline at end of file%0a
+host:1592463622=173.46.225.202
