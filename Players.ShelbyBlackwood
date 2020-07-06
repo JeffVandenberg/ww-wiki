@@ -1,15 +1,324 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0
 author=Enigma
 charset=ISO-8859-1
 csum=
 ctime=1593893011
 host=107.136.74.157
 name=Players.ShelbyBlackwood
-rev=21
+rev=124
 targets=
-text= https://i.imgur.com/OTM283o.png%0a(:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://i.imgur.com/uh9kq5r.png=]); background-size:500; padding:25px;' width=100%25:)%0a%0a(:table valign=top:)%0a%0a(:cellnr rowspan=30 width=300 align=center:)%0a!!%25center%25%25mortal%25'''Dossier'''%0ahttps://i.imgur.com/hFne06T.jpg?1%0a!!%25center%25%25mortal%25'''Playlist'''%0a*[[https://www.youtube.com/watch?v=367C7L5A4BQ|%25mortal%25Everybody Knows]]%0a*[[https://www.youtube.com/watch?v=z0iCtsAwZI8|%25mortal%25Taxicab Messiah]]%0a*[[https://www.youtube.com/watch?v=WeAiRM1CVUY|%25mortal%25Dead Souls]]%0a(:cellnr width=260 align=left:)%25mortal%25'''Name:''' %0a(:cell width=440:)Shelby Blackwood %0a(:cellnr width=260 align=left:)%25mortal%25'''Nickname:''' %0a(:cell width=440:) None  %0a(:cellnr width=260 align=left:)%25mortal%25'''Virtue/Vice:''' %0a(:cell width=440:) Ambitious / Find out IC %0a(:cellnr width=260 align=left:)%25mortal%25'''Public Effects:''' %0a(:cell width=440:)Barfly. Fast-Talking. Striking Looks. Sympathetic. %0a(:cellnr width=260 align=left:)%25mortal%25'''Profession:''' %0a(:cell width=440:)Bartender / Aspiring Musician %0a(:cellnr width=260 align=left:)%25mortal%25'''Age:''' %0a(:cell width=440:)23%0a(:cellnr width=260 align=left:)%25mortal%25'''Player:''' %0a(:cell width=440:)Engima %0a(:cellnr width=260 align=left:)%25mortal%25'''Actor:''' %0a(:cell width=440:)Brittany Adams %0a%0a%0a(:tableend:)%0a%0a(:div2 style='background-color:rgba(0,0,0,0.5);' :)%0a----%0a%0a!!%25center%25%25mortal%25'''Description'''%0a%0a%0a%25center%25 https://i.imgur.com/19d9UvS.jpg%0a%25center%25%0a----%0a(:div2end:)%0a%0a!!%25center%25%25mortal%25'''Contacts'''%0a%0a||! %25mortal%25Image ||! %25mortal%25Name ||! %25mortal%25Relationship ||! %25mortal%25Comment ||! %25mortal%25Ringtone ||%0a|| %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a|| %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a|| %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a|| %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a|| %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a%0a(:div2 style='background-color:rgba(0,0,0,0.5);' :)%0a----%0a%0a!!%25center%25%25mortal%25'''Hooks'''%0a%0a!!!!%25mortal%25 ''Hook 1(Who it effects)'': %0aHook info here%0a%0a!!!!%25mortal%25 ''Hook 2(Who it effects)'': %0aHook info here%0a%0a!!!!%25mortal%25 ''Hook 3(Who it effects)'': %0aHook info here%0a%0a----%0a(:div2end:)%0a%0a(:table table border=0 cellpadding=5 cellspacing=0:)%0a%0a(:cellnr width=100%25:)%0a%0a!!%25center%25%25mortal%25'''Quotes'''%0a%0a%25mortal%25 "I am a quote! Fear me!" -A person with a face. \\%0a%25mage%25 "I am a quote! Fear me!" -A magic person. \\%0a%25vampire%25 "I am a quote! Fear me!" -A person with fangs. \\%0a%25werewolf%25 "I am a quote! Fear me!" -A person that can woof. \\%0a%25changeling%25 "I am a quote! Fear me!" -A person that can shift forms. \\%0a%0a(:tableend:)%0a%0a(:include GameRef.Directoryplayermortal:)
-time=1593911918
+text= https://i.imgur.com/OTM283o.png%0a(:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://i.imgur.com/uh9kq5r.png=]); background-size:500; padding:25px;' width=100%25:)%0a%0a(:table valign=top:)%0a%0a(:cellnr rowspan=30 width=900 align=center:)%0a!!%25center%25%25mortal%25'''Dossier'''%0ahttps://i.imgur.com/5OQWXMd.jpg%0a!!%25center%25%25mortal%25'''Playlist'''%0a*[[https://www.youtube.com/watch?v=367C7L5A4BQ|%25mortal%25'+'''Everybody Knows'''+']]%0a*[[https://www.youtube.com/watch?v=z0iCtsAwZI8|%25mortal%25'+'''Taxicab Messiah'''+']]%0a*[[https://www.youtube.com/watch?v=YpJAmlnBxoA|%25mortal%25'+'''I Miss the Misery'''+']]%0a*[[https://www.youtube.com/watch?v=rHBxJCq99jA|%25mortal%25'+'''Heaven Knows'''+']]%0a*[[https://www.youtube.com/watch?v=WeAiRM1CVUY|%25mortal%25'+'''Dead Souls'''+']]%0a(:cellnr width=260 align=left:)%25mortal%25'''Name:''' %0a(:cell width=440:)%25mortal%25'+'''Shelby Blackwood'''+'%0a(:cellnr width=260 align=left:)%25mortal%25'''Virtue/Vice:''' %0a(:cell width=440:)%25mortal%25'+'''Ambitious / Find out IC'''+' %0a(:cellnr width=260 align=left:)%25mortal%25'''Public Effects:''' %0a(:cell width=440:)%25mortal%25%0a* %25mortal%25'+'''Barfly'''+'%0a*%25mortal%25 '+'''Striking Looks'''+'%0a*%25mortal%25'+'''Sympathetic'''+'%0a*%25mortal%25'+'''Danger Sense'''+'%0a*%25mortal%25'+'''Fast-Talking'''+'%0a*%25mortal%25'+'''Eye for the Strange'''+'%0a(:cellnr width=260 align=left:)%25mortal%25'''Profession:''' %0a(:cell width=440:)%25mortal%25'+'''Bartender/Aspiring Musician'''+' %0a(:cellnr width=260 align=left:)%25mortal%25'''Age:''' %0a(:cell width=440:)%25mortal%25'+'''23'''+'%0a(:cellnr width=260 align=left:)%25mortal%25'''Player:''' %0a(:cell width=440:)%25mortal%25'+'''Engima'''+' %0a(:cellnr width=260 align=left:)%25mortal%25'''Actor:''' %0a(:cell width=440:)%25mortal%25'+'''Laura Marano'''+'%0a%0a%0a(:tableend:)%0a%0a(:div2 style='background-color:rgba(0,0,0,0.5);' :)%0a----%0a%0a!!%25center%25%25mortal%25'''Description'''%0a%0a%25left%25 https://i.imgur.com/pvV3rIw.jpg %25right%25 https://i.imgur.com/zHTFptH.jpg%0a%0a%25left%25%25mortal%25'+'''Though slender of build, Shelby possesses the lean, trimmed form of someone who is constantly on the move and accustomed to physical work. Standing just over five and half feet tall, her large brown eyes can shift easily between warm friendliness to wary skepticism without any warning whatsoever.'''+'%0a%0a%25mortal%25'+'''When she’s slinging drinks, her long chocolate hair is either pulled back into a professional ponytail or piled on top of her head in a messy bun, depending upon the environment. Usually, she tends to favor loose, casual clothing: summer dresses, skater skirts, tank tops, and slightly faded rock t-shirts. However, she has been known to rock a pair of leather pants and a bust-enhancing corset when appropriate.'''+'%0a%0a%25mortal%25'+'''Shelby’s smile comes easily, and the noticeable Mid-western twang in her voice becomes more pronounced with familiarity. Don’t be surprised when she calls people ‘hon’, ‘cowboy’, or ‘darlin’.'''+'%0a%0a----%0a(:div2end:)%0a%0a!!%25center%25%25mortal%25'''Contacts'''%0a%0a||! %25mortal%25Image ||! %25mortal%25Name ||! %25mortal%25Relationship ||! %25mortal%25Comment ||! %25mortal%25Ringtone ||%0a|| %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a|| %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a|| %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a|| %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a|| %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a%0a(:div2 style='background-color:rgba(0,0,0,0.5);' :)%0a----%0a%0a!!%25center%25%25mortal%25'''Hooks'''%0a%0a!!!!%25mortal%25 ''Whatcha Need?(Everyone)'': %0a%25mortal%25'''Shelby works as a rotating bartender. One night she might be slinging drinks behind a beat-up sheet of metal in a rowdy biker bar. The next, she's in an abbreviated server's tuxedo, pouring martinis and mojitos for Miami's upper crust. Her chameleon-like personality and smooth tongue ensure that she fits in no matter where she's working.'''%0a!!!!%25mortal%25 ''Open Mic Night (Everyone)'': %0a%25mortal%25'''Shelby spends her free nights bouncing from one club to another, looking to entertain a crowd with her voice. Secretly, she hopes that her efforts might pay off with finding a band in need of a singer or an enterprising agent looking for fresh, new talent.'''%0a!!!!%25mortal%25 ''Beach Bum (Everyone)'': %0a%25mortal%25'''Shelby grew up in the land-locked state of Nebraska and spent a few years in Las Vegas and Phoenix. Now that she's on the East Coast, she likes to hang out on Miami's plentiful beaches, day or night. One of her favorite things is walking at the edge of the surf, shoes in hand, as the waves splash around her ankles.'''%0a%0ahttps://i.imgur.com/GcSjRu6.jpg https://i.imgur.com/ZzH4sMN.jpg%0a%25center%25 https://i.imgur.com/74nI4xg.jpg %0a%0a----%0a(:div2end:)%0a%0a(:table table border=0 cellpadding=5 cellspacing=0:)%0a%0a(:cellnr width=100%25:)%0a%0a!!%25center%25%25mortal%25'''Quotes'''%0a%0a%25mortal%25 "I am a quote! Fear me!" -A person with a face. \\%0a%25mage%25 "I am a quote! Fear me!" -A magic person. \\%0a%25vampire%25 "I am a quote! Fear me!" -A person with fangs. \\%0a%25werewolf%25 "I am a quote! Fear me!" -A person that can woof. \\%0a%25changeling%25 "I am a quote! Fear me!" -A person that can shift forms. \\%0a%0a(:tableend:)%0a%0a(:include GameRef.Directoryplayermortal:)
+time=1593997150
+author:1593997150=Enigma
+diff:1593997150:1593997115:=
+host:1593997150=107.136.74.157
+author:1593997115=Enigma
+diff:1593997115:1593996977:=22,26c22,26%0a%3c *%25mortal%25 '+'''Striking Looks'''+'%0a%3c *%25mortal%25'+'''Sympathetic'''+'%0a%3c *%25mortal%25'+'''Danger Sense'''+'%0a%3c *%25mortal%25'+'''Fast-Talking'''+'%0a%3c *%25mortal%25'+'''Eye for the Strange'''+'%0a---%0a> *%25mortal%25 '+'''Striking Looks (1)'''+'%0a> *%25mortal%25'+'''Sympathetic (2)'''+'%0a> *%25mortal%25'+'''Danger Sense (2)'''+'%0a> *%25mortal%25'+'''Fast-Talking (2)'''+'%0a> *%25mortal%25'+'''Eye for the Strange (2)'''+'%0a
+host:1593997115=107.136.74.157
+author:1593996977=Enigma
+diff:1593996977:1593996960:=21c21%0a%3c * %25mortal%25'+'''Barfly'''+'%0a---%0a> * %25mortal%25'+'''Barfly*'''+'%0a
+host:1593996977=107.136.74.157
+author:1593996960=Enigma
+diff:1593996960:1593996915:=21c21%0a%3c * %25mortal%25'+'''Barfly*'''+'%0a---%0a> * %25mortal%25'+'''Barfly'''+'%0a
+host:1593996960=107.136.74.157
+author:1593996915=Enigma
+diff:1593996915:1593996839:=26d25%0a%3c *%25mortal%25'+'''Eye for the Strange (2)'''+'%0a
+host:1593996915=107.136.74.157
+author:1593996839=Enigma
+diff:1593996839:1593996749:=22,25c22,24%0a%3c *%25mortal%25 '+'''Striking Looks (1)'''+'%0a%3c *%25mortal%25'+'''Sympathetic (2)'''+'%0a%3c *%25mortal%25'+'''Danger Sense (2)'''+'%0a%3c *%25mortal%25'+'''Fast-Talking (2)'''+'%0a---%0a> *%25mortal%25 '+'''Striking Looks'''+'%0a> *%25mortal%25'+'''Sympathetic'''+'%0a> *%25mortal%25'+'''Fast-Talking * *'''+'%0a
+host:1593996839=107.136.74.157
+author:1593996749=Enigma
+diff:1593996749:1593996721:=24c24%0a%3c *%25mortal%25'+'''Fast-Talking * *'''+'%0a---%0a> *%25mortal%25'+'''Fast-Talking **'''+'%0a
+host:1593996749=107.136.74.157
+author:1593996721=Enigma
+diff:1593996721:1593977693:=24c24%0a%3c *%25mortal%25'+'''Fast-Talking **'''+'%0a---%0a> *%25mortal%25'+'''Fast-Talking'''+'%0a
+host:1593996721=107.136.74.157
+author:1593977693=Enigma
+diff:1593977693:1593977670:=70c70%0a%3c %25mortal%25'''Shelby spends her free nights bouncing from one club to another, looking to entertain a crowd with her voice. Secretly, she hopes that her efforts might pay off with finding a band in need of a singer or an enterprising agent looking for fresh, new talent.'''%0a---%0a> %25mortal%25''''Shelby spends her free nights bouncing from one club to another, looking to entertain a crowd with her voice. Secretly, she hopes that her efforts might pay off with finding a band in need of a singer or an enterprising agent looking for fresh, new talent.''''%0a
+host:1593977693=107.136.74.157
+author:1593977670=Enigma
+diff:1593977670:1593977643:=70c70%0a%3c %25mortal%25''''Shelby spends her free nights bouncing from one club to another, looking to entertain a crowd with her voice. Secretly, she hopes that her efforts might pay off with finding a band in need of a singer or an enterprising agent looking for fresh, new talent.''''%0a---%0a> %25mortal%25'''Shelby spends her free nights bouncing from one club to another, looking to entertain a crowd with her voice. Secretly, she hopes that her efforts might pay off with finding a band in need of a singer or an enterprising agent looking for fresh, new talent.'''%0a
+host:1593977670=107.136.74.157
+author:1593977643=Enigma
+diff:1593977643:1593977601:=68c68%0a%3c %25mortal%25'''Shelby works as a rotating bartender. One night she might be slinging drinks behind a beat-up sheet of metal in a rowdy biker bar. The next, she's in an abbreviated server's tuxedo, pouring martinis and mojitos for Miami's upper crust. Her chameleon-like personality and smooth tongue ensure that she fits in no matter where she's working.'''%0a---%0a> %25mortal%25%25'''Shelby works as a rotating bartender. One night she might be slinging drinks behind a beat-up sheet of metal in a rowdy biker bar. The next, she's in an abbreviated server's tuxedo, pouring martinis and mojitos for Miami's upper crust. Her chameleon-like personality and smooth tongue ensure that she fits in no matter where she's working.'''%0a70c70%0a%3c %25mortal%25'''Shelby spends her free nights bouncing from one club to another, looking to entertain a crowd with her voice. Secretly, she hopes that her efforts might pay off with finding a band in need of a singer or an enterprising agent looking for fresh, new talent.'''%0a---%0a> %25mortal%25%25'''Shelby spends her free nights bouncing from one club to another, looking to entertain a crowd with her voice. Secretly, she hopes that her efforts might pay off with finding a band in need of a singer or an enterprising agent looking for fresh, new talent.'''%0a72c72%0a%3c %25mortal%25'''Shelby grew up in the land-locked state of Nebraska and spent a few years in Las Vegas and Phoenix. Now that she's on the East Coast, she likes to hang out on Miami's plentiful beaches, day or night. One of her favorite things is walking at the edge of the surf, shoes in hand, as the waves splash around her ankles.'''%0a---%0a> '''Shelby grew up in the land-locked state of Nebraska and spent a few years in Las Vegas and Phoenix. Now that she's on the East Coast, she likes to hang out on Miami's plentiful beaches, day or night. One of her favorite things is walking at the edge of the surf, shoes in hand, as the waves splash around her ankles.'''%0a
+host:1593977643=107.136.74.157
+author:1593977601=Enigma
+diff:1593977601:1593977552:=68c68%0a%3c %25mortal%25%25'''Shelby works as a rotating bartender. One night she might be slinging drinks behind a beat-up sheet of metal in a rowdy biker bar. The next, she's in an abbreviated server's tuxedo, pouring martinis and mojitos for Miami's upper crust. Her chameleon-like personality and smooth tongue ensure that she fits in no matter where she's working.'''%0a---%0a> '''Shelby works as a rotating bartender. One night she might be slinging drinks behind a beat-up sheet of metal in a rowdy biker bar. The next, she's in an abbreviated server's tuxedo, pouring martinis and mojitos for Miami's upper crust. Her chameleon-like personality and smooth tongue ensure that she fits in no matter where she's working.'''%0a70c70%0a%3c %25mortal%25%25'''Shelby spends her free nights bouncing from one club to another, looking to entertain a crowd with her voice. Secretly, she hopes that her efforts might pay off with finding a band in need of a singer or an enterprising agent looking for fresh, new talent.'''%0a---%0a> '''Shelby spends her free nights bouncing from one club to another, looking to entertain a crowd with her voice. Secretly, she hopes that her efforts might pay off with finding a band in need of a singer or an enterprising agent looking for fresh, new talent.'''%0a
+host:1593977601=107.136.74.157
+author:1593977552=Enigma
+diff:1593977552:1593977528:=46,48c46,48%0a%3c %25mortal%25'+'''When she’s slinging drinks, her long chocolate hair is either pulled back into a professional ponytail or piled on top of her head in a messy bun, depending upon the environment. Usually, she tends to favor loose, casual clothing: summer dresses, skater skirts, tank tops, and slightly faded rock t-shirts. However, she has been known to rock a pair of leather pants and a bust-enhancing corset when appropriate.'''+'%0a%3c %0a%3c %25mortal%25'+'''Shelby’s smile comes easily, and the noticeable Mid-western twang in her voice becomes more pronounced with familiarity. Don’t be surprised when she calls people ‘hon’, ‘cowboy’, or ‘darlin’.'''+'%0a---%0a> '+'''When she’s slinging drinks, her long chocolate hair is either pulled back into a professional ponytail or piled on top of her head in a messy bun, depending upon the environment. Usually, she tends to favor loose, casual clothing: summer dresses, skater skirts, tank tops, and slightly faded rock t-shirts. However, she has been known to rock a pair of leather pants and a bust-enhancing corset when appropriate.'''+'%0a> %0a> '+'''Shelby’s smile comes easily, and the noticeable Mid-western twang in her voice becomes more pronounced with familiarity. Don’t be surprised when she calls people ‘hon’, ‘cowboy’, or ‘darlin’.'''+'%0a
+host:1593977552=107.136.74.157
+author:1593977528=Enigma
+diff:1593977528:1593977506:=44c44%0a%3c %25left%25%25mortal%25'+'''Though slender of build, Shelby possesses the lean, trimmed form of someone who is constantly on the move and accustomed to physical work. Standing just over five and half feet tall, her large brown eyes can shift easily between warm friendliness to wary skepticism without any warning whatsoever.'''+'%0a---%0a> %25left%25'+'''Though slender of build, Shelby possesses the lean, trimmed form of someone who is constantly on the move and accustomed to physical work. Standing just over five and half feet tall, her large brown eyes can shift easily between warm friendliness to wary skepticism without any warning whatsoever.'''+'%0a
+host:1593977528=107.136.74.157
+author:1593977506=Enigma
+diff:1593977506:1593977475:=11,14c11,14%0a%3c *[[https://www.youtube.com/watch?v=z0iCtsAwZI8|%25mortal%25'+'''Taxicab Messiah'''+']]%0a%3c *[[https://www.youtube.com/watch?v=YpJAmlnBxoA|%25mortal%25'+'''I Miss the Misery'''+']]%0a%3c *[[https://www.youtube.com/watch?v=rHBxJCq99jA|%25mortal%25'+'''Heaven Knows'''+']]%0a%3c *[[https://www.youtube.com/watch?v=WeAiRM1CVUY|%25mortal%25'+'''Dead Souls'''+']]%0a---%0a> *[[https://www.youtube.com/watch?v=z0iCtsAwZI8|%25mortal%25'+Taxicab Messiah+']]%0a> *[[https://www.youtube.com/watch?v=YpJAmlnBxoA|%25mortal%25'+I Miss the Misery+']]%0a> *[[https://www.youtube.com/watch?v=rHBxJCq99jA|%25mortal%25'+Heaven Knows+']]%0a> *[[https://www.youtube.com/watch?v=WeAiRM1CVUY|%25mortal%25'+Dead Souls+']]%0a
+host:1593977506=107.136.74.157
+author:1593977475=Enigma
+diff:1593977475:1593977447:=10c10%0a%3c *[[https://www.youtube.com/watch?v=367C7L5A4BQ|%25mortal%25'+'''Everybody Knows'''+']]%0a---%0a> *[[https://www.youtube.com/watch?v=367C7L5A4BQ|%25mortal%25''+Everybody Knows+'']]%0a
+host:1593977475=107.136.74.157
+author:1593977447=Enigma
+diff:1593977447:1593977426:=10c10%0a%3c *[[https://www.youtube.com/watch?v=367C7L5A4BQ|%25mortal%25''+Everybody Knows+'']]%0a---%0a> *[[https://www.youtube.com/watch?v=367C7L5A4BQ|%25mortal%25'+Everybody Knows+']]%0a
+host:1593977447=107.136.74.157
+author:1593977426=Enigma
+diff:1593977426:1593977386:=22,24c22,24%0a%3c *%25mortal%25 '+'''Striking Looks'''+'%0a%3c *%25mortal%25'+'''Sympathetic'''+'%0a%3c *%25mortal%25'+'''Fast-Talking'''+'%0a---%0a> %25mortal%25* '+'''Striking Looks'''+'%0a> *'+'''Sympathetic'''+'%0a> *'+'''Fast-Talking'''+'%0a
+host:1593977426=107.136.74.157
+author:1593977386=Enigma
+diff:1593977386:1593977368:=22c22%0a%3c %25mortal%25* '+'''Striking Looks'''+'%0a---%0a> * '+'''Striking Looks'''+'%0a
+host:1593977386=107.136.74.157
+author:1593977368=Enigma
+diff:1593977368:1593977350:=21c21%0a%3c * %25mortal%25'+'''Barfly'''+'%0a---%0a> * '+'''Barfly'''+'%0a
+host:1593977368=107.136.74.157
+author:1593977350=Enigma
+diff:1593977350:1593977315:=26c26,27%0a%3c (:cell width=440:)%25mortal%25'+'''Bartender/Aspiring Musician'''+' %0a---%0a> (:cell width=440:)%25mortal%25'+'''Bartender'''%25mortal%25+'%0a> '+'''Aspiring Musician'''+' %0a
+host:1593977350=107.136.74.157
+author:1593977315=Enigma
+diff:1593977315:1593977287:=26c26%0a%3c (:cell width=440:)%25mortal%25'+'''Bartender'''%25mortal%25+'%0a---%0a> (:cell width=440:)%25mortal%25'+'''Bartender'''+'%0a29c29%0a%3c (:cell width=440:)%25mortal%25'+'''23'''+'%0a---%0a> (:cell width=440:)'+'''23'''+'%0a
+host:1593977315=107.136.74.157
+author:1593977287=Enigma
+diff:1593977287:1593977247:=26c26%0a%3c (:cell width=440:)%25mortal%25'+'''Bartender'''+'%0a---%0a> (:cell width=440:)'+'''Bartender'''+'%0a31c31%0a%3c (:cell width=440:)%25mortal%25'+'''Engima'''+' %0a---%0a> (:cell width=440:)'+'''Engima'''+' %0a33c33%0a%3c (:cell width=440:)%25mortal%25'+'''Laura Marano'''+'%0a---%0a> (:cell width=440:)'+'''Laura Marano'''+'%0a
+host:1593977287=107.136.74.157
+author:1593977247=Enigma
+diff:1593977247:1593977205:=16a17,18%0a> (:cellnr width=260 align=left:)%25mortal%25'''Nickname:''' %0a> (:cell width=440:) '+'''None'''+'  %0a18c20%0a%3c (:cell width=440:)%25mortal%25'+'''Ambitious / Find out IC'''+' %0a---%0a> (:cell width=440:) '+'''Ambitious / Find out IC'''+' %0a20c22%0a%3c (:cell width=440:)%25mortal%25%0a---%0a> (:cell width=440:)%0a
+host:1593977247=107.136.74.157
+author:1593977205=Enigma
+diff:1593977205:1593977169:=16c16%0a%3c (:cell width=440:)%25mortal%25'+'''Shelby Blackwood'''+'%0a---%0a> (:cell width=440:)'+'''Shelby Blackwood'''+'%0a
+host:1593977205=107.136.74.157
+author:1593977169=Enigma
+diff:1593977169:1593976311:=
+host:1593977169=107.136.74.157
+author:1593976311=Enigma
+diff:1593976311:1593976292:=23,24c23,24%0a%3c * '+'''Barfly'''+'%0a%3c * '+'''Striking Looks'''+'%0a---%0a> ~ '+'''Barfly'''+'%0a> ~ '+'''Striking Looks'''+'%0a
+host:1593976311=107.136.74.157
+author:1593976292=Enigma
+diff:1593976292:1593976265:=23,24c23,24%0a%3c ~ '+'''Barfly'''+'%0a%3c ~ '+'''Striking Looks'''+'%0a---%0a> ~'+'''Barfly'''+'%0a> *'+'''Striking Looks'''+'%0a
+host:1593976292=107.136.74.157
+author:1593976265=Enigma
+diff:1593976265:1593976227:=23c23%0a%3c ~'+'''Barfly'''+'%0a---%0a> *'+'''Barfly'''+'%0a
+host:1593976265=107.136.74.157
+author:1593976227=Enigma
+diff:1593976227:1593976117:=8c8%0a%3c https://i.imgur.com/5OQWXMd.jpg%0a---%0a> https://i.imgur.com/vvt1pYv.jpg%0a
+host:1593976227=107.136.74.157
+author:1593976117=Enigma
+diff:1593976117:1593976095:=6c6%0a%3c (:cellnr rowspan=30 width=900 align=center:)%0a---%0a> (:cellnr rowspan=30 width=700 align=center:)%0a
+host:1593976117=107.136.74.157
+author:1593976095=Enigma
+diff:1593976095:1593976079:=6c6%0a%3c (:cellnr rowspan=30 width=700 align=center:)%0a---%0a> (:cellnr rowspan=30 width=500 align=center:)%0a
+host:1593976095=107.136.74.157
+author:1593976079=Enigma
+diff:1593976079:1593976043:=6c6%0a%3c (:cellnr rowspan=30 width=500 align=center:)%0a---%0a> (:cellnr rowspan=30 width=300 align=center:)%0a
+host:1593976079=107.136.74.157
+author:1593976043=Enigma
+diff:1593976043:1593975907:=8c8%0a%3c https://i.imgur.com/vvt1pYv.jpg%0a---%0a> https://i.imgur.com/yrx1Zro.jpg%0a
+host:1593976043=107.136.74.157
+author:1593975907=Enigma
+diff:1593975907:1593969930:=8c8%0a%3c https://i.imgur.com/yrx1Zro.jpg%0a---%0a> https://i.imgur.com/BDhXSFp.jpg%0a
+host:1593975907=107.136.74.157
+author:1593969930=Enigma
+diff:1593969930:1593969868:=78c78%0a%3c %25center%25 https://i.imgur.com/74nI4xg.jpg %0a---%0a> https://i.imgur.com/74nI4xg.jpg https://i.imgur.com/4cfIeM8.jpg%0a
+host:1593969930=107.136.74.157
+author:1593969868=Enigma
+diff:1593969868:1593969821:=77,78c77%0a%3c https://i.imgur.com/GcSjRu6.jpg https://i.imgur.com/ZzH4sMN.jpg%0a%3c https://i.imgur.com/74nI4xg.jpg https://i.imgur.com/4cfIeM8.jpg%0a---%0a> https://i.imgur.com/GcSjRu6.jpg https://i.imgur.com/ZzH4sMN.jpg https://i.imgur.com/74nI4xg.jpg%0a
+host:1593969868=107.136.74.157
+author:1593969821=Enigma
+diff:1593969821:1593969698:=77c77%0a%3c https://i.imgur.com/GcSjRu6.jpg https://i.imgur.com/ZzH4sMN.jpg https://i.imgur.com/74nI4xg.jpg%0a---%0a> https://i.imgur.com/GcSjRu6.jpg%0a
+host:1593969821=107.136.74.157
+author:1593969698=Enigma
+diff:1593969698:1593969473:=76,77d75%0a%3c %0a%3c https://i.imgur.com/GcSjRu6.jpg%0a
+host:1593969698=107.136.74.157
+author:1593969473=Enigma
+diff:1593969473:1593969457:=46d45%0a%3c %0a
+host:1593969473=107.136.74.157
+author:1593969457=Enigma
+diff:1593969457:1593969441:=45c45,46%0a%3c %25left%25 https://i.imgur.com/pvV3rIw.jpg %25right%25 https://i.imgur.com/zHTFptH.jpg%0a---%0a> %25left%25 https://i.imgur.com/pvV3rIw.jpg%0a> %25right%25 https://i.imgur.com/zHTFptH.jpg%0a
+host:1593969457=107.136.74.157
+author:1593969441=Enigma
+diff:1593969441:1593969374:=45c45%0a%3c %25left%25 https://i.imgur.com/pvV3rIw.jpg%0a---%0a> %0a
+host:1593969441=107.136.74.157
+author:1593969374=Enigma
+diff:1593969374:1593969349:=46c46%0a%3c %25right%25 https://i.imgur.com/zHTFptH.jpg%0a---%0a> %25center%25 https://i.imgur.com/zHTFptH.jpg%0a
+host:1593969374=107.136.74.157
+author:1593969349=Enigma
+diff:1593969349:1593968331:=46c46%0a%3c %25center%25 https://i.imgur.com/zHTFptH.jpg%0a---%0a> %25center%25 https://i.imgur.com/kc7MqYe.jpg%0a
+host:1593969349=107.136.74.157
+author:1593968331=Enigma
+diff:1593968331:1593968313:=26c26,27%0a%3c *'+'''Fast-Talking'''+'%0a---%0a> %0a> '+'''Fast-Talking'''+'%0a
+host:1593968331=107.136.74.157
+author:1593968313=Enigma
+diff:1593968313:1593968291:=22,25c22,24%0a%3c (:cell width=440:)%0a%3c *'+'''Barfly'''+'%0a%3c *'+'''Striking Looks'''+'%0a%3c *'+'''Sympathetic'''+'%0a---%0a> (:cell width=440:)'+'''Barfly'''+'%0a> *'+'''Striking Looks'''+' :%0a> *'+'''Sympathetic'''+' :%0a
+host:1593968313=107.136.74.157
+author:1593968291=Enigma
+diff:1593968291:1593968275:=24c24%0a%3c *'+'''Sympathetic'''+' :%0a---%0a> '+'''Sympathetic'''+' :%0a
+host:1593968291=107.136.74.157
+author:1593968275=Enigma
+diff:1593968275:1593968085:=22,23c22,23%0a%3c (:cell width=440:)'+'''Barfly'''+'%0a%3c *'+'''Striking Looks'''+' :%0a---%0a> (:cell width=440:)'+'''Barfly'''+' :%0a> '+'''Striking Looks'''+' :%0a
+host:1593968275=107.136.74.157
+author:1593968085=Enigma
+diff:1593968085:1593968067:=25d24%0a%3c %0a
+host:1593968085=107.136.74.157
+author:1593968067=Enigma
+diff:1593968067:1593968042:=22,24c22,24%0a%3c (:cell width=440:)'+'''Barfly'''+' :%0a%3c '+'''Striking Looks'''+' :%0a%3c '+'''Sympathetic'''+' :%0a---%0a> (:cell width=440:)'+'''Barfly'''+':%0a> '+'''Striking Looks'''+':%0a> '+'''Sympathetic'''+':%0a
+host:1593968067=107.136.74.157
+author:1593968042=Enigma
+diff:1593968042:1593968026:=23,24c23,26%0a%3c '+'''Striking Looks'''+':%0a%3c '+'''Sympathetic'''+':%0a---%0a> '+'''Striking Looks'''+'%0a> %0a> '+'''Sympathetic'''+'%0a> %0a
+host:1593968042=107.136.74.157
+author:1593968026=Enigma
+diff:1593968026:1593967536:=22c22,23%0a%3c (:cell width=440:)'+'''Barfly'''+':%0a---%0a> (:cell width=440:)'+'''Barfly'''+'%0a> %0a
+host:1593968026=107.136.74.157
+author:1593967536=Enigma
+diff:1593967536:1593959110:=49,54c49%0a%3c %25left%25'+'''Though slender of build, Shelby possesses the lean, trimmed form of someone who is constantly on the move and accustomed to physical work. Standing just over five and half feet tall, her large brown eyes can shift easily between warm friendliness to wary skepticism without any warning whatsoever.'''+'%0a%3c %0a%3c '+'''When she’s slinging drinks, her long chocolate hair is either pulled back into a professional ponytail or piled on top of her head in a messy bun, depending upon the environment. Usually, she tends to favor loose, casual clothing: summer dresses, skater skirts, tank tops, and slightly faded rock t-shirts. However, she has been known to rock a pair of leather pants and a bust-enhancing corset when appropriate.'''+'%0a%3c %0a%3c '+'''Shelby’s smile comes easily, and the noticeable Mid-western twang in her voice becomes more pronounced with familiarity. Don’t be surprised when she calls people ‘hon’, ‘cowboy’, or ‘darlin’.'''+'%0a%3c %0a---%0a> %25center%25%0a
+host:1593967536=107.136.74.157
+author:1593959110=Enigma
+diff:1593959110:1593958939:=71,72d70%0a%3c !!!!%25mortal%25 ''Beach Bum (Everyone)'': %0a%3c '''Shelby grew up in the land-locked state of Nebraska and spent a few years in Las Vegas and Phoenix. Now that she's on the East Coast, she likes to hang out on Miami's plentiful beaches, day or night. One of her favorite things is walking at the edge of the surf, shoes in hand, as the waves splash around her ankles.'''%0a
+host:1593959110=107.136.74.157
+author:1593958939=Enigma
+diff:1593958939:1593958908:=68c68,69%0a%3c '''Shelby works as a rotating bartender. One night she might be slinging drinks behind a beat-up sheet of metal in a rowdy biker bar. The next, she's in an abbreviated server's tuxedo, pouring martinis and mojitos for Miami's upper crust. Her chameleon-like personality and smooth tongue ensure that she fits in no matter where she's working.'''%0a---%0a> '+'''Shelby works as a rotating bartender. One night she might be slinging drinks behind a beat-up sheet of metal in a rowdy biker bar. The next, she's in an abbreviated server's tuxedo, pouring martinis and mojitos for Miami's upper crust. Her chameleon-like personality and smooth tongue ensure that she fits in no matter where she's working.'''%0a> +'%0a70c71,72%0a%3c '''Shelby spends her free nights bouncing from one club to another, looking to entertain a crowd with her voice. Secretly, she hopes that her efforts might pay off with finding a band in need of a singer or an enterprising agent looking for fresh, new talent.'''%0a---%0a> '+'''Shelby spends her free nights bouncing from one club to another, looking to entertain a crowd with her voice. Secretly, she hopes that her efforts might pay off with finding a band in need of a singer or an enterprising agent looking for fresh, new talent.'''%0a> +'%0a
+host:1593958939=107.136.74.157
+author:1593958908=Enigma
+diff:1593958908:1593958881:=68c68%0a%3c '+'''Shelby works as a rotating bartender. One night she might be slinging drinks behind a beat-up sheet of metal in a rowdy biker bar. The next, she's in an abbreviated server's tuxedo, pouring martinis and mojitos for Miami's upper crust. Her chameleon-like personality and smooth tongue ensure that she fits in no matter where she's working.'''%0a---%0a> '+Shelby works as a rotating bartender. One night she might be slinging drinks behind a beat-up sheet of metal in a rowdy biker bar. The next, she's in an abbreviated server's tuxedo, pouring martinis and mojitos for Miami's upper crust. Her chameleon-like personality and smooth tongue ensure that she fits in no matter where she's working.%0a71c71%0a%3c '+'''Shelby spends her free nights bouncing from one club to another, looking to entertain a crowd with her voice. Secretly, she hopes that her efforts might pay off with finding a band in need of a singer or an enterprising agent looking for fresh, new talent.'''%0a---%0a> '+Shelby spends her free nights bouncing from one club to another, looking to entertain a crowd with her voice. Secretly, she hopes that her efforts might pay off with finding a band in need of a singer or an enterprising agent looking for fresh, new talent.%0a
+host:1593958908=107.136.74.157
+author:1593958881=Enigma
+diff:1593958881:1593958807:=68,69c68,69%0a%3c '+Shelby works as a rotating bartender. One night she might be slinging drinks behind a beat-up sheet of metal in a rowdy biker bar. The next, she's in an abbreviated server's tuxedo, pouring martinis and mojitos for Miami's upper crust. Her chameleon-like personality and smooth tongue ensure that she fits in no matter where she's working.%0a%3c +'%0a---%0a> Shelby works as a rotating bartender. One night she might be slinging drinks behind a beat-up sheet of metal in a rowdy biker bar. The next, she's in an abbreviated server's tuxedo, pouring martinis and mojitos for Miami's upper crust. Her chameleon-like personality and smooth tongue ensure that she fits in no matter where she's working.%0a> %0a71,72c71,72%0a%3c '+Shelby spends her free nights bouncing from one club to another, looking to entertain a crowd with her voice. Secretly, she hopes that her efforts might pay off with finding a band in need of a singer or an enterprising agent looking for fresh, new talent.%0a%3c +'%0a---%0a> Shelby spends her free nights bouncing from one club to another, looking to entertain a crowd with her voice. Secretly, she hopes that her efforts might pay off with finding a band in need of a singer or an enterprising agent looking for fresh, new talent.%0a> %0a
+host:1593958881=107.136.74.157
+author:1593958807=Enigma
+diff:1593958807:1593958775:=30,31c30%0a%3c (:cell width=440:)'+'''Bartender'''+'%0a%3c '+'''Aspiring Musician'''+' %0a---%0a> (:cell width=440:)'+'''Bartender / Aspiring Musician'''+' %0a
+host:1593958807=107.136.74.157
+author:1593958775=Enigma
+diff:1593958775:1593958761:=23d22%0a%3c %0a27d25%0a%3c %0a
+host:1593958775=107.136.74.157
+author:1593958761=Enigma
+diff:1593958761:1593958747:=24d23%0a%3c %0a
+host:1593958761=107.136.74.157
+author:1593958747=Enigma
+diff:1593958747:1593958729:=23c23%0a%3c '+'''Striking Looks'''+'%0a---%0a> (:cell width=440:)'+'''Striking Looks'''+'%0a
+host:1593958747=107.136.74.157
+author:1593958729=Enigma
+diff:1593958729:1593958694:=23c23%0a%3c (:cell width=440:)'+'''Striking Looks'''+'%0a---%0a> '+'''Striking Looks'''+'%0a
+host:1593958729=107.136.74.157
+author:1593958694=Enigma
+diff:1593958694:1593958632:=22,25c22,23%0a%3c (:cell width=440:)'+'''Barfly'''+'%0a%3c '+'''Striking Looks'''+'%0a%3c '+'''Sympathetic'''+'%0a%3c '+'''Fast-Talking'''+'%0a---%0a> (:cell width=440:)'+'''Barfly%0a> * Striking Looks * Sympathetic * Fast-Talking'''+'%0a
+host:1593958694=107.136.74.157
+author:1593958632=Enigma
+diff:1593958632:1593958598:=23c23%0a%3c * Striking Looks * Sympathetic * Fast-Talking'''+'%0a---%0a> (:div style='background-color: black; color: white' style=float width=100%25 cellspacing=0:)%25mortal%25 Striking Looks * Sympathetic * Fast-Talking'''+'%0a
+host:1593958632=107.136.74.157
+author:1593958598=Enigma
+diff:1593958598:1593957912:=22,23c22%0a%3c (:cell width=440:)'+'''Barfly%0a%3c (:div style='background-color: black; color: white' style=float width=100%25 cellspacing=0:)%25mortal%25 Striking Looks * Sympathetic * Fast-Talking'''+'%0a---%0a> (:cell width=440:)'+'''Barfly * Striking Looks * Sympathetic * Fast-Talking'''+'%0a
+host:1593958598=107.136.74.157
+author:1593957912=Enigma
+diff:1593957912:1593957871:=10,14c10,14%0a%3c *[[https://www.youtube.com/watch?v=367C7L5A4BQ|%25mortal%25'+Everybody Knows+']]%0a%3c *[[https://www.youtube.com/watch?v=z0iCtsAwZI8|%25mortal%25'+Taxicab Messiah+']]%0a%3c *[[https://www.youtube.com/watch?v=YpJAmlnBxoA|%25mortal%25'+I Miss the Misery+']]%0a%3c *[[https://www.youtube.com/watch?v=rHBxJCq99jA|%25mortal%25'+Heaven Knows+']]%0a%3c *[[https://www.youtube.com/watch?v=WeAiRM1CVUY|%25mortal%25'+Dead Souls+']]%0a---%0a> *[[https://www.youtube.com/watch?v=367C7L5A4BQ|%25mortal%25Everybody Knows]]%0a> *[[https://www.youtube.com/watch?v=z0iCtsAwZI8|%25mortal%25Taxicab Messiah]]%0a> *[[https://www.youtube.com/watch?v=YpJAmlnBxoA|%25mortal%25I Miss the Misery]]%0a> *[[https://www.youtube.com/watch?v=rHBxJCq99jA|%25mortal%25Heaven Knows]]%0a> *[[https://www.youtube.com/watch?v=WeAiRM1CVUY|%25mortal%25Dead Souls]]%0a
+host:1593957912=107.136.74.157
+author:1593957871=Enigma
+diff:1593957871:1593957805:=2,3c2,3%0a%3c (:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://i.imgur.com/uh9kq5r.png=]); background-size:500; padding:25px;' width=100%25:)%0a%3c %0a---%0a> (:div %25width=100%25 style='color:pink;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://i.imgur.com/uh9kq5r.png=]); background-size:500; padding:25px;' width=100%25:)%0a> %0a22c22%0a%3c (:cell width=440:)'+'''Barfly * Striking Looks * Sympathetic * Fast-Talking'''+'%0a---%0a> (:cell width=440:)'+'''Barfly Striking Looks Sympathetic Fast-Talking'''+'%0a
+host:1593957871=107.136.74.157
+author:1593957805=Enigma
+diff:1593957805:1593957697:=2,3c2,3%0a%3c (:div %25width=100%25 style='color:pink;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://i.imgur.com/uh9kq5r.png=]); background-size:500; padding:25px;' width=100%25:)%0a%3c %0a---%0a> (:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://i.imgur.com/uh9kq5r.png=]); background-size:500; padding:25px;' width=100%25:)%0a> %0a13d12%0a%3c *[[https://www.youtube.com/watch?v=rHBxJCq99jA|%25mortal%25Heaven Knows]]%0a
+host:1593957805=107.136.74.157
+author:1593957697=Enigma
+diff:1593957697:1593957673:=23c23,24%0a%3c (:cell width=440:)'+'''Bartender / Aspiring Musician'''+' %0a---%0a> (:cell width=440:)'+'''Bartender / %0a> Aspiring Musician'''+' %0a
+host:1593957697=107.136.74.157
+author:1593957673=Enigma
+diff:1593957673:1593957656:=23,24c23%0a%3c (:cell width=440:)'+'''Bartender / %0a%3c Aspiring Musician'''+' %0a---%0a> (:cell width=440:)'+'''Bartender / Aspiring Musician'''+' %0a
+host:1593957673=107.136.74.157
+author:1593957656=Enigma
+diff:1593957656:1593957520:=23c23%0a%3c (:cell width=440:)'+'''Bartender / Aspiring Musician'''+' %0a---%0a> (:cell width=440:)Bartender / Aspiring Musician %0a25c25%0a%3c (:cell width=440:)'+'''23'''+'%0a---%0a> (:cell width=440:)23%0a27c27%0a%3c (:cell width=440:)'+'''Engima'''+' %0a---%0a> (:cell width=440:)Engima %0a29c29%0a%3c (:cell width=440:)'+'''Laura Marano'''+'%0a---%0a> (:cell width=440:)Laura Marano%0a
+host:1593957656=107.136.74.157
+author:1593957520=Enigma
+diff:1593957520:1593957444:=21,22c21,25%0a%3c (:cell width=440:)'+'''Barfly Striking Looks Sympathetic Fast-Talking'''+'%0a%3c (:cellnr width=260 align=left:)%25mortal%25'''Profession:''' %0a---%0a> (:cell width=440:)'+'''Barfly%0a> Fast-Talking%0a> Striking Looks%0a> Sympathetic%0a> '''+'(:cellnr width=260 align=left:)%25mortal%25'''Profession:''' %0a
+host:1593957520=107.136.74.157
+author:1593957444=Enigma
+diff:1593957444:1593957396:=21c21%0a%3c (:cell width=440:)'+'''Barfly%0a---%0a> (:cell width=440:)Barfly%0a25c25%0a%3c '''+'(:cellnr width=260 align=left:)%25mortal%25'''Profession:''' %0a---%0a> (:cellnr width=260 align=left:)%25mortal%25'''Profession:''' %0a
+host:1593957444=107.136.74.157
+author:1593957396=Enigma
+diff:1593957396:1593957363:=19c19%0a%3c (:cell width=440:) '+'''Ambitious / Find out IC'''+' %0a---%0a> (:cell width=440:) '+Ambitious / Find out IC+' %0a
+host:1593957396=107.136.74.157
+author:1593957363=Enigma
+diff:1593957363:1593957328:=17c17%0a%3c (:cell width=440:) '+'''None'''+'  %0a---%0a> (:cell width=440:) '+None+'  %0a
+host:1593957363=107.136.74.157
+author:1593957328=Enigma
+diff:1593957328:1593957302:=19c19%0a%3c (:cell width=440:) '+Ambitious / Find out IC+' %0a---%0a> (:cell width=440:) '+Ambitious / Find out IC+''''Strong''' %0a
+host:1593957328=107.136.74.157
+author:1593957302=Enigma
+diff:1593957302:1593957274:=17c17%0a%3c (:cell width=440:) '+None+'  %0a---%0a> (:cell width=440:) None  %0a19c19%0a%3c (:cell width=440:) '+Ambitious / Find out IC+''''Strong''' %0a---%0a> (:cell width=440:) Ambitious / Find out IC %0a
+host:1593957302=107.136.74.157
+author:1593957274=Enigma
+diff:1593957274:1593957260:=15c15%0a%3c (:cell width=440:)'+'''Shelby Blackwood'''+'%0a---%0a> (:cell width=440:)'''Shelby Blackwood'''%0a
+host:1593957274=107.136.74.157
+author:1593957260=Enigma
+diff:1593957260:1593957241:=15c15,16%0a%3c (:cell width=440:)'''Shelby Blackwood'''%0a---%0a> (:cell width=440:)Shelby Blackwood%0a>  %0a
+host:1593957260=107.136.74.157
+author:1593957241=Enigma
+diff:1593957241:1593957225:=15c15,16%0a%3c (:cell width=440:)Shelby Blackwood%0a---%0a> (:cell width=440:)%0a> !Shelby Blackwood%0a
+host:1593957241=107.136.74.157
+author:1593957225=Enigma
+diff:1593957225:1593957211:=16c16%0a%3c !Shelby Blackwood%0a---%0a> !! Shelby Blackwood%0a
+host:1593957225=107.136.74.157
+author:1593957211=Enigma
+diff:1593957211:1593956936:=15,17c15%0a%3c (:cell width=440:)%0a%3c !! Shelby Blackwood%0a%3c  %0a---%0a> (:cell width=440:)Shelby Blackwood %0a69a68,69%0a> !!!!%25mortal%25 ''Hook 3(Who it effects)'': %0a> Hook info here%0a
+host:1593957211=107.136.74.157
+author:1593956936=Enigma
+diff:1593956936:1593956751:=63,66c63,66%0a%3c Shelby works as a rotating bartender. One night she might be slinging drinks behind a beat-up sheet of metal in a rowdy biker bar. The next, she's in an abbreviated server's tuxedo, pouring martinis and mojitos for Miami's upper crust. Her chameleon-like personality and smooth tongue ensure that she fits in no matter where she's working.%0a%3c %0a%3c !!!!%25mortal%25 ''Open Mic Night (Everyone)'': %0a%3c Shelby spends her free nights bouncing from one club to another, looking to entertain a crowd with her voice. Secretly, she hopes that her efforts might pay off with finding a band in need of a singer or an enterprising agent looking for fresh, new talent.%0a---%0a> Shelby works as a rotating bartender. One night she might be slinging drinks behind a beat-up sheet of metal in a rowdy biker bar. The next, she's in an abbreviated server's tuxedo, pouring martinis and mojitos for Miami's upper crust. She's %0a> %0a> !!!!%25mortal%25 ''Hook 2(Who it effects)'': %0a> Hook info here%0a
+host:1593956936=107.136.74.157
+author:1593956751=Enigma
+diff:1593956751:1593956512:=62,63c62,63%0a%3c !!!!%25mortal%25 ''Whatcha Need?(Everyone)'': %0a%3c Shelby works as a rotating bartender. One night she might be slinging drinks behind a beat-up sheet of metal in a rowdy biker bar. The next, she's in an abbreviated server's tuxedo, pouring martinis and mojitos for Miami's upper crust. She's %0a---%0a> !!!!%25mortal%25 ''Hook 1(Who it effects)'': %0a> Hook info here%0a
+host:1593956751=107.136.74.157
+author:1593956512=Enigma
+diff:1593956512:1593956491:=21c21,22%0a%3c (:cell width=440:)Barfly%0a---%0a> (:cell width=440:)Striking Looks%0a> Barfly%0a
+host:1593956512=107.136.74.157
+author:1593956491=Enigma
+diff:1593956491:1593956478:=
+host:1593956491=107.136.74.157
+author:1593956478=Enigma
+diff:1593956478:1593956421:=21,22c21%0a%3c (:cell width=440:)Striking Looks%0a%3c Barfly%0a---%0a> (:cell width=440:)Barfly%0a
+host:1593956478=107.136.74.157
+author:1593956421=Enigma
+diff:1593956421:1593956375:=24a25%0a> Striking Looks%0a
+host:1593956421=107.136.74.157
+author:1593956375=Enigma
+diff:1593956375:1593956355:=24,25c24%0a%3c Sympathetic%0a%3c Striking Looks%0a---%0a> Sympathetic %0a
+host:1593956375=107.136.74.157
+author:1593956355=Enigma
+diff:1593956355:1593956329:=24c24%0a%3c Sympathetic %0a---%0a> Sympathetic. %0a
+host:1593956355=107.136.74.157
+author:1593956329=Enigma
+diff:1593956329:1593956307:=23c23,24%0a%3c Striking Looks%0a---%0a> %0a> Striking Looks.%3cbr>%0a
+host:1593956329=107.136.74.157
+author:1593956307=Enigma
+diff:1593956307:1593956282:=21,23c21,22%0a%3c (:cell width=440:)Barfly%0a%3c Fast-Talking%0a%3c %0a---%0a> (:cell width=440:)Barfly. %3cbr>%0a> Fast-Talking.%3cbr>%0a
+host:1593956307=107.136.74.157
+author:1593956282=Enigma
+diff:1593956282:1593955618:=21,23c21,23%0a%3c (:cell width=440:)Barfly. %3cbr>%0a%3c Fast-Talking.%3cbr>%0a%3c Striking Looks.%3cbr>%0a---%0a> (:cell width=440:)Barfly.%0a> Fast-Talking.%0a> Striking Looks.%0a
+host:1593956282=107.136.74.157
+author:1593955618=Enigma
+diff:1593955618:1593955577:=
+host:1593955618=107.136.74.157
+author:1593955577=Enigma
+diff:1593955577:1593955560:=22,24c22%0a%3c Fast-Talking.%0a%3c Striking Looks.%0a%3c Sympathetic. %0a---%0a> Fast-Talking. Striking Looks. Sympathetic. %0a
+host:1593955577=107.136.74.157
+author:1593955560=Enigma
+diff:1593955560:1593955521:=21,22c21%0a%3c (:cell width=440:)Barfly.%0a%3c Fast-Talking. Striking Looks. Sympathetic. %0a---%0a> (:cell width=440:)Barfly. Fast-Talking. Striking Looks. Sympathetic. %0a
+host:1593955560=107.136.74.157
+author:1593955521=Enigma
+diff:1593955521:1593950415:=12d11%0a%3c *[[https://www.youtube.com/watch?v=YpJAmlnBxoA|%25mortal%25I Miss the Misery]]%0a
+host:1593955521=107.136.74.157
+author:1593950415=Enigma
+diff:1593950415:1593950348:=39c39%0a%3c %25center%25 https://i.imgur.com/kc7MqYe.jpg%0a---%0a> %25center%25 https://i.imgur.com/6o72AK6.jpg https://i.imgur.com/kc7MqYe.jpg%0a
+host:1593950415=107.136.74.157
+author:1593950348=Enigma
+diff:1593950348:1593950278:=39c39%0a%3c %25center%25 https://i.imgur.com/6o72AK6.jpg https://i.imgur.com/kc7MqYe.jpg%0a---%0a> %25center%25 https://i.imgur.com/6o72AK6.jpg https://i.imgur.com/C6lemlR.jpg%0a
+host:1593950348=107.136.74.157
+author:1593950278=Enigma
+diff:1593950278:1593950178:=
+host:1593950278=107.136.74.157
+author:1593950178=Enigma
+diff:1593950178:1593950127:=39c39%0a%3c %25center%25 https://i.imgur.com/6o72AK6.jpg https://i.imgur.com/C6lemlR.jpg%0a---%0a> %25center%25 https://i.imgur.com/6o72AK6.jpg%0a
+host:1593950178=107.136.74.157
+author:1593950127=Enigma
+diff:1593950127:1593950028:=28,30c28,30%0a%3c (:cell width=440:)Laura Marano%0a%3c %0a%3c %0a---%0a> (:cell width=440:)Brittany Adams %0a> %0a> %0a39c39%0a%3c %25center%25 https://i.imgur.com/6o72AK6.jpg%0a---%0a> %25center%25 https://i.imgur.com/19d9UvS.jpg%0a
+host:1593950127=107.136.74.157
+author:1593950028=Enigma
+diff:1593950028:1593911918:=8c8%0a%3c https://i.imgur.com/BDhXSFp.jpg%0a---%0a> https://i.imgur.com/hFne06T.jpg?1%0a
+host:1593950028=107.136.74.157
 author:1593911918=Enigma
 diff:1593911918:1593911864:=38,39c38,39%0a%3c %0a%3c %25center%25 https://i.imgur.com/19d9UvS.jpg%0a---%0a> %25left%25 https://i.imgur.com/PpYuMwF.jpg%0a> %25right%25 https://i.imgur.com/19d9UvS.jpg%0a
 host:1593911918=107.136.74.157
