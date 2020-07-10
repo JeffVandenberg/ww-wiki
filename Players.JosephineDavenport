@@ -6,10 +6,340 @@ csum=
 ctime=1594255372
 host=107.136.74.157
 name=Players.JosephineDavenport
-rev=13
+rev=123
 targets=
-text=https://i.imgur.com/b8qOJcK.png%0a(:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://i.imgur.com/VZoWnay.png=]); background-size:500; padding:5px;' width=100%25:)%0a%0a(:table valign=top:)%0a%0a(:cellnr rowspan=30 width=500 align=center:)%0a!! %25center%25%25changeling%25'''Dossier'''%0a%25center%25https://i.imgur.com/0ch23rf.jpg%0a!!%25center%25%25changeling%25'''Playlist'''%0a*[[https://www.youtube.com/watch?v=4ahHWROn8M0|%25changeling%25'''Hurt''']]%0a*[[http://www.youtube.com/|%25changeling%25Song Name]]%0a*[[http://www.youtube.com/|%25changeling%25Song Name]]%0a(:cellnr width=260 align=left:)%25changeling%25'''Name:''' %0a(:cell width=440:)Josephine Davenport %0a(:cellnr width=260 align=left:)%25changeling%25'''Alias(es):''' %0a(:cell width=440:) Josie or Jo-Jo %0a(:cellnr width=260 align=left:)%25changeling%25'''Seeming:''' %0a(:cell width=440:) Fairest  %0a(:cellnr width=260 align=left:)%25changeling%25'''Kith:''' %0a(:cell width=440:) Swimmerskin %0a(:cellnr width=260 align=left:)%25changeling%25'''Court:''' %0a(:cell width=440:) Spring %0a(:cellnr width=260 align=left:)%25changeling%25'''Motley:''' %0a(:cell width=440:) None %0a(:cellnr width=260 align=left:)%25changeling%25'''Needle/Thread:''' %0a(:cell width=440:) Bon Vivant/Memory %0a(:cellnr width=260 align=left:)%25changeling%25'''Public Effects:''' %0a(:cell width=440:)[Enter Here] %0a(:cellnr width=260 align=left:)%25changeling%25'''Profession:''' %0a(:cell width=440:) Lifeguard %0a(:cellnr width=260 align=left:)%25changeling%25'''Age:''' %0a(:cell width=440:) 34 %0a(:cellnr width=260 align=left:)%25changeling%25'''Player:''' %0a(:cell width=440:) Enigma %0a(:cellnr width=260 align=left:)%25changeling%25'''Actor:''' %0a(:cell width=440:) Natalie Dormer%0a%0a(:tableend:)%0a%0a(:div2 style='background-color:rgba(0,0,0,0.5);' :)%0a----%0a%0a!!%25center%25%25changeling%25'''Description'''%0a%0a!!!%25center%25%25changeling%25''Mask''%0a%0a%25center%25[Enter Here] %0a%0a!!!%25center%25%25changeling%25''Mien''%0a%0a%25center%25[Enter Here] %0a%0a!!!%25center%25%25changeling%25''Mantle''%0a%0a%25center%25[Enter Here] %0a%0a----%0a(:div2end:)%0a%0a!!%25center%25%25changeling%25'''Contacts'''%0a%0a||! %25changeling%25Image ||! %25changeling%25Name ||! %25changeling%25Relationship ||! %25changeling%25Comment ||! %25changeling%25Ringtone ||%0a|| %25thumb%25https://i.imgur.com/mi3dSlf.png || %25changeling%25PC Name || %25changeling%25Relationship to PC || %25changeling%25Comments || %25newwin%25[[http://www.youtube.com/|%25changeling%25Ringtone]] ||%0a|| %25thumb%25https://i.imgur.com/mi3dSlf.png || %25changeling%25PC Name || %25changeling%25Relationship to PC || %25changeling%25Comments || %25newwin%25[[http://www.youtube.com/|%25changeling%25Ringtone]] ||%0a|| %25thumb%25https://i.imgur.com/mi3dSlf.png || %25changeling%25PC Name || %25changeling%25Relationship to PC || %25changeling%25Comments || %25newwin%25[[http://www.youtube.com/|%25changeling%25Ringtone]] ||%0a|| %25thumb%25https://i.imgur.com/mi3dSlf.png || %25changeling%25PC Name || %25changeling%25Relationship to PC || %25changeling%25Comments || %25newwin%25[[http://www.youtube.com/|%25changeling%25Ringtone]] ||%0a|| %25thumb%25https://i.imgur.com/mi3dSlf.png || %25changeling%25PC Name || %25changeling%25Relationship to PC || %25changeling%25Comments || %25newwin%25[[http://www.youtube.com/|%25changeling%25Ringtone]] ||%0a%0a(:div2 style='background-color:rgba(0,0,0,0.5);' :)%0a----%0a%0a!!%25center%25%25changeling%25'''Hooks'''%0a%0a!!!!%25bgcolor=black changeling%25 ''Hook 1(Who it effects)'': %0aHook info here%0a%0a!!!!%25bgcolor=black changeling%25 ''Hook 2(Who it effects)'': %0aHook info here%0a%0a!!!!%25bgcolor=black changeling%25 ''Hook 3(Who it effects)'': %0aHook info here%0a%0a%0a----%0a(:div2end:)%0a%0a(:table table border=0 cellpadding=5 cellspacing=0:)%0a%0a(:cellnr width=100%25:)%0a%0a!!%25center%25%25changeling%25'''Quotes'''%0a%0a%25mortal%25 "I am a quote! Fear me!" -A person with a face. \\%0a%25mage%25 "I am a quote! Fear me!" -A magic person. \\%0a%25vampire%25 "I am a quote! Fear me!" -A person with fangs. \\%0a%25werewolf%25 "I am a quote! Fear me!" -A person that can woof. \\%0a%25changeling%25 "I am a quote! Fear me!" -A person that can shift forms. \\%0a%0a(:tableend:)%0a(:include GameRef.Directoryplayerchangeling:)
-time=1594257775
+text=https://i.imgur.com/b8qOJcK.png%0a(:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://i.imgur.com/VZoWnay.png=]); background-size:500; padding:5px;' width=100%25:)%0a%0a(:table valign=top:)%0a%0a(:cellnr rowspan=30 width=1200 align=center:)%0a%25center%25https://i.imgur.com/ieLnUwB.png%0a%25center%25https://i.imgur.com/Mpue7PF.jpg%0a%25center%25https://i.imgur.com/ZfUdO8Y.png%0a*[[https://www.youtube.com/watch?v=4ahHWROn8M0|%25define=mistgreen    color=#669966%25'''[++Hurt++]''']]%0a*[[https://www.youtube.com/watch?v=g0_BlUbGBSo|%25define=mistgreen    color=#669966%25'''[++Demons++]''']]%0a*[[https://www.youtube.com/watch?v=ZV9DNpkfak0|%25define=mistgreen    color=#669966%25'''[++And She Was++]''']]%0a(:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 '''[+Name:+] '''%0a(:cell width=440:) %25define=mistgreen    color=#669966%25 '''[+Josephine Davenport+]''' %0a(:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 '''[+Alias(es):+]''' %0a(:cell width=440:) %25define=mistgreen    color=#669966%25 '''[+Josie or Jo+]''' %0a(:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 [+'''Seeming:+]''' %0a(:cell width=440:) %25define=mistgreen    color=#669966%25 '''[+Fairest+]''' %0a(:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 [+'''Kith:+]''' %0a(:cell width=440:) %25define=mistgreen    color=#669966%25 '''[+Swimmerskin+]''' %0a(:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 [+'''Court:'''+] %0a(:cell width=440:) %25define=mistgreen    color=#669966%25 '''[+Spring+]''' %0a(:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 [+'''Motley:'''+] %0a(:cell width=440:) %25define=mistgreen    color=#669966%25 '''[+None+]''' %0a(:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 [+'''Needle/Thread:+]''' %0a(:cell width=440:) %25define=mistgreen    color=#669966%25 '''[+Protector/Memory+]''' %0a(:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 [+'''Public Effects:+]''' %0a(:cell width=440:) %25define=mistgreen    color=#669966%25 %0a**%25define=mistgreen    color=#669966%25'''[+Striking Looks+]''' %0a**%25define=mistgreen    color=#669966%25'''[+Danger Sense+]''' %0a**%25define=mistgreen    color=#669966%25'''[+Fast-Reflexes+]''' %0a(:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 [+'''Profession:+]''' %0a(:cell width=440:) %25define=mistgreen    color=#669966%25 '''[+Lifeguard / Student+]'''%0a(:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 [+'''Age:+]''' %0a(:cell width=440:) %25define=mistgreen    color=#669966%25 '''[+34+]''' %0a(:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 [+'''Player:'''+] %0a(:cell width=440:) %25define=mistgreen    color=#669966%25 '''[+Enigma+]''' %0a(:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 [+'''Actor:'''+] %0a(:cell width=440:) %25define=mistgreen    color=#669966%25 '''[+Natalie Dormer+]'''%0a%0a(:tableend:)%0a%0a(:div2 style='background-color:rgba(0,0,0,0.5);' :)%0a----%0a%0a%25center%25https://i.imgur.com/pIntkUP.png%0a%0a%0a%0a%25center%25https://i.imgur.com/fo80Xk1.png%0a%0a%25center%25https://i.imgur.com/qyusrmG.jpg%0a%0a%25center%25%25define=mistgreen    color=#669966%25 [+Josie looks like an attractive woman in her mid-30s. Long golden hair falls down past her shoulders, and those striking blue eyes seem to dart all around as if she’s either trying to notice everything. Or looking out for trouble. She’s very talkative and comes across as someone who makes friends easily. Her mouth is usually either smiling or else making a less-than-impressed duckface. The only odd thing that might seem out of place about her is the fact that she’s rather current on youth slang and pop culture.+] %0a%0a%0a%25center%25https://i.imgur.com/rfgODhc.png%0a%25center%25 https://i.imgur.com/IiB1fgG.jpg%0a%25center%25%25define=mistgreen    color=#669966%25 [+An almost classical image of a mermaid, though the symmetry of her visage might seem a little too perfect and the golden hair of her mask is now a shimmering kaleidoscope of rainbowed hues. The strands seem to occasionally drift and move by themselves as if affected by some unseen current. Her eyes are slightly larger and their shade of blue constantly shifts between summer sky and deep sea depths.+]%0a%0a%25center%25%25define=mistgreen    color=#669966%25 [+The flesh below her neck is adorned with patches of glimmering iridescent scales that sparkle in the light and darken to nearly black beneath the water’s surface. Her arms are slender and long, ending in spidery fingers connected with webbing. Rather than the expected single fishtail, her legs are separate and visibly muscular. The biggest oddity are her feet, which are twice the length they should be with equally long webbed toes like a pair of flippers.+] %0a%0a%25center%25https://i.imgur.com/1mJG626.png%0a%0a%25center%25%25define=mistgreen    color=#669966%25 [+The salty smell of a cool ocean evening breeze seems to hover around Josie. Occasionally it will be mixed with the scent of fresh sawgrass.+]%0a %0a%25center%25https://i.imgur.com/1tuCXGG.gif%0a----%0a(:div2end:)%0a%0a%25center%25https://i.imgur.com/NsqokmD.png%0a%0a||! %25changeling%25Image ||! %25changeling%25Name ||! %25changeling%25Relationship ||! %25changeling%25Comment ||! %25changeling%25Ringtone ||%0a|| %25thumb%25https://i.imgur.com/mi3dSlf.png || %25changeling%25PC Name || %25changeling%25Relationship to PC || %25changeling%25Comments || %25newwin%25[[http://www.youtube.com/|%25changeling%25Ringtone]] ||%0a|| %25thumb%25https://i.imgur.com/mi3dSlf.png || %25changeling%25PC Name || %25changeling%25Relationship to PC || %25changeling%25Comments || %25newwin%25[[http://www.youtube.com/|%25changeling%25Ringtone]] ||%0a|| %25thumb%25https://i.imgur.com/mi3dSlf.png || %25changeling%25PC Name || %25changeling%25Relationship to PC || %25changeling%25Comments || %25newwin%25[[http://www.youtube.com/|%25changeling%25Ringtone]] ||%0a|| %25thumb%25https://i.imgur.com/mi3dSlf.png || %25changeling%25PC Name || %25changeling%25Relationship to PC || %25changeling%25Comments || %25newwin%25[[http://www.youtube.com/|%25changeling%25Ringtone]] ||%0a|| %25thumb%25https://i.imgur.com/mi3dSlf.png || %25changeling%25PC Name || %25changeling%25Relationship to PC || %25changeling%25Comments || %25newwin%25[[http://www.youtube.com/|%25changeling%25Ringtone]] ||%0a%0a(:div2 style='background-color:rgba(0,0,0,0.5);' :)%0a----%0a%0a%25center%25https://i.imgur.com/bN6oBvc.png%0a%0a!!!!%25bgcolor=black changeling%25 ''Study Buddy (University)'': %0a%25center%25%25define=mistgreen    color=#669966%25 [+Josie is enrolled in the University to get her Bachelor's Degree. As an "adult going back to college", she is always looking for someone to study with. If she's on campus, she's either in class or hanging out at the student center.+]%0a%0a!!!!%25bgcolor=black changeling%25 ''Surf's Up (Everyone)'': %0a%25center%25%25define=mistgreen    color=#669966%25 [+It's really no surprise that Josie loves the beach. Day or night, she can never really get enough of the roar of the surf or the ocean spray. She's recently become interested in learning how to surf. She's got her own board, but for someone uber graceful under the water, she's like a newborn calf on top of it. Come on down and have a laugh watching her bust her butt. Or offer to teach her how to really rip a curl!+]%0a%0a!!!!%25bgcolor=black changeling%25 ''Fish Out of Water (Everyone)'': %0a%25center%25%25define=mistgreen    color=#669966%25 [+Josie might look like a grown woman with years of worldly experience. The truth is, she's more comfortable sitting on the swings in a park than curling up to a rowdy bar. She's also a fan of video games, movies, and shopping. After all, what's the point in being alive if you don't really live?+]%0a%0a%0a%25center%25https://i.imgur.com/2dNsCmb.jpg%0a%25center%25https://i.imgur.com/JL1y5Zo.jpg%0a%0a----%0a(:div2end:)%0a%0a(:table table border=0 cellpadding=5 cellspacing=0:)%0a%0a(:cellnr width=100%25:)%0a%0a%25center%25https://i.imgur.com/QlwSEzS.png%0a%0a%25left%25%25define=mistgreen    color=#669966%25 [+"The weirdest part of the aging thing is I friended my mom on Facebook." -Josie+] \\%0a%25mortal%25 "I am a quote! Fear me!" -A person with a face. \\%0a%25mage%25 "I am a quote! Fear me!" -A magic person. \\%0a%25vampire%25 "I am a quote! Fear me!" -A person with fangs. \\%0a%25werewolf%25 "I am a quote! Fear me!" -A person that can woof. \\%0a%25changeling%25 "I am a quote! Fear me!" -A person that can shift forms. \\%0a%0a(:tableend:)%0a(:include GameRef.Directoryplayerchangeling:)
+time=1594342201
+author:1594342201=Enigma
+diff:1594342201:1594342160:=92c92%0a%3c %25center%25%25define=mistgreen    color=#669966%25 [+Josie might look like a grown woman with years of worldly experience. The truth is, she's more comfortable sitting on the swings in a park than curling up to a rowdy bar. She's also a fan of video games, movies, and shopping. After all, what's the point in being alive if you don't really live?+]%0a---%0a> %25center%25%25define=mistgreen    color=#669966%25 [+Josie might look like a grown woman with years of worldly experience. The truth is, she's more comfortable sitting on the swings in a park than curling up to a rowdy bar. She's also a fan of video games, movies, and shopping. What's the point in being alive if you don't really live?+]%0a
+host:1594342201=107.136.74.157
+author:1594342160=Enigma
+diff:1594342160:1594340957:=90,92d89%0a%3c %0a%3c !!!!%25bgcolor=black changeling%25 ''Fish Out of Water (Everyone)'': %0a%3c %25center%25%25define=mistgreen    color=#669966%25 [+Josie might look like a grown woman with years of worldly experience. The truth is, she's more comfortable sitting on the swings in a park than curling up to a rowdy bar. She's also a fan of video games, movies, and shopping. What's the point in being alive if you don't really live?+]%0a
+host:1594342160=107.136.74.157
+author:1594340957=Enigma
+diff:1594340957:1594340906:=93,94c93%0a%3c %25center%25https://i.imgur.com/JL1y5Zo.jpg%0a%3c %0a---%0a> %0a112c111,112%0a%3c (:include GameRef.Directoryplayerchangeling:)%0a\ No newline at end of file%0a---%0a> (:include GameRef.Directoryplayerchangeling:)%0a> https://i.imgur.com/JL1y5Zo.jpg%0a\ No newline at end of file%0a
+host:1594340957=107.136.74.157
+author:1594340906=Enigma
+diff:1594340906:1594340685:=111,112c111%0a%3c (:include GameRef.Directoryplayerchangeling:)%0a%3c https://i.imgur.com/JL1y5Zo.jpg%0a\ No newline at end of file%0a---%0a> (:include GameRef.Directoryplayerchangeling:)%0a\ No newline at end of file%0a
+host:1594340906=107.136.74.157
+author:1594340685=Enigma
+diff:1594340685:1594340607:=65c65%0a%3c %25center%25%25define=mistgreen    color=#669966%25 [+The salty smell of a cool ocean evening breeze seems to hover around Josie. Occasionally it will be mixed with the scent of fresh sawgrass.+]%0a---%0a> %25center%25%25define=mistgreen    color=#669966%25 [+The salty smell of a cool ocean evening seems to hover around Josie and is sometimes mixed with the scent of fresh sawgrass.+]%0a
+host:1594340685=107.136.74.157
+author:1594340607=Enigma
+diff:1594340607:1594340499:=67c67%0a%3c %25center%25https://i.imgur.com/1tuCXGG.gif%0a---%0a> %25center%25https://i.imgur.com/ZNzQUhF.gif%0a
+host:1594340607=107.136.74.157
+author:1594340499=Enigma
+diff:1594340499:1594338026:=15c15%0a%3c (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 '''[+Alias(es):+]''' %0a---%0a> (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 '''Alias(es):''' %0a17c17%0a%3c (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 [+'''Seeming:+]''' %0a---%0a> (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 '''Seeming:''' %0a19c19%0a%3c (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 [+'''Kith:+]''' %0a---%0a> (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 '''Kith:''' %0a21c21%0a%3c (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 [+'''Court:'''+] %0a---%0a> (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 '''Court:''' %0a23c23%0a%3c (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 [+'''Motley:'''+] %0a---%0a> (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 '''Motley:''' %0a25c25%0a%3c (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 [+'''Needle/Thread:+]''' %0a---%0a> (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 '''Needle/Thread:''' %0a27c27%0a%3c (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 [+'''Public Effects:+]''' %0a---%0a> (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 '''Public Effects:''' %0a32c32%0a%3c (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 [+'''Profession:+]''' %0a---%0a> (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 '''Profession:''' %0a34c34%0a%3c (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 [+'''Age:+]''' %0a---%0a> (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 '''Age:''' %0a36c36%0a%3c (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 [+'''Player:'''+] %0a---%0a> (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 '''Player:''' %0a38c38%0a%3c (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 [+'''Actor:'''+] %0a---%0a> (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 '''Actor:''' %0a
+host:1594340499=107.136.74.157
+author:1594338026=Enigma
+diff:1594338026:1594338012:=31a32%0a> %0a
+host:1594338026=107.136.74.157
+author:1594338012=Enigma
+diff:1594338012:1594337974:=30,31c30,31%0a%3c **%25define=mistgreen    color=#669966%25'''[+Danger Sense+]''' %0a%3c **%25define=mistgreen    color=#669966%25'''[+Fast-Reflexes+]''' %0a---%0a> **Danger Sense %0a> **Fast-Reflexes %0a
+host:1594338012=107.136.74.157
+author:1594337974=Enigma
+diff:1594337974:1594337950:=29c29%0a%3c **%25define=mistgreen    color=#669966%25'''[+Striking Looks+]''' %0a---%0a> **%25define=mistgreen    color=#669966%25Striking Looks %0a
+host:1594337974=107.136.74.157
+author:1594337950=Enigma
+diff:1594337950:1594337926:=29c29%0a%3c **%25define=mistgreen    color=#669966%25Striking Looks %0a---%0a> %25define=mistgreen    color=#669966%25**Striking Looks %0a
+host:1594337950=107.136.74.157
+author:1594337926=Enigma
+diff:1594337926:1594337904:=29c29%0a%3c %25define=mistgreen    color=#669966%25**Striking Looks %0a---%0a> **Striking Looks %0a
+host:1594337926=107.136.74.157
+author:1594337904=Enigma
+diff:1594337904:1594337880:=29,31c29,31%0a%3c **Striking Looks %0a%3c **Danger Sense %0a%3c **Fast-Reflexes %0a---%0a> %25define=mistgreen    color=#669966%25**Striking Looks %0a> %25define=mistgreen    color=#669966%25**Danger Sense %0a> %25define=mistgreen    color=#669966%25**Fast-Reflexes %0a
+host:1594337904=107.136.74.157
+author:1594337880=Enigma
+diff:1594337880:1594337857:=29,31c29,31%0a%3c %25define=mistgreen    color=#669966%25**Striking Looks %0a%3c %25define=mistgreen    color=#669966%25**Danger Sense %0a%3c %25define=mistgreen    color=#669966%25**Fast-Reflexes %0a---%0a> %25define=mistgreen    color=#669966%25**Striking Looks **%0a> %25define=mistgreen    color=#669966%25**Danger Sense **%0a> %25define=mistgreen    color=#669966%25**Fast-Reflexes **%0a
+host:1594337880=107.136.74.157
+author:1594337857=Enigma
+diff:1594337857:1594337787:=29,32c29,34%0a%3c %25define=mistgreen    color=#669966%25**Striking Looks **%0a%3c %25define=mistgreen    color=#669966%25**Danger Sense **%0a%3c %25define=mistgreen    color=#669966%25**Fast-Reflexes **%0a%3c %0a---%0a> **Header%0a> **Other Item%0a> **More Info%0a> %0a> %25define=mistgreen    color=#669966%25 **Fast-Reflexes%0a> %25define=mistgreen    color=#669966%25 **Danger Sense (2)%0a
+host:1594337857=107.136.74.157
+author:1594337787=Enigma
+diff:1594337787:1594337767:=28,29c28%0a%3c (:cell width=440:) %25define=mistgreen    color=#669966%25 %0a%3c **Header%0a---%0a> (:cell width=440:) %25define=mistgreen    color=#669966%25 Header%0a
+host:1594337787=107.136.74.157
+author:1594337767=Enigma
+diff:1594337767:1594337723:=28c28%0a%3c (:cell width=440:) %25define=mistgreen    color=#669966%25 Header%0a---%0a> (:cell width=440:) %25define=mistgreen    color=#669966%25 * Header%0a
+host:1594337767=107.136.74.157
+author:1594337723=Enigma
+diff:1594337723:1594337709:=28c28%0a%3c (:cell width=440:) %25define=mistgreen    color=#669966%25 * Header%0a---%0a> (:cell width=440:) %25define=mistgreen    color=#669966%25 *Header%0a
+host:1594337723=107.136.74.157
+author:1594337709=Enigma
+diff:1594337709:1594337687:=28c28%0a%3c (:cell width=440:) %25define=mistgreen    color=#669966%25 *Header%0a---%0a> (:cell width=440:) %25define=mistgreen    color=#669966%25 **Header%0a
+host:1594337709=107.136.74.157
+author:1594337687=Enigma
+diff:1594337687:1594337667:=28c28%0a%3c (:cell width=440:) %25define=mistgreen    color=#669966%25 **Header%0a---%0a> (:cell width=440:) %25define=mistgreen    color=#669966%25 *Header%0a
+host:1594337687=107.136.74.157
+author:1594337667=Enigma
+diff:1594337667:1594337651:=30c30%0a%3c **More Info%0a---%0a> ***More Info%0a
+host:1594337667=107.136.74.157
+author:1594337651=Enigma
+diff:1594337651:1594335531:=28,31c28%0a%3c (:cell width=440:) %25define=mistgreen    color=#669966%25 *Header%0a%3c **Other Item%0a%3c ***More Info%0a%3c %0a---%0a> (:cell width=440:) %25define=mistgreen    color=#669966%25 **Striking Looks (2)%0a
+host:1594337651=107.136.74.157
+author:1594335531=Enigma
+diff:1594335531:1594335189:=28,30c28,30%0a%3c (:cell width=440:) %25define=mistgreen    color=#669966%25 **Striking Looks (2)%0a%3c %25define=mistgreen    color=#669966%25 **Fast-Reflexes%0a%3c %25define=mistgreen    color=#669966%25 **Danger Sense (2)%0a---%0a> (:cell width=440:) %25define=mistgreen    color=#669966%25 *Striking Looks (2)%0a> %25define=mistgreen    color=#669966%25 *Fast-Reflexes%0a> %25define=mistgreen    color=#669966%25 *Danger Sense (2)%0a
+host:1594335531=107.136.74.157
+author:1594335189=Enigma
+diff:1594335189:1594335106:=29a30%0a> %0a
+host:1594335189=107.136.74.157
+author:1594335106=Enigma
+diff:1594335106:1594335089:=30d29%0a%3c %0a
+host:1594335106=107.136.74.157
+author:1594335089=Enigma
+diff:1594335089:1594335067:=29,30c29,30%0a%3c %25define=mistgreen    color=#669966%25 *Fast-Reflexes%0a%3c %25define=mistgreen    color=#669966%25 *Danger Sense (2)%0a---%0a> %25define=mistgreen    color=#669966%25*Fast-Reflexes%0a> %25define=mistgreen    color=#669966%25*Danger Sense (2)%0a
+host:1594335089=107.136.74.157
+author:1594335067=Enigma
+diff:1594335067:1594335037:=28,30c28,30%0a%3c (:cell width=440:) %25define=mistgreen    color=#669966%25 *Striking Looks (2)%0a%3c %25define=mistgreen    color=#669966%25*Fast-Reflexes%0a%3c %25define=mistgreen    color=#669966%25*Danger Sense (2)%0a---%0a> (:cell width=440:) %25define=mistgreen    color=#669966%25 * Striking Looks (2)%0a> *Fast-Reflexes%0a> *Danger Sense (2)%0a
+host:1594335067=107.136.74.157
+author:1594335037=Enigma
+diff:1594335037:1594335004:=28c28%0a%3c (:cell width=440:) %25define=mistgreen    color=#669966%25 * Striking Looks (2)%0a---%0a> (:cell width=440:) %25define=mistgreen    color=#669966%25 Striking Looks **%0a30c30%0a%3c *Danger Sense (2)%0a---%0a> *Danger Sense%0a
+host:1594335037=107.136.74.157
+author:1594335004=Enigma
+diff:1594335004:1594334580:=28,30c28,33%0a%3c (:cell width=440:) %25define=mistgreen    color=#669966%25 Striking Looks **%0a%3c *Fast-Reflexes%0a%3c *Danger Sense%0a---%0a> (:cell width=440:) %25define=mistgreen    color=#669966%25 Striking Looks **\\%0a> %25define=mistgreen    color=#669966%25 Fast-Talker%0a> \\ %0a> \\%0a> \\%0a> \\%0a
+host:1594335004=107.136.74.157
+author:1594334580=Enigma
+diff:1594334580:1594334556:=31,33d30%0a%3c \\%0a%3c \\%0a%3c \\%0a
+host:1594334580=107.136.74.157
+author:1594334556=Enigma
+diff:1594334556:1594334535:=29,30c29%0a%3c %25define=mistgreen    color=#669966%25 Fast-Talker%0a%3c \\ %0a---%0a> %25define=mistgreen    color=#669966%25 Fast-Talker \\ %0a
+host:1594334556=107.136.74.157
+author:1594334535=Enigma
+diff:1594334535:1594334496:=29c29%0a%3c %25define=mistgreen    color=#669966%25 Fast-Talker \\ %0a---%0a> Fast-Talker \\ %0a
+host:1594334535=107.136.74.157
+author:1594334496=Enigma
+diff:1594334496:1594334466:=29c29%0a%3c Fast-Talker \\ %0a---%0a> Fast-Talker\\ %0a
+host:1594334496=107.136.74.157
+author:1594334466=Enigma
+diff:1594334466:1594334381:=28,29c28%0a%3c (:cell width=440:) %25define=mistgreen    color=#669966%25 Striking Looks **\\%0a%3c Fast-Talker\\ %0a---%0a> (:cell width=440:) %25define=mistgreen    color=#669966%25 [Enter Here] %0a
+host:1594334466=107.136.74.157
+author:1594334381=Enigma
+diff:1594334381:1594334332:=100c100%0a%3c %25left%25%25define=mistgreen    color=#669966%25 [+"The weirdest part of the aging thing is I friended my mom on Facebook." -Josie+] \\%0a---%0a> %25left%25%25define=mistgreen    color=#669966%25 [+"The weirdest part of it all is friending my mom on Facebook." -Josie+] \\%0a
+host:1594334381=107.136.74.157
+author:1594334332=Enigma
+diff:1594334332:1594334266:=100c100%0a%3c %25left%25%25define=mistgreen    color=#669966%25 [+"The weirdest part of it all is friending my mom on Facebook." -Josie+] \\%0a---%0a> %25center%25%25define=mistgreen    color=#669966%25 [+"I am a quote! Fear me!" -A person with a face.+] \\%0a
+host:1594334332=107.136.74.157
+author:1594334266=Enigma
+diff:1594334266:1594334182:=100d99%0a%3c %25center%25%25define=mistgreen    color=#669966%25 [+"I am a quote! Fear me!" -A person with a face.+] \\%0a
+host:1594334266=107.136.74.157
+author:1594334182=Enigma
+diff:1594334182:1594334073:=89c89%0a%3c %25center%25https://i.imgur.com/2dNsCmb.jpg%0a---%0a> %0a
+host:1594334182=107.136.74.157
+author:1594334073=Enigma
+diff:1594334073:1594334026:=88c88,89%0a%3c %0a---%0a> !!!!%25bgcolor=black changeling%25 ''Hook 3(Who it effects)'': %0a> Hook info here%0a
+host:1594334073=107.136.74.157
+author:1594334026=Enigma
+diff:1594334026:1594333935:=51c51%0a%3c %25center%25%25define=mistgreen    color=#669966%25 [+Josie looks like an attractive woman in her mid-30s. Long golden hair falls down past her shoulders, and those striking blue eyes seem to dart all around as if she’s either trying to notice everything. Or looking out for trouble. She’s very talkative and comes across as someone who makes friends easily. Her mouth is usually either smiling or else making a less-than-impressed duckface. The only odd thing that might seem out of place about her is the fact that she’s rather current on youth slang and pop culture.+] %0a---%0a> %25center%25%25define=mistgreen    color=#669966%25 [+Josie looks like an attractive woman in her mid-30s. Her long blonde hair falls down past her shoulders and her striking blue eyes seem to dart everywhere as if she’s either trying to notice everything around her. Or looking for any possible trouble. She’s very talkative and comes across as someone who makes friends easily. Her mouth is usually either smiling or else making a less-than-impressed duckface. The only odd thing that might seem out of place about her is the fact that she’s rather current on youth slang and pop culture.+] %0a
+host:1594334026=107.136.74.157
+author:1594333935=Enigma
+diff:1594333935:1594333908:=62c62,63%0a%3c %25center%25%25define=mistgreen    color=#669966%25 [+The salty smell of a cool ocean evening seems to hover around Josie and is sometimes mixed with the scent of fresh sawgrass.+]%0a---%0a> %25center%25%25define=mistgreen    color=#669966%25 [+The salty smell of a cool ocean evening seems to hover around Josie and is sometimes+]%0a> %25center%25%25define=mistgreen    color=#669966%25 [+mixed with the scent of fresh sawgrass.+]%0a
+host:1594333935=107.136.74.157
+author:1594333908=Enigma
+diff:1594333908:1594333867:=62,63c62%0a%3c %25center%25%25define=mistgreen    color=#669966%25 [+The salty smell of a cool ocean evening seems to hover around Josie and is sometimes+]%0a%3c %25center%25%25define=mistgreen    color=#669966%25 [+mixed with the scent of fresh sawgrass.+]%0a---%0a> %25center%25%25define=mistgreen    color=#669966%25 [+The salty smell of a cool ocean evening seems to hover around Josie and is sometimes mixed with the scent of fresh sawgrass.+]%0a
+host:1594333908=107.136.74.157
+author:1594333867=Enigma
+diff:1594333867:1594333683:=62c62%0a%3c %25center%25%25define=mistgreen    color=#669966%25 [+The salty smell of a cool ocean evening seems to hover around Josie and is sometimes mixed with the scent of fresh sawgrass.+]%0a---%0a> %25center%25%25define=mistgreen    color=#669966%25 [+The salty smell of a cool ocean evening seems to hover around Josie and is sometimes mixed with the scent of coconuts.+]%0a
+host:1594333867=107.136.74.157
+author:1594333683=Enigma
+diff:1594333683:1594333483:=62c62%0a%3c %25center%25%25define=mistgreen    color=#669966%25 [+The salty smell of a cool ocean evening seems to hover around Josie and is sometimes mixed with the scent of coconuts.+]%0a---%0a> %0a
+host:1594333683=107.136.74.157
+author:1594333483=Enigma
+diff:1594333483:1594333456:=64c64%0a%3c %25center%25https://i.imgur.com/ZNzQUhF.gif%0a---%0a> %25center%25https://i.imgur.com/ZNzQUhF.gifv%0a
+host:1594333483=107.136.74.157
+author:1594333456=Enigma
+diff:1594333456:1594333257:=64c64%0a%3c %25center%25https://i.imgur.com/ZNzQUhF.gifv%0a---%0a> %0a
+host:1594333456=107.136.74.157
+author:1594333257=Enigma
+diff:1594333257:1594333221:=56c56%0a%3c %25center%25%25define=mistgreen    color=#669966%25 [+An almost classical image of a mermaid, though the symmetry of her visage might seem a little too perfect and the golden hair of her mask is now a shimmering kaleidoscope of rainbowed hues. The strands seem to occasionally drift and move by themselves as if affected by some unseen current. Her eyes are slightly larger and their shade of blue constantly shifts between summer sky and deep sea depths.+]%0a---%0a> %25center%25%25define=mistgreen    color=#669966%25 [+An almost classical image of a mermaid, though the symmetry of her visage might seem a little too perfect and the golden hair of her mask is now a shimmering kaleidoscope of rainbowed hues. The strands seem to occasionally drift and move by themselves as if affected by some unseen current. Her eyes are slightly larger and their blue shifts between summer sky and deep sea depths.+]%0a
+host:1594333257=107.136.74.157
+author:1594333221=Enigma
+diff:1594333221:1594333158:=56,59c56,57%0a%3c %25center%25%25define=mistgreen    color=#669966%25 [+An almost classical image of a mermaid, though the symmetry of her visage might seem a little too perfect and the golden hair of her mask is now a shimmering kaleidoscope of rainbowed hues. The strands seem to occasionally drift and move by themselves as if affected by some unseen current. Her eyes are slightly larger and their blue shifts between summer sky and deep sea depths.+]%0a%3c %0a%3c %25center%25%25define=mistgreen    color=#669966%25 [+The flesh below her neck is adorned with patches of glimmering iridescent scales that sparkle in the light and darken to nearly black beneath the water’s surface. Her arms are slender and long, ending in spidery fingers connected with webbing. Rather than the expected single fishtail, her legs are separate and visibly muscular. The biggest oddity are her feet, which are twice the length they should be with equally long webbed toes like a pair of flippers.+] %0a%3c %0a---%0a> %25center%25[Enter Here] %0a> %0a62c60,62%0a%3c %0a---%0a> %25center%25%25define=mistgreen    color=#669966%25 [+An almost classical image of a mermaid, though the symmetry of her visage might seem a little too perfect and the golden hair of her mask is now a shimmering kaleidoscope of rainbowed hues. The strands seem to occasionally drift and move by themselves as if affected by some unseen current. Her eyes are slightly larger and their blue shifts between summer sky and deep sea depths.%0a> %0a> The flesh below her neck is adorned with patches of glimmering iridescent scales that sparkle in the light and darken to nearly black beneath the water’s surface. Her arms are slender and long, ending in spidery fingers connected with webbing. Rather than the expected single fishtail, her legs are separate and visibly muscular. The biggest oddity are her feet, which are twice the length they should be with equally long webbed toes like a pair of flippers.+]%0a
+host:1594333221=107.136.74.157
+author:1594333158=Enigma
+diff:1594333158:1594331428:=60,63c60%0a%3c %25center%25%25define=mistgreen    color=#669966%25 [+An almost classical image of a mermaid, though the symmetry of her visage might seem a little too perfect and the golden hair of her mask is now a shimmering kaleidoscope of rainbowed hues. The strands seem to occasionally drift and move by themselves as if affected by some unseen current. Her eyes are slightly larger and their blue shifts between summer sky and deep sea depths.%0a%3c %0a%3c The flesh below her neck is adorned with patches of glimmering iridescent scales that sparkle in the light and darken to nearly black beneath the water’s surface. Her arms are slender and long, ending in spidery fingers connected with webbing. Rather than the expected single fishtail, her legs are separate and visibly muscular. The biggest oddity are her feet, which are twice the length they should be with equally long webbed toes like a pair of flippers.+]%0a%3c  %0a---%0a> %25center%25[Enter Here] %0a
+host:1594333158=107.136.74.157
+author:1594331428=Enigma
+diff:1594331428:1594331344:=80,81c80,81%0a%3c %25center%25%25define=mistgreen    color=#669966%25 [+Josie is enrolled in the University to get her Bachelor's Degree. As an "adult going back to college", she is always looking for someone to study with. If she's on campus, she's either in class or hanging out at the student center.+]%0a%3c %0a---%0a> %25center%25%25define=teal         color=#008080%25 [+Josie is enrolled in the University to get her Bachelor's Degree. As an "adult going back to college", she is always looking for someone to study with. If she's on campus, she's either in class or hanging out at the student center.+]%0a> %0a83c83%0a%3c %25center%25%25define=mistgreen    color=#669966%25 [+It's really no surprise that Josie loves the beach. Day or night, she can never really get enough of the roar of the surf or the ocean spray. She's recently become interested in learning how to surf. She's got her own board, but for someone uber graceful under the water, she's like a newborn calf on top of it. Come on down and have a laugh watching her bust her butt. Or offer to teach her how to really rip a curl!+]%0a---%0a> %25center%25%25define=teal         color=#008080%25 [+It's really no surprise that Josie loves the beach. Day or night, she can never really get enough of the roar of the surf or the ocean spray. She's recently become interested in learning how to surf. She's got her own board, but for someone uber graceful under the water, she's like a newborn calf on top of it. Come on down and have a laugh watching her bust her butt. Or offer to teach her how to really rip a curl!+]%0a
+host:1594331428=107.136.74.157
+author:1594331344=Enigma
+diff:1594331344:1594331215:=49,50c49%0a%3c %25center%25https://i.imgur.com/qyusrmG.jpg%0a%3c %0a---%0a> https://i.imgur.com/iDy7QZz.jpg https://i.imgur.com/8YajeV2.jpg%0a
+host:1594331344=107.136.74.157
+author:1594331215=Enigma
+diff:1594331215:1594331139:=48,49c48,53%0a%3c %0a%3c https://i.imgur.com/iDy7QZz.jpg https://i.imgur.com/8YajeV2.jpg%0a---%0a> (:table table border=0 cellpadding=10 cellspacing=0:)%0a> (:cellnr width=200%25:)%0a> ||  || https://i.imgur.com/iDy7QZz.jpg || https://i.imgur.com/8YajeV2.jpg || %0a> %0a> (:tableend:)%0a> %0a
+host:1594331215=107.136.74.157
+author:1594331139=Enigma
+diff:1594331139:1594331099:=54c54,55%0a%3c %25center%25%25define=mistgreen    color=#669966%25 [+Josie looks like an attractive woman in her mid-30s. Her long blonde hair falls down past her shoulders and her striking blue eyes seem to dart everywhere as if she’s either trying to notice everything around her. Or looking for any possible trouble. She’s very talkative and comes across as someone who makes friends easily. Her mouth is usually either smiling or else making a less-than-impressed duckface. The only odd thing that might seem out of place about her is the fact that she’s rather current on youth slang and pop culture.+] %0a---%0a> %25right text-align=center border='2px solid' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=250px height=250px%25https://i.imgur.com/2vNhMQx.jpg %0a> %25center%25%25define=teal         color=#008080%25 [+Josie looks like an attractive woman in her mid-30s. Her long blonde hair falls down past her shoulders and her striking blue eyes seem to dart everywhere as if she’s either trying to notice everything around her. Or looking for any possible trouble. She’s very talkative and comes across as someone who makes friends easily. Her mouth is usually either smiling or else making a less-than-impressed duckface. The only odd thing that might seem out of place about her is the fact that she’s rather current on youth slang and pop culture.+] %0a
+host:1594331139=107.136.74.157
+author:1594331099=Enigma
+diff:1594331099:1594331061:=10,12c10,12%0a%3c *[[https://www.youtube.com/watch?v=4ahHWROn8M0|%25define=mistgreen    color=#669966%25'''[++Hurt++]''']]%0a%3c *[[https://www.youtube.com/watch?v=g0_BlUbGBSo|%25define=mistgreen    color=#669966%25'''[++Demons++]''']]%0a%3c *[[https://www.youtube.com/watch?v=ZV9DNpkfak0|%25define=mistgreen    color=#669966%25'''[++And She Was++]''']]%0a---%0a> *[[https://www.youtube.com/watch?v=4ahHWROn8M0|%25changeling%25'''[++Hurt++]''']]%0a> *[[https://www.youtube.com/watch?v=g0_BlUbGBSo|%25changeling%25'''[++Demons++]''']]%0a> *[[https://www.youtube.com/watch?v=ZV9DNpkfak0|%25changeling%25'''[++And She Was++]''']]%0a
+host:1594331099=107.136.74.157
+author:1594331061=Enigma
+diff:1594331061:1594330923:=14,36c14,36%0a%3c (:cell width=440:) %25define=mistgreen    color=#669966%25 '''[+Josephine Davenport+]''' %0a%3c (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 '''Alias(es):''' %0a%3c (:cell width=440:) %25define=mistgreen    color=#669966%25 '''[+Josie or Jo+]''' %0a%3c (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 '''Seeming:''' %0a%3c (:cell width=440:) %25define=mistgreen    color=#669966%25 '''[+Fairest+]''' %0a%3c (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 '''Kith:''' %0a%3c (:cell width=440:) %25define=mistgreen    color=#669966%25 '''[+Swimmerskin+]''' %0a%3c (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 '''Court:''' %0a%3c (:cell width=440:) %25define=mistgreen    color=#669966%25 '''[+Spring+]''' %0a%3c (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 '''Motley:''' %0a%3c (:cell width=440:) %25define=mistgreen    color=#669966%25 '''[+None+]''' %0a%3c (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 '''Needle/Thread:''' %0a%3c (:cell width=440:) %25define=mistgreen    color=#669966%25 '''[+Protector/Memory+]''' %0a%3c (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 '''Public Effects:''' %0a%3c (:cell width=440:) %25define=mistgreen    color=#669966%25 [Enter Here] %0a%3c (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 '''Profession:''' %0a%3c (:cell width=440:) %25define=mistgreen    color=#669966%25 '''[+Lifeguard / Student+]'''%0a%3c (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 '''Age:''' %0a%3c (:cell width=440:) %25define=mistgreen    color=#669966%25 '''[+34+]''' %0a%3c (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 '''Player:''' %0a%3c (:cell width=440:) %25define=mistgreen    color=#669966%25 '''[+Enigma+]''' %0a%3c (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 '''Actor:''' %0a%3c (:cell width=440:) %25define=mistgreen    color=#669966%25 '''[+Natalie Dormer+]'''%0a---%0a> (:cell width=440:) %25define=teal         color=#008080%25 '''[+Josephine Davenport+]''' %0a> (:cellnr width=260 align=left:)%25changeling%25'''Alias(es):''' %0a> (:cell width=440:) %25define=teal         color=#008080%25 '''[+Josie or Jo+]''' %0a> (:cellnr width=260 align=left:)%25changeling%25'''Seeming:''' %0a> (:cell width=440:) %25define=teal         color=#008080%25 '''[+Fairest+]''' %0a> (:cellnr width=260 align=left:)%25changeling%25'''Kith:''' %0a> (:cell width=440:) %25define=teal         color=#008080%25 '''[+Swimmerskin+]''' %0a> (:cellnr width=260 align=left:)%25changeling%25'''Court:''' %0a> (:cell width=440:) %25define=teal         color=#008080%25 '''[+Spring+]''' %0a> (:cellnr width=260 align=left:)%25changeling%25'''Motley:''' %0a> (:cell width=440:) %25define=teal         color=#008080%25 '''[+None+]''' %0a> (:cellnr width=260 align=left:)%25changeling%25'''Needle/Thread:''' %0a> (:cell width=440:) %25define=teal         color=#008080%25 '''[+Protector/Memory+]''' %0a> (:cellnr width=260 align=left:)%25changeling%25'''Public Effects:''' %0a> (:cell width=440:) %25define=teal         color=#008080%25 [Enter Here] %0a> (:cellnr width=260 align=left:)%25changeling%25'''Profession:''' %0a> (:cell width=440:) %25define=teal         color=#008080%25 '''[+Lifeguard / Student+]'''%0a> (:cellnr width=260 align=left:)%25changeling%25'''Age:''' %0a> (:cell width=440:) %25define=teal         color=#008080%25 '''[+34+]''' %0a> (:cellnr width=260 align=left:)%25changeling%25'''Player:''' %0a> (:cell width=440:) %25define=teal         color=#008080%25 '''[+Enigma+]''' %0a> (:cellnr width=260 align=left:)%25changeling%25'''Actor:''' %0a> (:cell width=440:) %25define=teal         color=#008080%25 '''[+Natalie Dormer+]'''%0a
+host:1594331061=107.136.74.157
+author:1594330923=Enigma
+diff:1594330923:1594330876:=13c13%0a%3c (:cellnr width=260 align=left:)%25define=mistgreen    color=#669966%25 '''[+Name:+] '''%0a---%0a> (:cellnr width=260 align=left:)%25define=springgreen  color=#00ff7f%25 '''[+Name:+] '''%0a
+host:1594330923=107.136.74.157
+author:1594330876=Enigma
+diff:1594330876:1594330822:=13c13%0a%3c (:cellnr width=260 align=left:)%25define=springgreen  color=#00ff7f%25 '''[+Name:+] '''%0a---%0a> (:cellnr width=260 align=left:)%25changeling%25 '''[+Name:+] '''%0a
+host:1594330876=107.136.74.157
+author:1594330822=Enigma
+diff:1594330822:1594330791:=13c13%0a%3c (:cellnr width=260 align=left:)%25changeling%25 '''[+Name:+] '''%0a---%0a> (:cellnr width=260 align=left:)%25changeling%25 [[++Name:++]] %0a
+host:1594330822=107.136.74.157
+author:1594330791=Enigma
+diff:1594330791:1594330741:=13c13%0a%3c (:cellnr width=260 align=left:)%25changeling%25 [[++Name:++]] %0a---%0a> (:cellnr width=260 align=left:)%25changeling%25 [+Name:+] %0a
+host:1594330791=107.136.74.157
+author:1594330741=Enigma
+diff:1594330741:1594330264:=8c8%0a%3c %25center%25https://i.imgur.com/Mpue7PF.jpg%0a---%0a> %25center%25https://i.imgur.com/0ch23rf.jpg%0a
+host:1594330741=107.136.74.157
+author:1594330264=Enigma
+diff:1594330264:1594330242:=54c54%0a%3c %25right text-align=center border='2px solid' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=250px height=250px%25https://i.imgur.com/2vNhMQx.jpg %0a---%0a> %25rfloat text-align=center border='2px solid' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=250px height=250px%25https://i.imgur.com/2vNhMQx.jpg %0a
+host:1594330264=107.136.74.157
+author:1594330242=Enigma
+diff:1594330242:1594330208:=56d55%0a%3c %0a
+host:1594330242=107.136.74.157
+author:1594330208=Enigma
+diff:1594330208:1594330167:=54,55c54,55%0a%3c %25rfloat text-align=center border='2px solid' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=250px height=250px%25https://i.imgur.com/2vNhMQx.jpg %0a%3c %25center%25%25define=teal         color=#008080%25 [+Josie looks like an attractive woman in her mid-30s. Her long blonde hair falls down past her shoulders and her striking blue eyes seem to dart everywhere as if she’s either trying to notice everything around her. Or looking for any possible trouble. She’s very talkative and comes across as someone who makes friends easily. Her mouth is usually either smiling or else making a less-than-impressed duckface. The only odd thing that might seem out of place about her is the fact that she’s rather current on youth slang and pop culture.+] %0a---%0a> %25center%25 %0a> %25center%25%25define=teal         color=#008080%25 [+Josie looks like an attractive woman in her mid-30s. Her long blonde hair falls down past her shoulders and her striking blue eyes seem to dart everywhere as if she’s either trying to notice everything around her. Or looking for any possible trouble. She’s very talkative and comes across as someone who makes friends easily. Her mouth is usually either smiling or else making a less-than-impressed duckface. The only odd thing that might seem out of place about her is the fact that she’s rather current on youth slang and pop culture.+] %25rfloat text-align=center border='2px solid' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=250px height=250px%25https://i.imgur.com/2vNhMQx.jpg%0a
+host:1594330208=107.136.74.157
+author:1594330167=Enigma
+diff:1594330167:1594330112:=45,46c45,46%0a%3c %0a%3c %0a---%0a> %25rfloat text-align=center border='2px solid' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=250px height=250px%25https://i.imgur.com/2vNhMQx.jpg%0a> %0a55c55%0a%3c %25center%25%25define=teal         color=#008080%25 [+Josie looks like an attractive woman in her mid-30s. Her long blonde hair falls down past her shoulders and her striking blue eyes seem to dart everywhere as if she’s either trying to notice everything around her. Or looking for any possible trouble. She’s very talkative and comes across as someone who makes friends easily. Her mouth is usually either smiling or else making a less-than-impressed duckface. The only odd thing that might seem out of place about her is the fact that she’s rather current on youth slang and pop culture.+] %25rfloat text-align=center border='2px solid' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=250px height=250px%25https://i.imgur.com/2vNhMQx.jpg%0a---%0a> %25center%25%25define=teal         color=#008080%25 [+Josie looks like an attractive woman in her mid-30s. Her long blonde hair falls down past her shoulders and her striking blue eyes seem to dart everywhere as if she’s either trying to notice everything around her. Or looking for any possible trouble. She’s very talkative and comes across as someone who makes friends easily. Her mouth is usually either smiling or else making a less-than-impressed duckface. The only odd thing that might seem out of place about her is the fact that she’s rather current on youth slang and pop culture.+] %0a
+host:1594330167=107.136.74.157
+author:1594330112=Enigma
+diff:1594330112:1594330058:=45,46c45,46%0a%3c %25rfloat text-align=center border='2px solid' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=250px height=250px%25https://i.imgur.com/2vNhMQx.jpg%0a%3c %0a---%0a> %25rfloat text-align=center border='2px solid' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=250px height=250px%25https://www.idjnow.com/wordpress/wp-content/uploads/2017/04/placeholder.png%0a> %0a50c50%0a%3c ||  || https://i.imgur.com/iDy7QZz.jpg || https://i.imgur.com/8YajeV2.jpg || %0a---%0a> || https://i.imgur.com/2vNhMQx.jpg || https://i.imgur.com/iDy7QZz.jpg || https://i.imgur.com/8YajeV2.jpg || %0a
+host:1594330112=107.136.74.157
+author:1594330058=Enigma
+diff:1594330058:1594329979:=44,45d43%0a%3c %0a%3c %25rfloat text-align=center border='2px solid' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=250px height=250px%25https://www.idjnow.com/wordpress/wp-content/uploads/2017/04/placeholder.png%0a
+host:1594330058=107.136.74.157
+author:1594329979=Enigma
+diff:1594329979:1594329854:=12c12%0a%3c *[[https://www.youtube.com/watch?v=ZV9DNpkfak0|%25changeling%25'''[++And She Was++]''']]%0a---%0a> *[[http://www.youtube.com/|%25changeling%25Song Name]]%0a
+host:1594329979=107.136.74.157
+author:1594329854=Enigma
+diff:1594329854:1594329679:=84c84%0a%3c %25center%25%25define=teal         color=#008080%25 [+It's really no surprise that Josie loves the beach. Day or night, she can never really get enough of the roar of the surf or the ocean spray. She's recently become interested in learning how to surf. She's got her own board, but for someone uber graceful under the water, she's like a newborn calf on top of it. Come on down and have a laugh watching her bust her butt. Or offer to teach her how to really rip a curl!+]%0a---%0a> Hook info here%0a
+host:1594329854=107.136.74.157
+author:1594329679=Enigma
+diff:1594329679:1594329528:=81c81%0a%3c %25center%25%25define=teal         color=#008080%25 [+Josie is enrolled in the University to get her Bachelor's Degree. As an "adult going back to college", she is always looking for someone to study with. If she's on campus, she's either in class or hanging out at the student center.+]%0a---%0a> Hook info here%0a
+host:1594329679=107.136.74.157
+author:1594329528=Enigma
+diff:1594329528:1594329481:=56c56%0a%3c %25center%25 https://i.imgur.com/IiB1fgG.jpg%0a---%0a> %25center%25 https://imgur.com/IiB1fgG%0a
+host:1594329528=107.136.74.157
+author:1594329481=Enigma
+diff:1594329481:1594329395:=56c56%0a%3c %25center%25 https://imgur.com/IiB1fgG%0a---%0a> %0a
+host:1594329481=107.136.74.157
+author:1594329395=Enigma
+diff:1594329395:1594329286:=
+host:1594329395=107.136.74.157
+author:1594329286=Enigma
+diff:1594329286:1594329193:=48c48%0a%3c || https://i.imgur.com/2vNhMQx.jpg || https://i.imgur.com/iDy7QZz.jpg || https://i.imgur.com/8YajeV2.jpg || %0a---%0a> || https://i.imgur.com/2vNhMQx.jpg || https://i.imgur.com/iDy7QZz.jpg || %25thumb%25https://www.idjnow.com/wordpress/wp-content/uploads/2017/04/placeholder.png || %0a
+host:1594329286=107.136.74.157
+author:1594329193=Enigma
+diff:1594329193:1594329154:=47,48c47,48%0a%3c (:cellnr width=200%25:)%0a%3c || https://i.imgur.com/2vNhMQx.jpg || https://i.imgur.com/iDy7QZz.jpg || %25thumb%25https://www.idjnow.com/wordpress/wp-content/uploads/2017/04/placeholder.png || %0a---%0a> (:cellnr width=100%25:)%0a> || https://i.imgur.com/2vNhMQx.jpg || %25thumb%25https://i.imgur.com/iDy7QZz.jpg || %25thumb%25https://www.idjnow.com/wordpress/wp-content/uploads/2017/04/placeholder.png || %0a
+host:1594329193=107.136.74.157
+author:1594329154=Enigma
+diff:1594329154:1594329111:=48c48%0a%3c || https://i.imgur.com/2vNhMQx.jpg || %25thumb%25https://i.imgur.com/iDy7QZz.jpg || %25thumb%25https://www.idjnow.com/wordpress/wp-content/uploads/2017/04/placeholder.png || %0a---%0a> || %25thumb%25https://i.imgur.com/2vNhMQx.jpg || %25thumb%25https://i.imgur.com/iDy7QZz.jpg || %25thumb%25https://www.idjnow.com/wordpress/wp-content/uploads/2017/04/placeholder.png || %0a
+host:1594329154=107.136.74.157
+author:1594329111=Enigma
+diff:1594329111:1594329081:=46c46%0a%3c (:table table border=0 cellpadding=10 cellspacing=0:)%0a---%0a> (:table table border=0 cellpadding=5 cellspacing=0:)%0a
+host:1594329111=107.136.74.157
+author:1594329081=Enigma
+diff:1594329081:1594329035:=48,49c48,49%0a%3c || %25thumb%25https://i.imgur.com/2vNhMQx.jpg || %25thumb%25https://i.imgur.com/iDy7QZz.jpg || %25thumb%25https://www.idjnow.com/wordpress/wp-content/uploads/2017/04/placeholder.png || %0a%3c %0a---%0a> || %25thumb%25https://i.imgur.com/2vNhMQx.jpg || %25thumb%25https://www.idjnow.com/wordpress/wp-content/uploads/2017/04/placeholder.png || %25thumb%25https://www.idjnow.com/wordpress/wp-content/uploads/2017/04/placeholder.png || %0a> %0a52c52%0a%3c %25center%25 %0a---%0a> %25center%25 https://i.imgur.com/iDy7QZz.jpg%0a
+host:1594329081=107.136.74.157
+author:1594329035=Enigma
+diff:1594329035:1594328974:=48,49c48%0a%3c || %25thumb%25https://i.imgur.com/2vNhMQx.jpg || %25thumb%25https://www.idjnow.com/wordpress/wp-content/uploads/2017/04/placeholder.png || %25thumb%25https://www.idjnow.com/wordpress/wp-content/uploads/2017/04/placeholder.png || %0a%3c %0a---%0a> || %25thumb%25https://www.idjnow.com/wordpress/wp-content/uploads/2017/04/placeholder.png || %25thumb%25https://www.idjnow.com/wordpress/wp-content/uploads/2017/04/placeholder.png || %25thumb%25https://www.idjnow.com/wordpress/wp-content/uploads/2017/04/placeholder.png || %25thumb%25https://www.idjnow.com/wordpress/wp-content/uploads/2017/04/placeholder.png || %25thumb%25https://www.idjnow.com/wordpress/wp-content/uploads/2017/04/placeholder.png ||%0a52c51%0a%3c %25center%25 https://i.imgur.com/iDy7QZz.jpg%0a---%0a> %25center%25https://i.imgur.com/2vNhMQx.jpg https://i.imgur.com/iDy7QZz.jpg%0a
+host:1594329035=107.136.74.157
+author:1594328974=Enigma
+diff:1594328974:1594328773:=46,49d45%0a%3c (:table table border=0 cellpadding=5 cellspacing=0:)%0a%3c (:cellnr width=100%25:)%0a%3c || %25thumb%25https://www.idjnow.com/wordpress/wp-content/uploads/2017/04/placeholder.png || %25thumb%25https://www.idjnow.com/wordpress/wp-content/uploads/2017/04/placeholder.png || %25thumb%25https://www.idjnow.com/wordpress/wp-content/uploads/2017/04/placeholder.png || %25thumb%25https://www.idjnow.com/wordpress/wp-content/uploads/2017/04/placeholder.png || %25thumb%25https://www.idjnow.com/wordpress/wp-content/uploads/2017/04/placeholder.png ||%0a%3c (:tableend:)%0a
+host:1594328974=107.136.74.157
+author:1594328773=Enigma
+diff:1594328773:1594328184:=47c47%0a%3c %25center%25https://i.imgur.com/2vNhMQx.jpg https://i.imgur.com/iDy7QZz.jpg%0a---%0a> %25center%25https://i.imgur.com/2vNhMQx.jpg%0a
+host:1594328773=107.136.74.157
+author:1594328184=Enigma
+diff:1594328184:1594328132:=48c48%0a%3c %25center%25%25define=teal         color=#008080%25 [+Josie looks like an attractive woman in her mid-30s. Her long blonde hair falls down past her shoulders and her striking blue eyes seem to dart everywhere as if she’s either trying to notice everything around her. Or looking for any possible trouble. She’s very talkative and comes across as someone who makes friends easily. Her mouth is usually either smiling or else making a less-than-impressed duckface. The only odd thing that might seem out of place about her is the fact that she’s rather current on youth slang and pop culture.+] %0a---%0a> %25center%25 Josie looks like an attractive woman in her mid-30s. Her long blonde hair falls down past her shoulders and her striking blue eyes seem to dart everywhere as if she’s either trying to notice everything around her. Or looking for any possible trouble. She’s very talkative and comes across as someone who makes friends easily. Her mouth is usually either smiling or else making a less-than-impressed duckface. The only odd thing that might seem out of place about her is the fact that she’s rather current on youth slang and pop culture. %0a
+host:1594328184=107.136.74.157
+author:1594328132=Enigma
+diff:1594328132:1594328051:=47c47%0a%3c %25center%25https://i.imgur.com/2vNhMQx.jpg%0a---%0a> %25left%25https://i.imgur.com/2vNhMQx.jpg%0a
+host:1594328132=107.136.74.157
+author:1594328051=Enigma
+diff:1594328051:1594328018:=47,48c47%0a%3c %25left%25https://i.imgur.com/2vNhMQx.jpg%0a%3c %25center%25 Josie looks like an attractive woman in her mid-30s. Her long blonde hair falls down past her shoulders and her striking blue eyes seem to dart everywhere as if she’s either trying to notice everything around her. Or looking for any possible trouble. She’s very talkative and comes across as someone who makes friends easily. Her mouth is usually either smiling or else making a less-than-impressed duckface. The only odd thing that might seem out of place about her is the fact that she’s rather current on youth slang and pop culture. %0a---%0a> %25left%25https://i.imgur.com/2vNhMQx.jpg?1%25center%25 Josie looks like an attractive woman in her mid-30s. Her long blonde hair falls down past her shoulders and her striking blue eyes seem to dart everywhere as if she’s either trying to notice everything around her. Or looking for any possible trouble. She’s very talkative and comes across as someone who makes friends easily. Her mouth is usually either smiling or else making a less-than-impressed duckface. The only odd thing that might seem out of place about her is the fact that she’s rather current on youth slang and pop culture. %0a
+host:1594328051=107.136.74.157
+author:1594328018=Enigma
+diff:1594328018:1594327865:=47c47%0a%3c %25left%25https://i.imgur.com/2vNhMQx.jpg?1%25center%25 Josie looks like an attractive woman in her mid-30s. Her long blonde hair falls down past her shoulders and her striking blue eyes seem to dart everywhere as if she’s either trying to notice everything around her. Or looking for any possible trouble. She’s very talkative and comes across as someone who makes friends easily. Her mouth is usually either smiling or else making a less-than-impressed duckface. The only odd thing that might seem out of place about her is the fact that she’s rather current on youth slang and pop culture. %0a---%0a> %25center%25 Josie looks like an attractive woman in her mid-30s. Her long blonde hair falls down past her shoulders and her striking blue eyes seem to dart everywhere as if she’s either trying to notice everything around her. Or looking for any possible trouble. She’s very talkative and comes across as someone who makes friends easily. Her mouth is usually either smiling or else making a less-than-impressed duckface. The only odd thing that might seem out of place about her is the fact that she’s rather current on youth slang and pop culture. %0a
+host:1594328018=107.136.74.157
+author:1594327865=Enigma
+diff:1594327865:1594323923:=47c47%0a%3c %25center%25 Josie looks like an attractive woman in her mid-30s. Her long blonde hair falls down past her shoulders and her striking blue eyes seem to dart everywhere as if she’s either trying to notice everything around her. Or looking for any possible trouble. She’s very talkative and comes across as someone who makes friends easily. Her mouth is usually either smiling or else making a less-than-impressed duckface. The only odd thing that might seem out of place about her is the fact that she’s rather current on youth slang and pop culture. %0a---%0a> %25center%25[Enter Here] %0a
+host:1594327865=107.136.74.157
+author:1594323923=Enigma
+diff:1594323923:1594323808:=11c11%0a%3c *[[https://www.youtube.com/watch?v=g0_BlUbGBSo|%25changeling%25'''[++Demons++]''']]%0a---%0a> *[[http://www.youtube.com/|%25changeling%25Song Name]]%0a
+host:1594323923=107.136.74.157
+author:1594323808=Enigma
+diff:1594323808:1594323721:=18c18%0a%3c (:cell width=440:) %25define=teal         color=#008080%25 '''[+Fairest+]''' %0a---%0a> (:cell width=440:) '''[+Fairest+]''' %0a20c20%0a%3c (:cell width=440:) %25define=teal         color=#008080%25 '''[+Swimmerskin+]''' %0a---%0a> (:cell width=440:) '''[+Swimmerskin+]''' %0a22c22%0a%3c (:cell width=440:) %25define=teal         color=#008080%25 '''[+Spring+]''' %0a---%0a> (:cell width=440:) '''[+Spring+]''' %0a24c24%0a%3c (:cell width=440:) %25define=teal         color=#008080%25 '''[+None+]''' %0a---%0a> (:cell width=440:) '''[+None+]''' %0a26c26%0a%3c (:cell width=440:) %25define=teal         color=#008080%25 '''[+Protector/Memory+]''' %0a---%0a> (:cell width=440:) '''[+Protector/Memory+]''' %0a28c28%0a%3c (:cell width=440:) %25define=teal         color=#008080%25 [Enter Here] %0a---%0a> (:cell width=440:)[Enter Here] %0a30c30%0a%3c (:cell width=440:) %25define=teal         color=#008080%25 '''[+Lifeguard / Student+]'''%0a---%0a> (:cell width=440:) '''[+Lifeguard / University Student+]'''%0a32c32%0a%3c (:cell width=440:) %25define=teal         color=#008080%25 '''[+34+]''' %0a---%0a> (:cell width=440:) '''[+34+]''' %0a34c34%0a%3c (:cell width=440:) %25define=teal         color=#008080%25 '''[+Enigma+]''' %0a---%0a> (:cell width=440:) '''[+Enigma+]''' %0a36c36%0a%3c (:cell width=440:) %25define=teal         color=#008080%25 '''[+Natalie Dormer+]'''%0a---%0a> (:cell width=440:) '''[+Natalie Dormer+]'''%0a
+host:1594323808=107.136.74.157
+author:1594323721=Enigma
+diff:1594323721:1594323586:=16c16%0a%3c (:cell width=440:) %25define=teal         color=#008080%25 '''[+Josie or Jo+]''' %0a---%0a> (:cell width=440:) %25define=teal         color=#008080%25 [+Josie or Jo+] %0a18c18%0a%3c (:cell width=440:) '''[+Fairest+]''' %0a---%0a> (:cell width=440:) Fairest  %0a20c20%0a%3c (:cell width=440:) '''[+Swimmerskin+]''' %0a---%0a> (:cell width=440:) Swimmerskin %0a22c22%0a%3c (:cell width=440:) '''[+Spring+]''' %0a---%0a> (:cell width=440:) Spring %0a24c24%0a%3c (:cell width=440:) '''[+None+]''' %0a---%0a> (:cell width=440:) None %0a26c26%0a%3c (:cell width=440:) '''[+Protector/Memory+]''' %0a---%0a> (:cell width=440:) Bon Vivant/Memory %0a30c30%0a%3c (:cell width=440:) '''[+Lifeguard / University Student+]'''%0a---%0a> (:cell width=440:) Lifeguard / University Student%0a32c32%0a%3c (:cell width=440:) '''[+34+]''' %0a---%0a> (:cell width=440:) 34 %0a34c34%0a%3c (:cell width=440:) '''[+Enigma+]''' %0a---%0a> (:cell width=440:) Enigma %0a36c36%0a%3c (:cell width=440:) '''[+Natalie Dormer+]'''%0a---%0a> (:cell width=440:) Natalie Dormer%0a
+host:1594323721=107.136.74.157
+author:1594323586=Enigma
+diff:1594323586:1594323562:=14c14%0a%3c (:cell width=440:) %25define=teal         color=#008080%25 '''[+Josephine Davenport+]''' %0a---%0a> (:cell width=440:) %25define=teal         color=#008080%25 [+Josephine Davenport+] %0a
+host:1594323586=107.136.74.157
+author:1594323562=Enigma
+diff:1594323562:1594323518:=10c10%0a%3c *[[https://www.youtube.com/watch?v=4ahHWROn8M0|%25changeling%25'''[++Hurt++]''']]%0a---%0a> *[[https://www.youtube.com/watch?v=4ahHWROn8M0|%25changeling%25[++Hurt++]]]%0a
+host:1594323562=107.136.74.157
+author:1594323518=Enigma
+diff:1594323518:1594323500:=10c10%0a%3c *[[https://www.youtube.com/watch?v=4ahHWROn8M0|%25changeling%25[++Hurt++]]]%0a---%0a> *[[https://www.youtube.com/watch?v=4ahHWROn8M0|%25changeling%25[+Hurt+]]]%0a
+host:1594323518=107.136.74.157
+author:1594323500=Enigma
+diff:1594323500:1594323448:=10c10%0a%3c *[[https://www.youtube.com/watch?v=4ahHWROn8M0|%25changeling%25[+Hurt+]]]%0a---%0a> *[[https://www.youtube.com/watch?v=4ahHWROn8M0|%25changeling%25'''Hurt''']]%0a
+host:1594323500=107.136.74.157
+author:1594323448=Enigma
+diff:1594323448:1594323400:=16c16%0a%3c (:cell width=440:) %25define=teal         color=#008080%25 [+Josie or Jo+] %0a---%0a> (:cell width=440:) Josie or Jo %0a
+host:1594323448=107.136.74.157
+author:1594323400=Enigma
+diff:1594323400:1594323348:=14c14%0a%3c (:cell width=440:) %25define=teal         color=#008080%25 [+Josephine Davenport+] %0a---%0a> (:cell width=440:) %25define=hardblue     color=#0000cc%25 [+Josephine Davenport+] %0a
+host:1594323400=107.136.74.157
+author:1594323348=Enigma
+diff:1594323348:1594323333:=14c14%0a%3c (:cell width=440:) %25define=hardblue     color=#0000cc%25 [+Josephine Davenport+] %0a---%0a> (:cell width=440:) %25hardblue%25 [+Josephine Davenport+] %0a
+host:1594323348=107.136.74.157
+author:1594323333=Enigma
+diff:1594323333:1594323307:=14c14%0a%3c (:cell width=440:) %25hardblue%25 [+Josephine Davenport+] %0a---%0a> (:cell width=440:) %25define=hardblue%25[+Josephine Davenport+] %0a
+host:1594323333=107.136.74.157
+author:1594323307=Enigma
+diff:1594323307:1594323195:=14c14%0a%3c (:cell width=440:) %25define=hardblue%25[+Josephine Davenport+] %0a---%0a> (:cell width=440:) [+Josephine Davenport+] %0a
+host:1594323307=107.136.74.157
+author:1594323195=Enigma
+diff:1594323195:1594323164:=13c13%0a%3c (:cellnr width=260 align=left:)%25changeling%25 [+Name:+] %0a---%0a> (:cellnr width=260 align=left:)%25changeling%25'''Name:''' %0a
+host:1594323195=107.136.74.157
+author:1594323164=Enigma
+diff:1594323164:1594323134:=14c14%0a%3c (:cell width=440:) [+Josephine Davenport+] %0a---%0a> (:cell width=440:) [++Josephine Davenport++] %0a
+host:1594323164=107.136.74.157
+author:1594323134=Enigma
+diff:1594323134:1594323035:=14c14%0a%3c (:cell width=440:) [++Josephine Davenport++] %0a---%0a> (:cell width=440:)Josephine Davenport %0a
+host:1594323134=107.136.74.157
+author:1594323035=Enigma
+diff:1594323035:1594322984:=16c16%0a%3c (:cell width=440:) Josie or Jo %0a---%0a> (:cell width=440:) Josie or Jo-Jo %0a30c30%0a%3c (:cell width=440:) Lifeguard / University Student%0a---%0a> (:cell width=440:) Lifeguard %0a
+host:1594323035=107.136.74.157
+author:1594322984=Enigma
+diff:1594322984:1594322898:=74c74%0a%3c !!!!%25bgcolor=black changeling%25 ''Study Buddy (University)'': %0a---%0a> !!!!%25bgcolor=black changeling%25 ''Hook 1(Who it effects)'': %0a77c77%0a%3c !!!!%25bgcolor=black changeling%25 ''Surf's Up (Everyone)'': %0a---%0a> !!!!%25bgcolor=black changeling%25 ''Hook 2(Who it effects)'': %0a
+host:1594322984=107.136.74.157
+author:1594322898=Enigma
+diff:1594322898:1594322818:=60,61c60,61%0a%3c %25center%25https://i.imgur.com/NsqokmD.png%0a%3c %0a---%0a> !!%25center%25%25changeling%25'''Contacts'''%0a> %0a72,73c72,73%0a%3c %25center%25https://i.imgur.com/bN6oBvc.png%0a%3c %0a---%0a> !!%25center%25%25changeling%25'''Hooks'''%0a> %0a91c91%0a%3c %25center%25https://i.imgur.com/QlwSEzS.png%0a---%0a> !!%25center%25%25changeling%25'''Quotes'''%0a
+host:1594322898=107.136.74.157
+author:1594322818=Enigma
+diff:1594322818:1594322753:=45,46c45,46%0a%3c %25center%25https://i.imgur.com/fo80Xk1.png%0a%3c %0a---%0a> !!!%25center%25%25changeling%25''Mask''%0a> %0a49,50c49,50%0a%3c %25center%25https://i.imgur.com/rfgODhc.png%0a%3c %0a---%0a> !!!%25center%25%25changeling%25''Mien''%0a> %0a53c53%0a%3c %25center%25https://i.imgur.com/1mJG626.png%0a---%0a> !!!%25center%25%25changeling%25''Mantle''%0a
+host:1594322818=107.136.74.157
+author:1594322753=Enigma
+diff:1594322753:1594322671:=43c43%0a%3c %25center%25https://i.imgur.com/pIntkUP.png%0a---%0a> !!%25center%25%25changeling%25'''Description'''%0a
+host:1594322753=107.136.74.157
+author:1594322671=Enigma
+diff:1594322671:1594322655:=6c6%0a%3c (:cellnr rowspan=30 width=1200 align=center:)%0a---%0a> (:cellnr rowspan=30 width=1000 align=center:)%0a
+host:1594322671=107.136.74.157
+author:1594322655=Enigma
+diff:1594322655:1594322642:=6c6%0a%3c (:cellnr rowspan=30 width=1000 align=center:)%0a---%0a> (:cellnr rowspan=30 width=700 align=center:)%0a
+host:1594322655=107.136.74.157
+author:1594322642=Enigma
+diff:1594322642:1594322609:=6c6%0a%3c (:cellnr rowspan=30 width=700 align=center:)%0a---%0a> (:cellnr rowspan=30 width=500 align=center:)%0a
+host:1594322642=107.136.74.157
+author:1594322609=Enigma
+diff:1594322609:1594322565:=9c9%0a%3c %25center%25https://i.imgur.com/ZfUdO8Y.png%0a---%0a> !!%25center%25%25changeling%25'''Playlist'''%0a
+host:1594322609=107.136.74.157
+author:1594322565=Enigma
+diff:1594322565:1594257775:=7c7%0a%3c %25center%25https://i.imgur.com/ieLnUwB.png%0a---%0a> !! %25center%25%25changeling%25'''Dossier'''%0a
+host:1594322565=107.136.74.157
 author:1594257775=Enigma
 diff:1594257775:1594257762:=10c10%0a%3c *[[https://www.youtube.com/watch?v=4ahHWROn8M0|%25changeling%25'''Hurt''']]%0a---%0a> *[[https://www.youtube.com/watch?v=4ahHWROn8M0|%25changeling%25''''Hurt'''']]%0a
 host:1594257775=107.136.74.157
