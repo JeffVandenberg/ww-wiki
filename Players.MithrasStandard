@@ -1,0 +1,18 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+author=DefinitelyNotBatman
+charset=ISO-8859-1
+csum=
+ctime=1595762227
+host=104.35.131.163
+name=Players.MithrasStandard
+rev=2
+targets=
+text=https://i.imgur.com/7OlUpfb.png%0a %0a!%25center%25%25mortal%25'''''"Strength Through Compassion"'''''%0a[[%3c%3c]]%0a[[%3c%3c]]%0a(:cellnr rowspan=8 width=220 align=center:)%0ahttps://i.imgur.com/jU7h0wv.jpg%0a(:cellnr width=200 align=center:)''' %25mortal%25 Mystery Cult:'''%0a(:cell width=400:) Mithras Standard%0a(:cellnr width=200 align=center:)''' %25mortal%25 Founder:'''%0a(:cell width=400:) [[https://wantonwicked.gamingsandbox.com/wiki/Players/AscianBeng|Ascian Beng]]%0a(:cellnr width=200 align=center:)''' %25mortal%25 Spheres:'''%0a(:cell width=400:) All%0a(:cellnr width=200 align=center:)''' %25mortal%25 Relic:'''%0a(:cell width=400:) A simple plaque%0a(:cellnr width=200 align=center:)''' %25mortal%25 Sanctuary:'''%0a(:cell width=400:) [[https://wantonwicked.gamingsandbox.com/wiki/Players/EmpyreanFarms|Empyrean Farms]]%0a(:cellnr width=200 align=center:)''' %25mortal%25 Themes:'''%0a(:cell width=400:)  To find the inner strength and understanding through good deeds for others and to act as protectors of the downtrodden. %0a(:tableend:)%0a%0a%0a(:include GameRef.Directorycity:)
+time=1595762315
+author:1595762315=DefinitelyNotBatman
+diff:1595762315:1595762227:=1c1%0a%3c https://i.imgur.com/7OlUpfb.png%0a---%0a> https://imgur.com/jU7h0wv%0a
+host:1595762315=104.35.131.163
+author:1595762227=DefinitelyNotBatman
+diff:1595762227:1595762227:=1,23d0%0a%3c https://imgur.com/jU7h0wv%0a%3c  %0a%3c !%25center%25%25mortal%25'''''"Strength Through Compassion"'''''%0a%3c [[%3c%3c]]%0a%3c [[%3c%3c]]%0a%3c (:cellnr rowspan=8 width=220 align=center:)%0a%3c https://i.imgur.com/jU7h0wv.jpg%0a%3c (:cellnr width=200 align=center:)''' %25mortal%25 Mystery Cult:'''%0a%3c (:cell width=400:) Mithras Standard%0a%3c (:cellnr width=200 align=center:)''' %25mortal%25 Founder:'''%0a%3c (:cell width=400:) [[https://wantonwicked.gamingsandbox.com/wiki/Players/AscianBeng|Ascian Beng]]%0a%3c (:cellnr width=200 align=center:)''' %25mortal%25 Spheres:'''%0a%3c (:cell width=400:) All%0a%3c (:cellnr width=200 align=center:)''' %25mortal%25 Relic:'''%0a%3c (:cell width=400:) A simple plaque%0a%3c (:cellnr width=200 align=center:)''' %25mortal%25 Sanctuary:'''%0a%3c (:cell width=400:) [[https://wantonwicked.gamingsandbox.com/wiki/Players/EmpyreanFarms|Empyrean Farms]]%0a%3c (:cellnr width=200 align=center:)''' %25mortal%25 Themes:'''%0a%3c (:cell width=400:)  To find the inner strength and understanding through good deeds for others and to act as protectors of the downtrodden. %0a%3c (:tableend:)%0a%3c %0a%3c %0a%3c (:include GameRef.Directorycity:)%0a\ No newline at end of file%0a
+host:1595762227=104.35.131.163
