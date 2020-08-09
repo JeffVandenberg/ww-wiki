@@ -1,0 +1,18 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
+author=Enigma
+charset=ISO-8859-1
+csum=
+ctime=1596890979
+host=107.136.74.157
+name=Players.Enigma
+rev=2
+targets=
+text=Player of [[https://wantonwicked.gamingsandbox.com/wiki/Players/ShelbyBlackwood|Shelby Blackwood]] and [[https://wantonwicked.gamingsandbox.com/wiki/Players/AlexisStone|Alexis Stone]].
+time=1596891029
+author:1596891029=Enigma
+diff:1596891029:1596890979:=1c1%0a%3c Player of [[https://wantonwicked.gamingsandbox.com/wiki/Players/ShelbyBlackwood|Shelby Blackwood]] and [[https://wantonwicked.gamingsandbox.com/wiki/Players/AlexisStone|Alexis Stone]].%0a\ No newline at end of file%0a---%0a> Player of Shelby Blackwood[[https://wantonwicked.gamingsandbox.com/wiki/Players/ShelbyBlackwood|Shelby]] and Alexis Stone.%0a\ No newline at end of file%0a
+host:1596891029=107.136.74.157
+author:1596890979=Enigma
+diff:1596890979:1596890979:=1d0%0a%3c Player of Shelby Blackwood[[https://wantonwicked.gamingsandbox.com/wiki/Players/ShelbyBlackwood|Shelby]] and Alexis Stone.%0a\ No newline at end of file%0a
+host:1596890979=107.136.74.157
