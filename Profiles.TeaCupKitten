@@ -1,15 +1,18 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
+agent=Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
 author=TeaCupKitten
 charset=ISO-8859-1
 csum=
 ctime=1581725461
 host=72.239.54.65
 name=Profiles.TeaCupKitten
-rev=4
+rev=5
 targets=
-text=!%25center%25'''TeaCupKitten - 6.0 Player'''\\%0a%0a!!!!!!Warning: Due to the PTSD I suffer from, talking about the bible or Christianity is politely requested to not ever be brought up as I will have to log off immediately to handle an episode. Also please do not link me country music as it is also a trigger for me. Thank you for being understanding.  [[%3c%3c]]%0a%0a(:toc:)%0a%0aPlease feel free to IM me if you want to rp even when I have idle on.  %0a%0a!!!''From Wanton 6.0:''%0a%0aI currently play [[https://wantonwicked.gamingsandbox.com/wiki/?n=Players.PrismTacit|Prism Tacit]], she is [[https://wantonwicked.gamingsandbox.com/wiki/Players/JohnMurphy|John Murphy's]] ghoul and was once a semi-famous flying acrobat in the circis. [[%3c%3c]]%0aI also play [[https://wantonwicked.gamingsandbox.com/wiki/?n=Players.AtoliMcQueen|Atoli McQueen]], who is a very new to being a blooded (was bitten on Feb 07 2020) and it is taking a lot of getting use to for this mute artist. She is now a Lost, and escaped the hedge around the 20th of Feb 2020 and no longer a mute.[[%3c%3c]]%0aI also once briefly played [[https://wantonwicked.gamingsandbox.com/wiki/Players/DinahParker|Dinah Parker]] and [[https://wantonwicked.gamingsandbox.com/wiki/Players/NatashaSweeney|Natasha Sweeney]]. [[%3c%3c]]
-time=1585573622
+text=!%25center%25'''TeaCupKitten - 6.0 Player'''\\%0a%0a!!!!!!Warning: Due to the PTSD I suffer from, talking about the bible or Christianity is politely requested to not ever be brought up as I will have to log off immediately to handle an episode. Also please do not link me country music as it is also a trigger for me. Thank you for being understanding.  [[%3c%3c]]%0a%0a(:toc:)%0a%0aPlease feel free to IM me if you want to rp even when I have idle on.  %0a%0a!!!''From Wanton 6.0:''%0a%0aI currently play [[https://wantonwicked.gamingsandbox.com/wiki/?n=Players.PrismTacit|Prism Tacit]]. She was once a semi-famous flying acrobat in the circus. Her journey within Miami since her arrival as been filled with many adventures. Now she is an vampire of the Alucinor bloodline and a member of the Circle. [[%3c%3c]]%0a
+time=1598193369
+author:1598193369=TeaCupKitten
+diff:1598193369:1585573622:=11c11,13%0a%3c I currently play [[https://wantonwicked.gamingsandbox.com/wiki/?n=Players.PrismTacit|Prism Tacit]]. She was once a semi-famous flying acrobat in the circus. Her journey within Miami since her arrival as been filled with many adventures. Now she is an vampire of the Alucinor bloodline and a member of the Circle. [[%3c%3c]]%0a---%0a> I currently play [[https://wantonwicked.gamingsandbox.com/wiki/?n=Players.PrismTacit|Prism Tacit]], she is [[https://wantonwicked.gamingsandbox.com/wiki/Players/JohnMurphy|John Murphy's]] ghoul and was once a semi-famous flying acrobat in the circis. [[%3c%3c]]%0a> I also play [[https://wantonwicked.gamingsandbox.com/wiki/?n=Players.AtoliMcQueen|Atoli McQueen]], who is a very new to being a blooded (was bitten on Feb 07 2020) and it is taking a lot of getting use to for this mute artist. She is now a Lost, and escaped the hedge around the 20th of Feb 2020 and no longer a mute.[[%3c%3c]]%0a> I also once briefly played [[https://wantonwicked.gamingsandbox.com/wiki/Players/DinahParker|Dinah Parker]] and [[https://wantonwicked.gamingsandbox.com/wiki/Players/NatashaSweeney|Natasha Sweeney]]. [[%3c%3c]]%0a\ No newline at end of file%0a
+host:1598193369=72.239.54.65
 author:1585573622=TeaCupKitten
 diff:1585573622:1585573592:=12c12%0a%3c I also play [[https://wantonwicked.gamingsandbox.com/wiki/?n=Players.AtoliMcQueen|Atoli McQueen]], who is a very new to being a blooded (was bitten on Feb 07 2020) and it is taking a lot of getting use to for this mute artist. She is now a Lost, and escaped the hedge around the 20th of Feb 2020 and no longer a mute.[[%3c%3c]]%0a---%0a> I also play [[https://wantonwicked.gamingsandbox.com/wiki/?n=Players.AtoliMcQueen|Atoli McQueen]], who is a very new to being a blooded (was bitten on Feb 07 2020) and it is taking a lot of getting use to for this mute artist. She is now a Lost, and escaped the hedge around the 20th of Feb 2020 [[%3c%3c]]%0a
 host:1585573622=72.239.54.65
