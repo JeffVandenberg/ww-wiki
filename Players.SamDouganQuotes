@@ -1,0 +1,25 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+author=42nd_Doctor
+charset=ISO-8859-1
+csum=
+ctime=1604434254
+host=172.58.30.195
+name=Players.SamDouganQuotes
+rev=4
+targets=Players.KitAsher,Players.SamDouganQuotes
+text=!!%25center%25%25vampire%25'''Quotes'''%0a%0a%0a%25rfloat text-align=center border='2px' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=400px height=250px%25https://i.imgur.com/zSOY7io.png%0a%0a%25vampire%25 "I always seem to find the most interesting riff raff, Sam...Dougan?  Is going to be a great dancer once he gets his feet under him." -[[KitAsher|Star]]. \\%0a\\%0a%25gold%25[-[[SamDouganQuotes?action=edit|I heard it through the grapevine...(add quote)]]-]\\%0a%25mortal%25 "I am a quote! Fear me!" -A person with a face. \\%0a%25mage%25 "I am a quote! Fear me!" -A magic person. \\%0a%25vampire%25 "I am a quote! Fear me!" -A person with fangs. \\%0a%25werewolf%25 "I am a quote! Fear me!" -A person that can woof. \\%0a%25changeling%25 "I am a quote! Fear me!" -A person that can shift forms. \\
+time=1604444264
+author:1604444264=42nd_Doctor
+diff:1604444264:1604437275:minor=4c4%0a%3c %25rfloat text-align=center border='2px' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=400px height=250px%25https://i.imgur.com/zSOY7io.png%0a---%0a> %25rfloat text-align=center border='2px' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=400px height=250px%25https://i.imgur.com/hCGykuI.png%0a
+host:1604444264=172.58.30.195
+author:1604437275=42nd_Doctor
+diff:1604437275:1604435940:minor=3d2%0a%3c %0a8d6%0a%3c %25gold%25[-[[SamDouganQuotes?action=edit|I heard it through the grapevine...(add quote)]]-]\\%0a
+host:1604437275=172.58.30.195
+author:1604435940=42nd_Doctor
+diff:1604435940:1604434254:minor=0a1,4%0a> (:table table border=0 cellpadding=5 cellspacing=0:)%0a> %0a> (:cellnr width=100%25:)%0a> %0a11c15,17%0a%3c %25changeling%25 "I am a quote! Fear me!" -A person that can shift forms. \\%0a\ No newline at end of file%0a---%0a> %25changeling%25 "I am a quote! Fear me!" -A person that can shift forms. \\%0a> %0a> (:tableend:)%0a\ No newline at end of file%0a
+host:1604435940=172.58.30.195
+author:1604434254=42nd_Doctor
+csum:1604434254=initialization of page
+diff:1604434254:1604434254:=1,17d0%0a%3c (:table table border=0 cellpadding=5 cellspacing=0:)%0a%3c %0a%3c (:cellnr width=100%25:)%0a%3c %0a%3c !!%25center%25%25vampire%25'''Quotes'''%0a%3c %0a%3c %25rfloat text-align=center border='2px' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=400px height=250px%25https://i.imgur.com/hCGykuI.png%0a%3c %0a%3c %25vampire%25 "I always seem to find the most interesting riff raff, Sam...Dougan?  Is going to be a great dancer once he gets his feet under him." -[[KitAsher|Star]]. \\%0a%3c \\%0a%3c %25mortal%25 "I am a quote! Fear me!" -A person with a face. \\%0a%3c %25mage%25 "I am a quote! Fear me!" -A magic person. \\%0a%3c %25vampire%25 "I am a quote! Fear me!" -A person with fangs. \\%0a%3c %25werewolf%25 "I am a quote! Fear me!" -A person that can woof. \\%0a%3c %25changeling%25 "I am a quote! Fear me!" -A person that can shift forms. \\%0a%3c %0a%3c (:tableend:)%0a\ No newline at end of file%0a
+host:1604434254=172.58.30.195
