@@ -1,9 +1,9 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:82.0) Gecko/20100101 Firefox/82.0
 charset=ISO-8859-1
 ctime=1585221045
-host=174.195.15.170
+host=78.67.8.82
 name=Main.RecentChanges
-rev=12
-text=* [[Main.WikiSandbox | Wiki Sandbox]]  . . . July 19, 2020, at 12:08 PM by [[~pisces]]: [==]%0a
-time=1595185684
+rev=14
+text=* [[Main.WikiSandbox | Wiki Sandbox]]  . . . November 19, 2020, at 11:13 AM by [[~Cinn]]: [==]%0a
+time=1605813224

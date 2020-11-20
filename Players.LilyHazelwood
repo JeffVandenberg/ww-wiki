@@ -1,0 +1,46 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:82.0) Gecko/20100101 Firefox/82.0
+author=Cinn
+charset=ISO-8859-1
+csum=
+ctime=1605790896
+host=78.67.8.82
+name=Players.LilyHazelwood
+rev=11
+targets=
+text=(:comment  Player of this character is 'Cinn'; wiki is designed in photoshop. :)%0a[[%3c%3c]][[%3c%3c]]%0ahttps://i.imgur.com/xCFJSxU.png%0ahttps://i.imgur.com/c7tIu44.png%0ahttps://i.imgur.com/EXwoW6H.png%0a%25vampire newwin%25 [[https://www.youtube.com/watch?v=mBYUcjGdVUY|https://i.imgur.com/sGItrgS.png]]%0ahttps://i.imgur.com/BFXOrKt.png%0a%25vampire newwin%25 [[https://www.youtube.com/watch?v=Sk-U8ruIQyA|https://i.imgur.com/zjdXZZD.png]]%0ahttps://i.imgur.com/ZkG6Xag.png%0a%25vampire newwin%25 [[https://www.youtube.com/watch?v=K5R5FF1KKmw|https://i.imgur.com/6VCTLbS.png]]%0ahttps://i.imgur.com/PooZ2vr.png%0a%0aStuff goes here.%0a%0a(:include GameRef.Directoryplayerghoul:)
+time=1605826747
+author:1605826747=Cinn
+diff:1605826747:1605823941:minor=11c11%0a%3c https://i.imgur.com/PooZ2vr.png%0a---%0a> https://i.imgur.com/X2kRr9B.png%0a
+host:1605826747=78.67.8.82
+author:1605823941=Cinn
+diff:1605823941:1605822624:minor=4c4%0a%3c https://i.imgur.com/c7tIu44.png%0a---%0a> https://i.imgur.com/FX07czC.png%0a
+host:1605823941=78.67.8.82
+author:1605822624=Cinn
+diff:1605822624:1605814217:minor=4,11c4%0a%3c https://i.imgur.com/FX07czC.png%0a%3c https://i.imgur.com/EXwoW6H.png%0a%3c %25vampire newwin%25 [[https://www.youtube.com/watch?v=mBYUcjGdVUY|https://i.imgur.com/sGItrgS.png]]%0a%3c https://i.imgur.com/BFXOrKt.png%0a%3c %25vampire newwin%25 [[https://www.youtube.com/watch?v=Sk-U8ruIQyA|https://i.imgur.com/zjdXZZD.png]]%0a%3c https://i.imgur.com/ZkG6Xag.png%0a%3c %25vampire newwin%25 [[https://www.youtube.com/watch?v=K5R5FF1KKmw|https://i.imgur.com/6VCTLbS.png]]%0a%3c https://i.imgur.com/X2kRr9B.png%0a---%0a> https://i.imgur.com/DoAXwou.png%0a
+host:1605822624=78.67.8.82
+author:1605814217=Cinn
+diff:1605814217:1605813916:minor=4c4%0a%3c https://i.imgur.com/DoAXwou.png%0a---%0a> https://i.imgur.com/w7Sv3Ot.png%0a
+host:1605814217=78.67.8.82
+author:1605813916=Cinn
+diff:1605813916:1605812427:minor=4c4%0a%3c https://i.imgur.com/w7Sv3Ot.png%0a---%0a> https://i.imgur.com/DoAXwou.png%0a
+host:1605813916=78.67.8.82
+author:1605812427=Cinn
+diff:1605812427:1605812317:=4c4%0a%3c https://i.imgur.com/DoAXwou.png%0a---%0a> https://i.imgur.com/w7Sv3Ot.png%0a
+host:1605812427=78.67.8.82
+author:1605812317=Cinn
+diff:1605812317:1605807772:minor=4c4%0a%3c https://i.imgur.com/w7Sv3Ot.png%0a---%0a> https://i.imgur.com/DoAXwou.png%0a
+host:1605812317=78.67.8.82
+author:1605807772=Cinn
+diff:1605807772:1605798965:minor=2d1%0a%3c [[%3c%3c]][[%3c%3c]]%0a
+host:1605807772=78.67.8.82
+author:1605798965=Cinn
+diff:1605798965:1605792546:minor=1d0%0a%3c (:comment  Player of this character is 'Cinn'; wiki is designed in photoshop. :)%0a
+host:1605798965=78.79.241.82
+author:1605792546=Cinn
+diff:1605792546:1605790896:minor=2c2%0a%3c https://i.imgur.com/DoAXwou.png%0a---%0a> https://i.imgur.com/VPqcVrh.png%0a
+host:1605792546=78.79.241.82
+author:1605790896=Cinn
+csum:1605790896=Just testing out a template
+diff:1605790896:1605790896:minor=1,6d0%0a%3c https://i.imgur.com/xCFJSxU.png%0a%3c https://i.imgur.com/VPqcVrh.png%0a%3c %0a%3c Stuff goes here.%0a%3c %0a%3c (:include GameRef.Directoryplayerghoul:)%0a\ No newline at end of file%0a
+host:1605790896=78.79.241.82
