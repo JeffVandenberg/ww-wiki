@@ -1,15 +1,171 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36 Edg/87.0.664.41
-author=ApathyPlush
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36
+author=ZDracolis
 charset=ISO-8859-1
 csum=
 ctime=1605100082
-host=45.41.180.139
+host=74.135.172.2
 name=Players.MaribethDavies
-rev=95
-targets=
-text=https://i.imgur.com/OTM283o.png%0a(:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://i.imgur.com/uh9kq5r.png=]); background-size:500; padding:25px;' width=100%25:)%0a%0a(:table valign=top:)%0a(:cellnr rowspan=30 width=500 align=center:)%0a%25center%25https://i.imgur.com/hN9qH0S.png%0a[[https://i.imgur.com/7LX1ETw.png|https://i.imgur.com/7LX1ETw.png]]%0a%25center%25https://i.imgur.com/4taXnqO.png%0a*[[https://www.youtube.com/watch?v=R43P5rqLqpg|%25define=lightgrey    color=#999999%25[+'''Garbage - #1 Crush'''+]]]%0a*[[https://www.youtube.com/watch?v=-6IZzqMGj84|%25define=lightgrey    color=#999999%25[+'''Lady Gaga - Bad Romance'''+]]]%0a*[[https://www.youtube.com/watch?v=yyl24HRGgSU|%25define=lightgrey    color=#999999%25[+'''Daughtry - No Surprise'''+]]]%0a(:cellnr width=260 align=left:)%25mortal%25'''[+Name:+]''' %0a(:cell width=440:)%25define=lightgrey    color=#999999%25'''[+Dr. Maribeth Davies+]''' %0a(:cellnr width=260 align=left:)%25mortal%25'''[+Virtue/Vice:+]''' %0a(:cell width=440:)%25define=lightgrey    color=#999999%25'''[+Ambitious/Untrustworthy+]'''%0a(:cellnr width=260 align=left:)%25mortal%25'''[+Public Effects:+]''' %0a(:cell width=440:)%0a**%25define=lightgrey    color=#999999%25'''[+Trained Observer+]'''%0a**%25define=lightgrey    color=#999999%25'''[+Medical Status (2)+]'''%0a**%25define=lightgrey    color=#999999%25'''[+Sympathetic+]''' %0a(:cellnr width=260 align=left:)%25mortal%25'''[+Occupation:+]''' %0a(:cell width=440:)%25define=lightgrey    color=#999999%25'''[+Assistant Medical Examiner+]''' %0a(:cellnr width=260 align=left:)%25mortal%25'''[+Birthplace:+]''' %0a(:cell width=440:)%25definelightgrey    color=#999999%25'''[+Atlanta, Georgia+]'''%0a(:cellnr width=260 align=left:)%25mortal%25'''[+Age:+]''' %0a(:cell width=440:)%25definelightgrey    color=#999999%25'''[+27+]'''%0a(:cellnr width=260 align=left:)%25mortal%25'''[+Player:+]''' %0a(:cell width=440:)%25definelightgrey    color=#999999%25'''[+ApathyPlush+]''' %0a(:cellnr width=260 align=left:)%25mortal%25'''[+Actor:+]''' %0a(:cell width=440:)%25definelightgrey    color=#999999%25'''[+Norma Kuhling+]''' %0a%0a%0a(:tableend:)%0a%0a%0a(:div2 style='background-color:rgba(0,0,0,0.5);' :)%0a----%0a%0a%25center%25https://i.imgur.com/DBeGjYU.png%0a%0a%25rfloat text-align=center border='2px solid' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=250px height=250px%25[[https://i.imgur.com/AF3yUns.jpg|https://i.imgur.com/AF3yUns.jpg]]%0a%0a%0a%25lfloat text-align=center border='2px solid #ffd700' margin-top=0px margin-left=25px margin-bottom=25px margin-right=25px width=250px height=250px%25[[https://i.imgur.com/9ofMCC8.jpg|https://i.imgur.com/9ofMCC8.jpg]]%0a%0a%25center%25%25define=lightgrey    color=#999999%25[+'''Standing right at five and a half feet tall, Maribeth's is lean and visibly toned. Her light hazel eyes always seem slightly widened, as if either curious, impressed, or surprised. Her flaxen-colored hair hangs down onto her shoulders, and her thick Georgia drawl easily marks her as a non-native to Miami.'''+]%0a%0a----%0a%0a%0a(:div2end:)%0a%0a%25center%25https://i.imgur.com/AlzWngZ.png%0a%0a||! %25mortal%25Image ||! %25mortal%25Name ||! %25mortal%25Relationship ||! %25mortal%25Comment ||! %25mortal%25Ringtone ||%0a|| %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a|| %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a|| %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a|| %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a|| %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a%0a(:div2 style='background-color:rgba(0,0,0,0.5);' :)%0a----%0a%0a%25center%25https://i.imgur.com/4H7J4h4.png%0a%0a%25define=lightgrey    color=#999999%25[+'''The Dirty Underside of Death (Legal Types)'''+]%0a%0a%25mortal%25[+'''Maribeth's job brings her into constant contact with police detectives and other legal investigators on a regular basis. As an Assistant ME, she is usually the first contact person when it comes to autopsy reports.'''+]%0a%0a%25define=lightgrey    color=#999999%25[+'''100-Proof Brain Bleach (Anyone)'''+]%0a%0a%25mortal%25[+'''When you spend most of your days seeing the horrible ways a person can shuffle off the mortal coil, several belts of strong alcohol are necessary to feel normal. Maribeth can usually be found off-hours settled in front of a bar, downing double shots of vodka.'''+]%0a%0a%25define=lightgrey    color=#999999%25[+'''Flying High (Athletic Types)'''+]%0a%0a%25mortal%25[+'''Maribeth enjoys keeping in shape, though she's not really a fan of simply lifting weights. Instead, she prefers to run, climb, and flip around downtown. The fact that she's well aware of the physical damage possible only adds to the thrill.'''+]%0a%0a%25define=lightgrey    color=#999999%25[+'''Ankle-Deep Only (Anyone)'''+]%0a%0a%25mortal%25[+'''Maribeth is a fan of the beach, but not the ocean. She enjoys walking along the sandy shore, occasionally stepping into the surf, though she never goes in deeper than her knees.'''+]%0a%0a%0a----%0a(:div2end:)%0a%0a(:table table border=0 cellpadding=5 cellspacing=0:)%0a%0a(:cellnr width=100%25:)%0a%0a%25center%25https://i.imgur.com/2Ehiszz.png%0a%0a%25mortal%25 "I am a quote! Fear me!" -A person with a face. \\%0a%25mage%25 "I am a quote! Fear me!" -A magic person. \\%0a%25vampire%25 "I am a quote! Fear me!" -A person with fangs. \\%0a%25werewolf%25 "I am a quote! Fear me!" -A person that can woof. \\%0a%25changeling%25 "I am a quote! Fear me!" -A person that can shift forms. \\%0a%0a(:tableend:)%0a%0a(:include GameRef.Directoryplayermortal:)
-time=1606052122
+rev=147
+targets=Players.VictorBeck
+text=https://i.imgur.com/OTM283o.png%0a%0a!!!!!%25left%25%25mortal%25'''[++Birth and death are the only two universal human experiences...++]'''%0a%0a!%25center%25%25white%25'''[+VITAL SIGNS+]'''%0a(:table valign=top:)%0a(:cellnr rowspan=15 width=500 align=center:)%0a%0a%25center%25https://i.imgur.com/9ofMCC8.jpg%0a*[[https://www.youtube.com/watch?v=R43P5rqLqpg|%25define=lightgrey    color=#999999%25[+'''Garbage - #1 Crush'''+]]]%0a*[[https://www.youtube.com/watch?v=-6IZzqMGj84|%25define=lightgrey    color=#999999%25[+'''Lady Gaga - Bad Romance'''+]]]%0a*[[https://www.youtube.com/watch?v=yyl24HRGgSU|%25define=lightgrey    color=#999999%25[+'''Daughtry - No Surprise'''+]]]%0a(:cellnr width=260 align=left:)%25mortal%25'''[+Name:+]''' %0a(:cell width=300:)%25define=lightgrey    color=#999999%25'''[+Dr. Maribeth Davies+]''' %0a(:cellnr width=260 align=left:)%25mortal%25'''[+Virtue/Vice:+]''' %0a(:cell width=300:)%25define=lightgrey    color=#999999%25'''[+Ambitious/Untrustworthy+]'''%0a(:cellnr width=260 align=left:)%25mortal%25'''[+Public Effects:+]''' %0a(:cell width=300:)%0a**%25define=lightgrey    color=#999999%25'''[+Trained Observer+]'''%0a**%25define=lightgrey    color=#999999%25'''[+Medical Status (2)+]'''%0a**%25define=lightgrey    color=#999999%25'''[+Sympathetic+]''' %0a(:cellnr width=260 align=left:)%25mortal%25'''[+Occupation:+]''' %0a(:cell width=300:)%25define=lightgrey    color=#999999%25'''[+Assistant Medical Examiner+]''' %0a(:cellnr width=260 align=left:)%25mortal%25'''[+Birthplace:+]''' %0a(:cell width=300:)%25definelightgrey    color=#999999%25'''[+Atlanta, Georgia+]'''%0a(:cellnr width=260 align=left:)%25mortal%25'''[+Age:+]''' %0a(:cell width=300:)%25definelightgrey    color=#999999%25'''[+27+]'''%0a(:cellnr width=260 align=left:)%25mortal%25'''[+Player:+]''' %0a(:cell width=300:)%25definelightgrey    color=#999999%25'''[+ApathyPlush+]''' %0a(:cellnr width=260 align=left:)%25mortal%25'''[+Actor:+]''' %0a(:cell width=300:)%25definelightgrey    color=#999999%25'''[+Norma Kuhling+]''' %0a%0a(:tableend:)%0a%0a----%0a%0a!%25center%25%25white%25'''[+DESCRIPTION+]'''%0a%0a%25left%25%25define=lightgrey    color=#999999%25[+'''Standing right at five and a half feet tall, Maribeth's is lean and visibly toned. Her light hazel eyes always seem slightly widened, as if either curious, impressed, or surprised. Her flaxen-colored hair hangs down onto her shoulders, and her thick Georgia drawl easily marks her as a non-native to Miami.'''+]%0a%25center%25https://i.imgur.com/Zr7VYOH.jpg%0a%0a(:div2 style='background-color:rgba(0,0,0,0.5);' :)%0a----%0a%0a%0a(:div2end:)%0a%0a!%25center%25%25white%25'''[+CONNECTIONS+]'''%0a%0a||! %25mortal%25Image ||! %25mortal%25Name ||! %25mortal%25Relationship ||! %25mortal%25Comment ||! %25mortal%25Ringtone ||%0a|| %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a|| %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a|| %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a|| %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a|| %25thumb%25https://i.imgur.com/QRRTW65.png || %25mortal%25PC Name || %25mortal%25Relationship to PC || %25mortal%25Comments || %25newwin%25[[http://www.youtube.com/|%25mortal%25Ringtone]] ||%0a%0a(:div2 style='background-color:rgba(0,0,0,0.5);' :)%0a----%0a%0a!%25center%25%25white%25'''[+RP HOOKS+]'''%0a%0a!!!%25define=lightgrey    color=#999999%25The Dirty Underside of Death (Legal Types)%0a%0a%25mortal%25[+'''Maribeth's job brings her into constant contact with police detectives and other legal investigators on a regular basis. As an Assistant ME, she is usually the first contact person when it comes to autopsy reports.'''+]%0a%0a!!!%25define=lightgrey    color=#999999%25 100-Proof Brain Bleach (Anyone)%0a%0a%25mortal%25[+'''When you spend most of your days seeing the horrible ways a person can shuffle off the mortal coil, several belts of strong alcohol are necessary to feel normal. Maribeth can usually be found off-hours settled in front of a bar, downing double shots of vodka.'''+]%0a%0a!!!%25define=lightgrey    color=#999999%25 Parkour! (Athletic Types)%0a%0a%25mortal%25[+'''Maribeth enjoys keeping in shape, though she's not really a fan of simply lifting weights. Instead, she prefers to run, climb, and flip around downtown. The fact that she's well aware of the physical damage possible only adds to the thrill.'''+]%0a%0a!!!%25define=lightgrey    color=#999999%25 Ankle-Deep Only (Anyone)%0a%0a%25mortal%25[+'''Maribeth is a fan of the beach, but not the ocean. She enjoys walking along the sandy shore, occasionally stepping into the surf, though she never goes in deeper than her knees.'''+]%0a%0a%0a----%0a(:div2end:)%0a%0a(:table table border=0 cellpadding=5 cellspacing=0:)%0a%0a(:cellnr width=100%25:)%0a%0a!%25center%25%25white%25'''[+QUOTES+]'''%0a%0a%25vampire%25"It's been a pleasure, running into you around town, Doctor Davies. One of these nights, you might even get a peek behind the curtain, you keep proving yourself." [[Victor Beck]]%0a%0a%25mortal%25 "I am a quote! Fear me!" -A person with a face. \\%0a%25mage%25 "I am a quote! Fear me!" -A magic person. \\%0a%25vampire%25 "I am a quote! Fear me!" -A person with fangs. \\%0a%25werewolf%25 "I am a quote! Fear me!" -A person that can woof. \\%0a%25changeling%25 "I am a quote! Fear me!" -A person that can shift forms. \\%0a%0a(:tableend:)%0a%0a(:include GameRef.Directoryplayermortal:)
+time=1606195229
+author:1606195229=ZDracolis
+diff:1606195229:1606195107:=88c88%0a%3c %25vampire%25"It's been a pleasure, running into you around town, Doctor Davies. One of these nights, you might even get a peek behind the curtain, you keep proving yourself." [[Victor Beck]]%0a---%0a> %25Vampire%25"It's been a pleasure, running into you around town, Doctor Davies. One of these nights, you might even get a peek behind the curtain, you keep proving yourself." [[Victor Beck]]%0a
+host:1606195229=74.135.172.2
+author:1606195107=ZDracolis
+diff:1606195107:1606177584:=87,88d86%0a%3c %0a%3c %25Vampire%25"It's been a pleasure, running into you around town, Doctor Davies. One of these nights, you might even get a peek behind the curtain, you keep proving yourself." [[Victor Beck]]%0a
+host:1606195107=74.135.172.2
+author:1606177584=ApathyPlush
+diff:1606177584:1606174479:=
+host:1606177584=45.41.180.139
+author:1606174479=ApathyPlush
+diff:1606174479:1606173451:=
+host:1606174479=45.41.180.139
+author:1606173451=ApathyPlush
+diff:1606173451:1606173431:=3c3%0a%3c !!!!!%25left%25%25mortal%25'''[++Birth and death are the only two universal human experiences...++]'''%0a---%0a> !!!!%25left%25%25mortal%25'''[++Birth and death are the only two universal human experiences...++]'''%0a
+host:1606173451=45.41.180.139
+author:1606173431=ApathyPlush
+diff:1606173431:1606173415:=3c3%0a%3c !!!!%25left%25%25mortal%25'''[++Birth and death are the only two universal human experiences...++]'''%0a---%0a> %25left%25%25mortal%25'''[++Birth and death are the only two universal human experiences...++]'''%0a
+host:1606173431=45.41.180.139
+author:1606173415=ApathyPlush
+diff:1606173415:1606173372:=
+host:1606173415=45.41.180.139
+author:1606173372=ApathyPlush
+diff:1606173372:1606173328:=70,71c70,71%0a%3c !!!%25define=lightgrey    color=#999999%25 Parkour! (Athletic Types)%0a%3c %0a---%0a> !!!%25define=lightgrey    color=#999999%25 PARKOUR! (Athletic Types)%0a> %0a74c74%0a%3c !!!%25define=lightgrey    color=#999999%25 Ankle-Deep Only (Anyone)%0a---%0a> %25define=lightgrey    color=#999999%25[+'''Ankle-Deep Only (Anyone)'''+]%0a
+host:1606173372=45.41.180.139
+author:1606173328=ApathyPlush
+diff:1606173328:1606173284:=
+host:1606173328=45.41.180.139
+author:1606173284=ApathyPlush
+diff:1606173284:1606173255:=66,67c66,67%0a%3c !!!%25define=lightgrey    color=#999999%25 100-Proof Brain Bleach (Anyone)%0a%3c %0a---%0a> !!!%25define=lightgrey    color=#999999%25100-Proof Brain Bleach (Anyone)%0a> %0a70c70%0a%3c !!!%25define=lightgrey    color=#999999%25 PARKOUR! (Athletic Types)%0a---%0a> %25define=lightgrey    color=#999999%25[+'''PARKOUR! (Athletic Types)'''+]%0a
+host:1606173284=45.41.180.139
+author:1606173255=ApathyPlush
+diff:1606173255:1606173223:=66c66%0a%3c !!!%25define=lightgrey    color=#999999%25100-Proof Brain Bleach (Anyone)%0a---%0a> %25define=lightgrey    color=#999999%25[+'''100-Proof Brain Bleach (Anyone)'''+]%0a
+host:1606173255=45.41.180.139
+author:1606173223=ApathyPlush
+diff:1606173223:1606173197:=62c62%0a%3c !!!%25define=lightgrey    color=#999999%25The Dirty Underside of Death (Legal Types)%0a---%0a> !%25define=lightgrey    color=#999999%25The Dirty Underside of Death (Legal Types)%0a
+host:1606173223=45.41.180.139
+author:1606173197=ApathyPlush
+diff:1606173197:1606173178:=62c62%0a%3c !%25define=lightgrey    color=#999999%25The Dirty Underside of Death (Legal Types)%0a---%0a> !%25define=lightgrey    color=#999999%25'The Dirty Underside of Death (Legal Types)'%0a
+host:1606173197=45.41.180.139
+author:1606173178=ApathyPlush
+diff:1606173178:1606173162:=62c62%0a%3c !%25define=lightgrey    color=#999999%25'The Dirty Underside of Death (Legal Types)'%0a---%0a> !%25define=lightgrey    color=#999999%25''The Dirty Underside of Death (Legal Types)''%0a
+host:1606173178=45.41.180.139
+author:1606173162=ApathyPlush
+diff:1606173162:1606173140:=62c62%0a%3c !%25define=lightgrey    color=#999999%25''The Dirty Underside of Death (Legal Types)''%0a---%0a> !%25define=lightgrey    color=#999999%25[''The Dirty Underside of Death (Legal Types)'']%0a
+host:1606173162=45.41.180.139
+author:1606173140=ApathyPlush
+diff:1606173140:1606173121:=62c62%0a%3c !%25define=lightgrey    color=#999999%25[''The Dirty Underside of Death (Legal Types)'']%0a---%0a> !%25define=lightgrey    color=#999999%25[+''The Dirty Underside of Death (Legal Types)''+]%0a
+host:1606173140=45.41.180.139
+author:1606173121=ApathyPlush
+diff:1606173121:1606173102:=62c62%0a%3c !%25define=lightgrey    color=#999999%25[+''The Dirty Underside of Death (Legal Types)''+]%0a---%0a> !%25define=lightgrey    color=#999999%25[+'''The Dirty Underside of Death (Legal Types)'''+]%0a
+host:1606173121=45.41.180.139
+author:1606173102=ApathyPlush
+diff:1606173102:1606173004:=62c62%0a%3c !%25define=lightgrey    color=#999999%25[+'''The Dirty Underside of Death (Legal Types)'''+]%0a---%0a> %25define=lightgrey    color=#999999%25[+'''The Dirty Underside of Death (Legal Types)'''+]%0a
+host:1606173102=45.41.180.139
+author:1606173004=ApathyPlush
+diff:1606173004:1606172454:=70c70%0a%3c %25define=lightgrey    color=#999999%25[+'''PARKOUR! (Athletic Types)'''+]%0a---%0a> %25define=lightgrey    color=#999999%25[+'''Flying High (Athletic Types)'''+]%0a
+host:1606173004=45.41.180.139
+author:1606172454=ApathyPlush
+diff:1606172454:1606172377:=40c40%0a%3c %25center%25https://i.imgur.com/Zr7VYOH.jpg%0a---%0a> %25center%25https://i.imgur.com/AF3yUns.jpg%0a
+host:1606172454=45.41.180.139
+author:1606172377=ApathyPlush
+diff:1606172377:1606172358:=86c86%0a%3c !%25center%25%25white%25'''[+QUOTES+]'''%0a---%0a> !%25center%25%25white%25'''[+VITAL SIGNS+]'''%0a
+host:1606172377=45.41.180.139
+author:1606172358=ApathyPlush
+diff:1606172358:1606172321:=86c86%0a%3c !%25center%25%25white%25'''[+VITAL SIGNS+]'''%0a---%0a> %25center%25https://i.imgur.com/2Ehiszz.png%0a
+host:1606172358=45.41.180.139
+author:1606172321=ApathyPlush
+diff:1606172321:1606172277:=45c45,52%0a%3c %0a---%0a> %25rfloat text-align=center border='2px solid' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=250px height=250px%25%0a> %0a> %0a> %25lfloat text-align=center border='2px solid #ffd700' margin-top=0px margin-left=25px margin-bottom=25px margin-right=25px width=250px height=250px%25%0a> %0a> ----%0a> %0a> %0a60c67%0a%3c !%25center%25%25white%25'''[+RP HOOKS+]'''%0a---%0a> %25center%25https://i.imgur.com/4H7J4h4.png%0a
+host:1606172321=45.41.180.139
+author:1606172277=ApathyPlush
+diff:1606172277:1606172224:=55c55%0a%3c !%25center%25%25white%25'''[+CONNECTIONS+]'''%0a---%0a> %25center%25https://i.imgur.com/AlzWngZ.png%0a
+host:1606172277=45.41.180.139
+author:1606172224=ApathyPlush
+diff:1606172224:1606172194:=40c40%0a%3c %25center%25https://i.imgur.com/AF3yUns.jpg%0a---%0a> %25center%25[[https://i.imgur.com/AF3yUns.jpg|https://i.imgur.com/AF3yUns.jpg]]%0a
+host:1606172224=45.41.180.139
+author:1606172194=ApathyPlush
+diff:1606172194:1606172160:=40,41c40%0a%3c %25center%25[[https://i.imgur.com/AF3yUns.jpg|https://i.imgur.com/AF3yUns.jpg]]%0a%3c %0a---%0a> %0a45c44%0a%3c %25rfloat text-align=center border='2px solid' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=250px height=250px%25%0a---%0a> %25rfloat text-align=center border='2px solid' margin-top=0px margin-left=25px margin-bottom=5px margin-right=0px width=250px height=250px%25[[https://i.imgur.com/AF3yUns.jpg|https://i.imgur.com/AF3yUns.jpg]]%0a
+host:1606172194=45.41.180.139
+author:1606172160=ApathyPlush
+diff:1606172160:1606172133:=40a41%0a> [[https://i.imgur.com/7LX1ETw.png|https://i.imgur.com/7LX1ETw.png]]%0a
+host:1606172160=45.41.180.139
+author:1606172133=ApathyPlush
+diff:1606172133:1606172088:=48c48%0a%3c %25lfloat text-align=center border='2px solid #ffd700' margin-top=0px margin-left=25px margin-bottom=25px margin-right=25px width=250px height=250px%25%0a---%0a> %25lfloat text-align=center border='2px solid #ffd700' margin-top=0px margin-left=25px margin-bottom=25px margin-right=25px width=250px height=250px%25[[https://i.imgur.com/9ofMCC8.jpg|https://i.imgur.com/9ofMCC8.jpg]]%0a
+host:1606172133=45.41.180.139
+author:1606172088=ApathyPlush
+diff:1606172088:1606172031:=39,40d38%0a%3c %25left%25%25define=lightgrey    color=#999999%25[+'''Standing right at five and a half feet tall, Maribeth's is lean and visibly toned. Her light hazel eyes always seem slightly widened, as if either curious, impressed, or surprised. Her flaxen-colored hair hangs down onto her shoulders, and her thick Georgia drawl easily marks her as a non-native to Miami.'''+]%0a%3c %0a48a47,48%0a> %0a> %25center%25%25define=lightgrey    color=#999999%25[+'''Standing right at five and a half feet tall, Maribeth's is lean and visibly toned. Her light hazel eyes always seem slightly widened, as if either curious, impressed, or surprised. Her flaxen-colored hair hangs down onto her shoulders, and her thick Georgia drawl easily marks her as a non-native to Miami.'''+]%0a
+host:1606172088=45.41.180.139
+author:1606172031=ApathyPlush
+diff:1606172031:1606171983:=38d37%0a%3c %0a41a41,42%0a> %0a> %25center%25https://i.imgur.com/DBeGjYU.png%0a
+host:1606172031=45.41.180.139
+author:1606171983=ApathyPlush
+diff:1606171983:1606171920:=32a33%0a> %0a35,37d35%0a%3c ----%0a%3c %0a%3c !%25center%25%25white%25'''[+DESCRIPTION+]'''%0a
+host:1606171983=45.41.180.139
+author:1606171920=ApathyPlush
+diff:1606171920:1606171896:=7c7%0a%3c (:cellnr rowspan=15 width=500 align=center:)%0a---%0a> (:cellnr rowspan=20 width=500 align=center:)%0a
+host:1606171920=45.41.180.139
+author:1606171896=ApathyPlush
+diff:1606171896:1606171870:=7c7%0a%3c (:cellnr rowspan=20 width=500 align=center:)%0a---%0a> (:cellnr rowspan=30 width=500 align=center:)%0a
+host:1606171896=45.41.180.139
+author:1606171870=ApathyPlush
+diff:1606171870:1606171855:=5c5%0a%3c !%25center%25%25white%25'''[+VITAL SIGNS+]'''%0a---%0a> !%25center%25%25white%25'''[++VITAL SIGNS++]'''%0a
+host:1606171870=45.41.180.139
+author:1606171855=ApathyPlush
+diff:1606171855:1606171814:=5c5%0a%3c !%25center%25%25white%25'''[++VITAL SIGNS++]'''%0a---%0a> %25center%25%25white%25'''[++VITAL SIGNS++]'''%0a
+host:1606171855=45.41.180.139
+author:1606171814=ApathyPlush
+diff:1606171814:1606171803:=4d3%0a%3c %0a
+host:1606171814=45.41.180.139
+author:1606171803=ApathyPlush
+diff:1606171803:1606171710:=4c4%0a%3c %25center%25%25white%25'''[++VITAL SIGNS++]'''%0a---%0a> %0a6a7%0a> %0a
+host:1606171803=45.41.180.139
+author:1606171710=ApathyPlush
+diff:1606171710:1606171645:=14c14%0a%3c (:cell width=300:)%25define=lightgrey    color=#999999%25'''[+Dr. Maribeth Davies+]''' %0a---%0a> (:cell width=440:)%25define=lightgrey    color=#999999%25'''[+Dr. Maribeth Davies+]''' %0a16c16%0a%3c (:cell width=300:)%25define=lightgrey    color=#999999%25'''[+Ambitious/Untrustworthy+]'''%0a---%0a> (:cell width=440:)%25define=lightgrey    color=#999999%25'''[+Ambitious/Untrustworthy+]'''%0a18c18%0a%3c (:cell width=300:)%0a---%0a> (:cell width=440:)%0a23c23%0a%3c (:cell width=300:)%25define=lightgrey    color=#999999%25'''[+Assistant Medical Examiner+]''' %0a---%0a> (:cell width=440:)%25define=lightgrey    color=#999999%25'''[+Assistant Medical Examiner+]''' %0a25c25%0a%3c (:cell width=300:)%25definelightgrey    color=#999999%25'''[+Atlanta, Georgia+]'''%0a---%0a> (:cell width=440:)%25definelightgrey    color=#999999%25'''[+Atlanta, Georgia+]'''%0a27c27%0a%3c (:cell width=300:)%25definelightgrey    color=#999999%25'''[+27+]'''%0a---%0a> (:cell width=440:)%25definelightgrey    color=#999999%25'''[+27+]'''%0a29c29%0a%3c (:cell width=300:)%25definelightgrey    color=#999999%25'''[+ApathyPlush+]''' %0a---%0a> (:cell width=440:)%25definelightgrey    color=#999999%25'''[+ApathyPlush+]''' %0a31c31%0a%3c (:cell width=300:)%25definelightgrey    color=#999999%25'''[+Norma Kuhling+]''' %0a---%0a> (:cell width=440:)%25definelightgrey    color=#999999%25'''[+Norma Kuhling+]''' %0a
+host:1606171710=45.41.180.139
+author:1606171645=ApathyPlush
+diff:1606171645:1606171618:=4a5,6%0a> ||Name: Dr. Maribeth Davies||%0a> %25right%25https://i.imgur.com/9ofMCC8.jpg%0a
+host:1606171645=45.41.180.139
+author:1606171618=ApathyPlush
+diff:1606171618:1606171578:=11c11%0a%3c %25center%25https://i.imgur.com/9ofMCC8.jpg%0a---%0a> %25center%25https://i.imgur.com/4taXnqO.png%0a
+host:1606171618=45.41.180.139
+author:1606171578=ApathyPlush
+diff:1606171578:1606171551:=10c10%0a%3c %0a---%0a> [[https://i.imgur.com/7LX1ETw.png|https://i.imgur.com/7LX1ETw.png]]%0a38c38%0a%3c [[https://i.imgur.com/7LX1ETw.png|https://i.imgur.com/7LX1ETw.png]]%0a---%0a> %0a
+host:1606171578=45.41.180.139
+author:1606171551=ApathyPlush
+diff:1606171551:1606171535:=5c5%0a%3c ||Name: Dr. Maribeth Davies||%0a---%0a> ||Name: Dr. Maribeth Davies ||%0a
+host:1606171551=45.41.180.139
+author:1606171535=ApathyPlush
+diff:1606171535:1606170576:=5d4%0a%3c ||Name: Dr. Maribeth Davies ||%0a
+host:1606171535=45.41.180.139
+author:1606170576=ApathyPlush
+diff:1606170576:1606170543:=
+host:1606170576=45.41.180.139
+author:1606170543=ApathyPlush
+diff:1606170543:1606170441:=5d4%0a%3c %25right%25https://i.imgur.com/9ofMCC8.jpg%0a
+host:1606170543=45.41.180.139
+author:1606170441=ApathyPlush
+diff:1606170441:1606170418:=7c7%0a%3c %0a---%0a> %25center%25https://i.imgur.com/hN9qH0S.png%0a
+host:1606170441=45.41.180.139
+author:1606170418=ApathyPlush
+diff:1606170418:1606170390:=3c3%0a%3c %25left%25%25mortal%25'''[++Birth and death are the only two universal human experiences...++]'''%0a---%0a> %25left%25%25mortal%25[++Birth and death are the only two universal human experiences...++]%0a
+host:1606170418=45.41.180.139
+author:1606170390=ApathyPlush
+diff:1606170390:1606170126:=2,3d1%0a%3c %0a%3c %25left%25%25mortal%25[++Birth and death are the only two universal human experiences...++]%0a
+host:1606170390=45.41.180.139
+author:1606170126=ApathyPlush
+diff:1606170126:1606170098:=1a2,3%0a> ||https://i.imgur.com/7LX1ETw.png||%0a> || DOSSIER ||%0a
+host:1606170126=45.41.180.139
+author:1606170098=ApathyPlush
+diff:1606170098:1606170067:=2c2%0a%3c ||https://i.imgur.com/7LX1ETw.png||%0a---%0a> ||https://i.imgur.com/hN9qH0S.png||%0a
+host:1606170098=45.41.180.139
+author:1606170067=ApathyPlush
+diff:1606170067:1606169974:=2,3c2%0a%3c ||https://i.imgur.com/hN9qH0S.png||%0a%3c || DOSSIER ||%0a---%0a> %0a
+host:1606170067=45.41.180.139
+author:1606169974=ApathyPlush
+diff:1606169974:1606052122:=2c2%0a%3c %0a---%0a> (:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://i.imgur.com/uh9kq5r.png=]); background-size:500; padding:25px;' width=100%25:)%0a
+host:1606169974=45.41.180.139
 author:1606052122=ApathyPlush
 diff:1606052122:1606052075:=3a4%0a> %25center%25https://i.imgur.com/6CIIpYF.png%0a
 host:1606052122=45.41.180.139

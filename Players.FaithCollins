@@ -1,0 +1,45 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36 Edg/87.0.664.41
+author=ApathyPlush
+charset=ISO-8859-1
+csum=
+ctime=1606168689
+host=45.41.180.139
+name=Players.FaithCollins
+rev=11
+targets=
+text=https://i.imgur.com/xCFJSxU.png%0a%0a%0a!!!%25center%25%25vampire%25[++You gotta to have Faith...++]%0a%0a!!!!%25center%25%25white%25 Under Construction%0a%0a%0a%0a%0a%0a%0a%0a%0a%0a%0a(:include GameRef.Directoryplayervampire:)
+time=1606186852
+author:1606186852=ApathyPlush
+diff:1606186852:1606186816:=5,6d4%0a%3c %0a%3c !!!!%25center%25%25white%25 Under Construction%0a
+host:1606186852=45.41.180.139
+author:1606186816=ApathyPlush
+diff:1606186816:1606186294:=
+host:1606186816=45.41.180.139
+author:1606186294=ApathyPlush
+diff:1606186294:1606186282:=4c4%0a%3c !!!%25center%25%25vampire%25[++You gotta to have Faith...++]%0a---%0a> !!%25center%25%25vampire%25[++You gotta to have Faith...++]%0a
+host:1606186294=45.41.180.139
+author:1606186282=ApathyPlush
+diff:1606186282:1606186273:=4c4%0a%3c !!%25center%25%25vampire%25[++You gotta to have Faith...++]%0a---%0a> !%25center%25%25vampire%25[++You gotta to have Faith...++]%0a
+host:1606186282=45.41.180.139
+author:1606186273=ApathyPlush
+diff:1606186273:1606169919:=4c4%0a%3c !%25center%25%25vampire%25[++You gotta to have Faith...++]%0a---%0a> %25center%25%25vampire%25[++You gotta to have faith...++]%0a
+host:1606186273=45.41.180.139
+author:1606169919=ApathyPlush
+diff:1606169919:1606169827:=2c2%0a%3c %0a---%0a> (:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://i.imgur.com/iHbXGJ3.png=]); background-size:500; padding:25px;' width=100%25:)%0a
+host:1606169919=45.41.180.139
+author:1606169827=ApathyPlush
+diff:1606169827:1606169811:=4c4%0a%3c %25center%25%25vampire%25[++You gotta to have faith...++]%0a---%0a> %25center%25%25vampire%25++You gotta to have faith...++%0a
+host:1606169827=45.41.180.139
+author:1606169811=ApathyPlush
+diff:1606169811:1606169800:=4c4%0a%3c %25center%25%25vampire%25++You gotta to have faith...++%0a---%0a> %25center%25%25vampire%25You gotta to have faith...%0a
+host:1606169811=45.41.180.139
+author:1606169800=ApathyPlush
+diff:1606169800:1606168720:=4c4%0a%3c %25center%25%25vampire%25You gotta to have faith...%0a---%0a> %0a
+host:1606169800=45.41.180.139
+author:1606168720=ApathyPlush
+diff:1606168720:1606168689:=2,15c2%0a%3c (:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://i.imgur.com/iHbXGJ3.png=]); background-size:500; padding:25px;' width=100%25:)%0a%3c %0a%3c %0a%3c %0a%3c %0a%3c %0a%3c %0a%3c %0a%3c %0a%3c %0a%3c %0a%3c %0a%3c %0a%3c (:include GameRef.Directoryplayervampire:)%0a\ No newline at end of file%0a---%0a> (:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://i.imgur.com/iHbXGJ3.png=]); background-size:500; padding:25px;' width=100%25:)%0a\ No newline at end of file%0a
+host:1606168720=45.41.180.139
+author:1606168689=ApathyPlush
+diff:1606168689:1606168689:=1,2d0%0a%3c https://i.imgur.com/xCFJSxU.png%0a%3c (:div %25width=100%25 style='color:white;background-repeat:no-repeat;background-attachment:fixed;background-color:black;background-position:bottom center;background-image:url([=https://i.imgur.com/iHbXGJ3.png=]); background-size:500; padding:25px;' width=100%25:)%0a\ No newline at end of file%0a
+host:1606168689=45.41.180.139
