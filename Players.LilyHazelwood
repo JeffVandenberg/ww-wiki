@@ -6,10 +6,31 @@ csum=
 ctime=1605790896
 host=78.67.8.82
 name=Players.LilyHazelwood
-rev=26
+rev=33
 targets=
-text=(:comment  Player of this character is 'Cinn'; wiki is designed in photoshop. :)%0a[[%3c%3c]][[%3c%3c]]%0ahttps://i.imgur.com/xCFJSxU.png%0ahttps://i.imgur.com/IQDegmf.png%0ahttps://i.imgur.com/ino0NB4.png%0a%25vampire newwin%25 [[https://www.youtube.com/watch?v=mBYUcjGdVUY|https://i.imgur.com/kB6E6G7.png]]%0ahttps://i.imgur.com/aLjD2R9.png%0a%25vampire newwin%25 [[https://www.youtube.com/watch?v=Sk-U8ruIQyA|https://i.imgur.com/TNih2xJ.png]]%0ahttps://i.imgur.com/erki5Ik.png%0a%25vampire newwin%25 [[https://www.youtube.com/watch?v=K5R5FF1KKmw|https://i.imgur.com/gSD7Vap.png]]%0ahttps://i.imgur.com/6DgsU7K.png%0ahttps://i.imgur.com/vB88LCf.png%0ahttps://i.imgur.com/WC1XpHA.png%0aStuff goes here.%0a%0a(:include GameRef.Directoryplayerghoul:)
-time=1606158022
+text=(:comment  Player of this character is 'Cinn'; wiki is designed in photoshop. :)%0a[[%3c%3c]][[%3c%3c]]%0ahttps://i.imgur.com/xCFJSxU.png%0ahttps://i.imgur.com/IQDegmf.png%0ahttps://i.imgur.com/ino0NB4.png%0a%25vampire newwin%25 [[https://www.youtube.com/watch?v=mBYUcjGdVUY|https://i.imgur.com/kB6E6G7.png]]%0ahttps://i.imgur.com/aLjD2R9.png%0a%25vampire newwin%25 [[https://www.youtube.com/watch?v=Sk-U8ruIQyA|https://i.imgur.com/TNih2xJ.png]]%0ahttps://i.imgur.com/erki5Ik.png%0a%25vampire newwin%25 [[https://www.youtube.com/watch?v=K5R5FF1KKmw|https://i.imgur.com/gSD7Vap.png]]%0ahttps://i.imgur.com/6DgsU7K.png%0ahttps://i.imgur.com/vB88LCf.png%0ahttps://i.imgur.com/WC1XpHA.png%0ahttps://i.imgur.com/gHrcbk0.png%0aStuff goes here.%0a%0a(:include GameRef.Directoryplayerghoul:)
+time=1606238333
+author:1606238333=Cinn
+diff:1606238333:1606230027:minor=14c14%0a%3c https://i.imgur.com/gHrcbk0.png%0a---%0a> https://i.imgur.com/IMd0INQ.png%0a
+host:1606238333=78.67.8.82
+author:1606230027=Cinn
+diff:1606230027:1606229957:minor=14c14%0a%3c https://i.imgur.com/IMd0INQ.png%0a---%0a> https://i.imgur.com/JekX1TK.png%0a
+host:1606230027=78.77.218.123
+author:1606229957=Cinn
+diff:1606229957:1606229857:minor=14c14%0a%3c https://i.imgur.com/JekX1TK.png%0a---%0a> https://i.imgur.com/0nXhXHR.png%0a
+host:1606229957=78.77.218.123
+author:1606229857=Cinn
+diff:1606229857:1606229760:minor=14c14%0a%3c https://i.imgur.com/0nXhXHR.png%0a---%0a> https://i.imgur.com/sYLZ4rG.png%0a
+host:1606229857=78.77.218.123
+author:1606229760=Cinn
+diff:1606229760:1606227813:minor=14c14%0a%3c https://i.imgur.com/sYLZ4rG.png%0a---%0a> https://i.imgur.com/RwgNZVz.png%0a
+host:1606229760=78.77.218.123
+author:1606227813=Cinn
+diff:1606227813:1606225438:minor=14c14%0a%3c https://i.imgur.com/RwgNZVz.png%0a---%0a> https://i.imgur.com/JXzX3lP.png%0a
+host:1606227813=78.77.218.123
+author:1606225438=Cinn
+diff:1606225438:1606158022:minor=14d13%0a%3c https://i.imgur.com/JXzX3lP.png%0a
+host:1606225438=217.213.83.55
 author:1606158022=Cinn
 diff:1606158022:1606154763:minor=6c6%0a%3c %25vampire newwin%25 [[https://www.youtube.com/watch?v=mBYUcjGdVUY|https://i.imgur.com/kB6E6G7.png]]%0a---%0a> %25vampire newwin%25 [[https://www.youtube.com/watch?v=mBYUcjGdVUY|https://i.imgur.com/JOQ8ZWW.png]]%0a
 host:1606158022=78.67.8.82
