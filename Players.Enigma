@@ -1,15 +1,18 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36 Edg/86.0.622.69
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36 Edg/87.0.664.47
 author=Enigma
 charset=ISO-8859-1
 csum=
 ctime=1596890979
-host=193.56.116.36
+host=107.136.74.157
 name=Players.Enigma
-rev=4
+rev=5
 targets=
-text=Player of [[https://wantonwicked.gamingsandbox.com/wiki/Players/AlexisStone|Alexis Stone]].
-time=1605490301
+text=Player of [[https://wantonwicked.gamingsandbox.com/wiki/Players/AlexisStone|Alexis Stone]] and [[https://wantonwicked.gamingsandbox.com/wiki/Players/JosephineDavenport|Josie Davenport]].
+time=1606693165
+author:1606693165=Enigma
+diff:1606693165:1605490301:=1c1%0a%3c Player of [[https://wantonwicked.gamingsandbox.com/wiki/Players/AlexisStone|Alexis Stone]] and [[https://wantonwicked.gamingsandbox.com/wiki/Players/JosephineDavenport|Josie Davenport]].%0a\ No newline at end of file%0a---%0a> Player of [[https://wantonwicked.gamingsandbox.com/wiki/Players/AlexisStone|Alexis Stone]].%0a\ No newline at end of file%0a
+host:1606693165=107.136.74.157
 author:1605490301=Enigma
 diff:1605490301:1600020976:=1c1%0a%3c Player of [[https://wantonwicked.gamingsandbox.com/wiki/Players/AlexisStone|Alexis Stone]].%0a\ No newline at end of file%0a---%0a> Player of [[https://wantonwicked.gamingsandbox.com/wiki/Players/ShelbySullivan|Shelby Sullivan]] and [[https://wantonwicked.gamingsandbox.com/wiki/Players/AlexisStone|Alexis Stone]].%0a\ No newline at end of file%0a
 host:1605490301=193.56.116.36
