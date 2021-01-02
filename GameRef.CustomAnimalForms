@@ -1,0 +1,18 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0
+author=ChrisF
+charset=ISO-8859-1
+csum=
+ctime=1609544542
+host=173.46.225.202
+name=GameRef.CustomAnimalForms
+rev=2
+targets=
+text=https://i.imgur.com/7OlUpfb.png%0a(:include GameRef.Directoryhelp:)%0a----%0a%25center%25https://i.imgur.com/50X0UsF.png%0a----%0a(:toc:)%0a[[#top]]%0a%0a[[#from1]]%0a%0a!!%25center%25'''Custom Animal Forms'''%0aCertain powers like Protean, Chrysalis, Skin-Thief, and more allow a character to take on the forms of animals. %0a%0aFor any animals not found in official sources, you may submit one at a time to the Rulesmaster Custom Item/Power request queue. Once approved, they'll be placed here. Animals already approved below can be used freely by anyone whose power that animal qualifies for.%0a%0aNote that you should always double check your power's description -- some use different traits from the animal than others, and so mental attributes or skills may not end up mattering. %0a%0a%0a!!!%25center%25'''Approved Animal Forms'''%0a%0a%0a!!!%25center%25'''Approved Mythic Forms'''%0aTypically, these forms are only usable with special powers like Chrysalis, which explicitly allow them. Most others cannot gain access to them.%0a%0a[[#to1]]%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a%0a(:include GameRef.Directoryhelp:)%0a
+time=1609545015
+author:1609545015=ChrisF
+diff:1609545015:1609544542:=22,23d21%0a%3c !!!%25center%25'''Approved Mythic Forms'''%0a%3c Typically, these forms are only usable with special powers like Chrysalis, which explicitly allow them. Most others cannot gain access to them.%0a
+host:1609545015=173.46.225.202
+author:1609544542=ChrisF
+diff:1609544542:1609544542:=1,28d0%0a%3c https://i.imgur.com/7OlUpfb.png%0a%3c (:include GameRef.Directoryhelp:)%0a%3c ----%0a%3c %25center%25https://i.imgur.com/50X0UsF.png%0a%3c ----%0a%3c (:toc:)%0a%3c [[#top]]%0a%3c %0a%3c [[#from1]]%0a%3c %0a%3c !!%25center%25'''Custom Animal Forms'''%0a%3c Certain powers like Protean, Chrysalis, Skin-Thief, and more allow a character to take on the forms of animals. %0a%3c %0a%3c For any animals not found in official sources, you may submit one at a time to the Rulesmaster Custom Item/Power request queue. Once approved, they'll be placed here. Animals already approved below can be used freely by anyone whose power that animal qualifies for.%0a%3c %0a%3c Note that you should always double check your power's description -- some use different traits from the animal than others, and so mental attributes or skills may not end up mattering. %0a%3c %0a%3c %0a%3c !!!%25center%25'''Approved Animal Forms'''%0a%3c %0a%3c %0a%3c %0a%3c [[#to1]]%0a%3c %0a%3c %25right%25[[#top|&#8593; back to top]]%0a%3c %0a%3c %0a%3c (:include GameRef.Directoryhelp:)%0a
+host:1609544542=173.46.225.202

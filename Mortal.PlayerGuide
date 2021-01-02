@@ -1,15 +1,18 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36
-author=Selcouth
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0
+author=ChrisF
 charset=ISO-8859-1
 csum=
 ctime=1516719987
-host=71.222.46.230
+host=173.46.225.202
 name=Mortal.PlayerGuide
-rev=24
+rev=25
 targets=
-text=https://i.imgur.com/9ybav7o.png%0a(:include GameRef.Directorymortal:)%0a----%0a!%25center%25https://i.imgur.com/DSE0RnI.png%0a----%0a%0a%25center%25''"Any sufficiently advanced technology is indistinguishable from magic."'' \\%0a%25center%25 - '''Clarke’s Third Law''' - \\%0a\\%0a%0a(:toc:)%0a[[#top]]%0a[[#from1]]%0a%0a!!!Psychic Vampires%0a%0a:Hunting: For keeping track of Ephemera, use the Vampire rules for Hunting, an example of which can be found [[https://wantonwicked.gamingsandbox.com/wiki/Vampire/PlayerGuide#toc2| here]] and in the Vampire Core where referenced, replacing Vitae with Ephemera, and gaining Empowered (Psychic Vampirism) instead of Sated on an exceptional.%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a%0a(:include GameRef.CustomItemsAndPowers#from5#to5:)%0a[[#to1]]%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include GameRef.Directoryhelp:)
-time=1579395306
+text=https://i.imgur.com/9ybav7o.png%0a(:include GameRef.Directorymortal:)%0a----%0a!%25center%25https://i.imgur.com/DSE0RnI.png%0a----%0a%0a%25center%25''"Any sufficiently advanced technology is indistinguishable from magic."'' \\%0a%25center%25 - '''Clarkeï¿½s Third Law''' - \\%0a\\%0a%0a(:toc:)%0a[[#top]]%0a[[#from1]]%0a%0a!!!Psychic Vampires%0a%0a:Hunting: For keeping track of Ephemera, use the Vampire rules for Hunting, an example of which can be found [[https://wantonwicked.gamingsandbox.com/wiki/Vampire/PlayerGuide#toc2| here]] and in the Vampire Core where referenced, replacing Vitae with Ephemera, and gaining Empowered (Psychic Vampirism) instead of Sated on an exceptional.%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a[[#to1]]%0a(:include GameRef.CustomItemsAndPowers#from5#to5:)%0a%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include GameRef.Directoryhelp:)
+time=1609541213
+author:1609541213=ChrisF
+diff:1609541213:1579395306:=8c8%0a%3c %25center%25 - '''Clarkeï¿½s Third Law''' - \\%0a---%0a> %25center%25 - '''Clarke’s Third Law''' - \\%0a20a21,22%0a> %0a> (:include GameRef.CustomItemsAndPowers#from5#to5:)%0a22,23d23%0a%3c (:include GameRef.CustomItemsAndPowers#from5#to5:)%0a%3c %0a
+host:1609541213=173.46.225.202
 author:1579395306=Selcouth
 diff:1579395306:1577141892:=17c17%0a%3c :Hunting: For keeping track of Ephemera, use the Vampire rules for Hunting, an example of which can be found [[https://wantonwicked.gamingsandbox.com/wiki/Vampire/PlayerGuide#toc2| here]] and in the Vampire Core where referenced, replacing Vitae with Ephemera, and gaining Empowered (Psychic Vampirism) instead of Sated on an exceptional.%0a---%0a> :Hunting: For keeping track of Ephemera, use the Vampire rules for Hunting, an example of which can be found [[https://tinyurl.com/y8wyeoau| here]] and in the Vampire Core where referenced, replacing Vitae with Ephemera, and gaining Empowered (Psychic Vampirism) instead of Sated on an exceptional.%0a
 host:1579395306=71.222.46.230
