@@ -1,0 +1,15 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+author=AlexB
+charset=ISO-8859-1
+csum=
+ctime=1609885677
+host=24.0.22.232
+name=GameRef.GameRef
+rev=1
+targets=
+text=
+time=1609885677
+author:1609885677=AlexB
+diff:1609885677:1609885677:=
+host:1609885677=24.0.22.232
