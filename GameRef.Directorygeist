@@ -1,0 +1,15 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+author=AnneB
+charset=ISO-8859-1
+csum=
+ctime=1644251888
+host=98.182.251.82
+name=GameRef.Directorygeist
+rev=1
+targets=GameRef.CharacterCreation,City.City,GameRef.HouseRules,Geist.Society,Geist.History,Geist.Beast,Geist.Locations,Geist.PlayerGuide
+text=|| border=1 align=center width=100%25%0a|| %25color=#238eb5%25[[GameRef.CharacterCreation|Character Creation]] || [[City.City|The City]] || %25color=#238eb5%25Directory: Geist The Sin-Eaters|| [[https://wantonwicked.gamingsandbox.com/characters/cast/geist|Geist Cast List]] || [[GameRef.HouseRules|House Rules]] ||%0a|| %25color=#238eb5%25[[geist.society|Society]] || [[geist.history|History]]  || [[geist.beast|About the Venue]] || [[geist.locations|Locations]] || [[geist.PlayerGuide|Player Guide]] ||
+time=1644251888
+author:1644251888=AnneB
+diff:1644251888:1644251888:=1,3d0%0a%3c || border=1 align=center width=100%25%0a%3c || %25color=#238eb5%25[[GameRef.CharacterCreation|Character Creation]] || [[City.City|The City]] || %25color=#238eb5%25Directory: Geist The Sin-Eaters|| [[https://wantonwicked.gamingsandbox.com/characters/cast/geist|Geist Cast List]] || [[GameRef.HouseRules|House Rules]] ||%0a%3c || %25color=#238eb5%25[[geist.society|Society]] || [[geist.history|History]]  || [[geist.beast|About the Venue]] || [[geist.locations|Locations]] || [[geist.PlayerGuide|Player Guide]] ||%0a\ No newline at end of file%0a
+host:1644251888=98.182.251.82

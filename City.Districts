@@ -1,15 +1,21 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 author=AnneB
 charset=ISO-8859-1
 csum=
 ctime=1523740556
-host=75.163.20.249
+host=98.182.251.82
 name=City.Districts
-rev=18
+rev=20
 targets=
-text=https://i.imgur.com/7OlUpfb.png%0a(:include GameRef.Directorycity:)%0a----%0a%25center%25https://i.imgur.com/ZDLxCVG.png%0a----%0a(:toc:)%0a[[#top]]%0a%0a(:include Central#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include East#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include North#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include Northeast#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include Northwest#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include Southeast#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include Southwest#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include South#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include West#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include OOT#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include GameRef.Directoryhelp:)
-time=1576987446
+text=https://i.imgur.com/WTCZurQ.png%0a(:include GameRef.Directorycity:)%0a----%0a%25center%25https://i.imgur.com/ZDLxCVG.png%0a----%0a(:toc:)%0a[[#top]]%0a%0a(:include Central#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include East#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include North#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include South#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include OOT#from#to:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include GameRef.Directoryhelp:)
+time=1644271748
+author:1644271748=AnneB
+diff:1644271748:1644264730:=21,22c21,41%0a%3c (:include South#from#to:)%0a%3c %0a---%0a> (:include Northeast#from#to:)%0a> %0a> %25right%25[[#top|&#8593; back to top]]%0a> %0a> (:include Northwest#from#to:)%0a> %0a> %25right%25[[#top|&#8593; back to top]]%0a> %0a> (:include Southeast#from#to:)%0a> %0a> %25right%25[[#top|&#8593; back to top]]%0a> %0a> (:include Southwest#from#to:)%0a> %0a> %25right%25[[#top|&#8593; back to top]]%0a> %0a> (:include South#from#to:)%0a> %0a> %25right%25[[#top|&#8593; back to top]]%0a> %0a> (:include West#from#to:)%0a
+host:1644271748=98.182.251.82
+author:1644264730=AnneB
+diff:1644264730:1576987446:=1c1%0a%3c https://i.imgur.com/WTCZurQ.png%0a---%0a> https://i.imgur.com/7OlUpfb.png%0a
+host:1644264730=98.182.251.82
 author:1576987446=AnneB
 diff:1576987446:1576986990:=45c45%0a%3c (:include OOT#from#to:)%0a---%0a> (:include Out of Town#from#to:)%0a
 host:1576987446=75.163.20.249

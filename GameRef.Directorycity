@@ -1,15 +1,18 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 author=AnneB
 charset=ISO-8859-1
 csum=
 ctime=1528589039
-host=71.222.13.189
+host=98.182.251.82
 name=GameRef.Directorycity
-rev=11
+rev=12
 targets=City.City,City.Districts,City.Spheres,City.MysteryCult
-text=|| border=1 align=center width=100%25%0a|| [[https://wantonwicked.gamingsandbox.com/map|Map]] || [[City.City|City]] ||  Directory: Miami, Florida  || [[City.Districts|Districts]] || [[City.Spheres|Spheres]] ||%0a|| [[City.MysteryCult|Mystery Cult]] || || The Magic City || || [[https://wantonwicked.gamingsandbox.com/characters/cast/|Cast List]] ||%0a
-time=1574027507
+text=|| border=1 align=center width=100%25%0a|| [[https://wantonwicked.gamingsandbox.com/map|Map]] || [[City.City|City]] ||  Directory: Pittsburgh, Pennsylvania   || [[City.Districts|Districts]] || [[City.Spheres|Spheres]] ||%0a|| [[City.MysteryCult|Mystery Cult]] || || The Steel City || || [[https://wantonwicked.gamingsandbox.com/characters/cast/|Cast List]] ||%0a
+time=1644255763
+author:1644255763=AnneB
+diff:1644255763:1574027507:=2,3c2,3%0a%3c || [[https://wantonwicked.gamingsandbox.com/map|Map]] || [[City.City|City]] ||  Directory: Pittsburgh, Pennsylvania   || [[City.Districts|Districts]] || [[City.Spheres|Spheres]] ||%0a%3c || [[City.MysteryCult|Mystery Cult]] || || The Steel City || || [[https://wantonwicked.gamingsandbox.com/characters/cast/|Cast List]] ||%0a---%0a> || [[https://wantonwicked.gamingsandbox.com/map|Map]] || [[City.City|City]] ||  Directory: Miami, Florida  || [[City.Districts|Districts]] || [[City.Spheres|Spheres]] ||%0a> || [[City.MysteryCult|Mystery Cult]] || || The Magic City || || [[https://wantonwicked.gamingsandbox.com/characters/cast/|Cast List]] ||%0a
+host:1644255763=98.182.251.82
 author:1574027507=AnneB
 diff:1574027507:1574008625:=2c2%0a%3c || [[https://wantonwicked.gamingsandbox.com/map|Map]] || [[City.City|City]] ||  Directory: Miami, Florida  || [[City.Districts|Districts]] || [[City.Spheres|Spheres]] ||%0a---%0a> || [[https://wantonwicked.gamingsandbox.com/mapww5/map.html|Map]] || [[City.City|City]] ||  Directory: Miami, Florida  || [[City.Districts|Districts]] || [[City.Spheres|Spheres]] ||%0a
 host:1574027507=71.222.13.189

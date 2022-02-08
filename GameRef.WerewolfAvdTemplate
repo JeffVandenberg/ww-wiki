@@ -1,0 +1,15 @@
+version=pmwiki-2.2.97 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+author=AnneB
+charset=ISO-8859-1
+csum=
+ctime=1644265790
+host=98.182.251.82
+name=GameRef.WerewolfAvdTemplate
+rev=1
+targets=
+text=(:include GameRef.Directoryplayerwolf:)
+time=1644265790
+author:1644265790=AnneB
+diff:1644265790:1644265790:=1d0%0a%3c (:include GameRef.Directoryplayerwolf:)%0a\ No newline at end of file%0a
+host:1644265790=98.182.251.82
