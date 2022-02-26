@@ -1,9 +1,9 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:96.0) Gecko/20100101 Firefox/96.0
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
 charset=ISO-8859-1
 ctime=1516719396
-host=173.46.225.202
+host=174.248.92.12
 name=Werewolf.RecentChanges
-rev=208
-text=* [[Werewolf.PlayerGuide | Player Guide]]  . . . February 07, 2022, at 03:23 PM by [[~Falco1029]]: [==]%0a* [[Werewolf.Society | Society]]  . . . March 26, 2021, at 06:10 PM by [[~Trish]]: [==]%0a* [[Werewolf.Locations | Locations]]  . . . December 31, 2019, at 03:48 PM by [[~CaitlinB]]: [==]%0a* [[Werewolf.History | History]]  . . . December 22, 2019, at 04:08 PM by [[~CaitlinB]]: [==]%0a* [[Werewolf.Werewolf | Werewolf]]  . . . December 05, 2019, at 12:54 PM by [[~CaitlinB]]: [==]%0a
-time=1644276216
+rev=210
+text=* [[Werewolf.History | History]]  . . . February 25, 2022, at 02:37 PM by [[~TrishD]]: [==]%0a* [[Werewolf.Werewolf | Werewolf]]  . . . February 25, 2022, at 02:30 PM by [[~TrishD]]: [==]%0a* [[Werewolf.PlayerGuide | Player Guide]]  . . . February 07, 2022, at 03:23 PM by [[~Falco1029]]: [==]%0a* [[Werewolf.Society | Society]]  . . . March 26, 2021, at 06:10 PM by [[~Trish]]: [==]%0a* [[Werewolf.Locations | Locations]]  . . . December 31, 2019, at 03:48 PM by [[~CaitlinB]]: [==]%0a
+time=1645828679
