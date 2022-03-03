@@ -1,15 +1,18 @@
 version=pmwiki-2.2.97 ordered=1 urlencoded=1
-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:96.0) Gecko/20100101 Firefox/96.0
-author=Falco1029
+agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36
+author=TrishD
 charset=ISO-8859-1
 csum=
 ctime=1516719396
-host=173.46.225.202
+host=174.216.81.119
 name=Werewolf.PlayerGuide
-rev=32
+rev=33
 targets=GameRef.CultSystem
-text=https://i.imgur.com/LB7p3ja.png%0a(:include GameRef.Directorywerewolf:)%0a----%0a!%25center%25https://i.imgur.com/XYhnkYC.png%0a----%0a%0a%25center%25''Like most animals, we spent a large part of our lives engaged in'' \\%0a%25center%25''the three Fs of basic survival. Feeding, fighting and-... reproduction.'' \\%0a%25center%25- '''Kelly Armstrong, Stolen''' - \\%0a%0a(:toc:)%0a[[#top]]%0a%0a!!%25center%25%25werewolf%25'''Werewolf House Rules and Clarifications'''%25%25%0a[[#from1]]%0a!!!%25center%25''Packs''%0a%0aSee [[GameRef.Cult System|Pack system]] for rules on creating Packs.%0a%0aTo clarify, the Primal Instincts Tell is required for Wolf-Blooded to participate in Pack Tactics. Non-Werewolves otherwise cannot do so.%0a%0a!!!%25center%25''Wolf-Blooded''%0a%0a!!!!Wolf-Blooded Changing to Another Template%0aFormer Wolf-Blooded characters retain ONE tell when changing into anything besides a Werewolf. Any additional Tells purchased are lost with all other Wolf-Blooded merits.%0a%0a!!!%25center%25''Moon's Grace''%0aWolf-Blooded (and mortal) characters that have access to renown, gifts, and rites through the Moon's Grace pack merit do ''not'' get any rites, renown, or unlocked gifts for free, and they do not have any "affinity" for any gift lists. %0a%0aThey do, however, gain free facets for unlocking gifts or raising renown (including the first dot); they may bank these for future use, early on, when they'd have more unlocks than potential gifts to use them on. %0a%0a[[#to1]]%0a%0a%0a!!%25center%25%25werewolf%25'''Custom Items and Powers'''%25%25%0a%0a(:include GameRef.CustomItemsAndPowers#from2#to2:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include GameRef.Directoryhelp:)%0a
-time=1644276216
+text=https://i.imgur.com/WTCZurQ.png%0a(:include GameRef.Directorywerewolf:)%0a----%0a!%25center%25https://i.imgur.com/XYhnkYC.png%0a----%0a%0a%25center%25''Like most animals, we spent a large part of our lives engaged in'' \\%0a%25center%25''the three Fs of basic survival. Feeding, fighting and-... reproduction.'' \\%0a%25center%25- '''Kelly Armstrong, Stolen''' - \\%0a%0a(:toc:)%0a[[#top]]%0a%0a!!%25center%25%25werewolf%25'''Werewolf House Rules and Clarifications'''%25%25%0a[[#from1]]%0a!!!%25center%25''Packs''%0a%0aSee [[GameRef.Cult System|Pack system]] for rules on creating Packs.%0a%0aTo clarify, the Primal Instincts Tell is required for Wolf-Blooded to participate in Pack Tactics. Non-Werewolves otherwise cannot do so.%0a%0a!!!%25center%25''Wolf-Blooded''%0a%0a!!!!Wolf-Blooded Changing to Another Template%0aFormer Wolf-Blooded characters retain ONE tell when changing into anything besides a Werewolf. Any additional Tells purchased are lost with all other Wolf-Blooded merits.%0a%0a!!!%25center%25''Moon's Grace''%0aWolf-Blooded (and mortal) characters that have access to renown, gifts, and rites through the Moon's Grace pack merit do ''not'' get any rites, renown, or unlocked gifts for free, and they do not have any "affinity" for any gift lists. %0a%0aThey do, however, gain free facets for unlocking gifts or raising renown (including the first dot); they may bank these for future use, early on, when they'd have more unlocks than potential gifts to use them on. %0a%0a[[#to1]]%0a%0a%0a!!%25center%25%25werewolf%25'''Custom Items and Powers'''%25%25%0a%0a(:include GameRef.CustomItemsAndPowers#from2#to2:)%0a%0a%25right%25[[#top|&#8593; back to top]]%0a%0a(:include GameRef.Directoryhelp:)%0a
+time=1646231175
+author:1646231175=TrishD
+diff:1646231175:1644276216:minor=1c1%0a%3c https://i.imgur.com/WTCZurQ.png%0a---%0a> https://i.imgur.com/LB7p3ja.png%0a
+host:1646231175=174.216.81.119
 author:1644276216=Falco1029
 diff:1644276216:1644276197:=18c18%0a%3c See [[GameRef.Cult System|Pack system]] for rules on creating Packs.%0a---%0a> See [[GameRef.Cult System]] for rules on creating Packs.%0a
 host:1644276216=173.46.225.202
